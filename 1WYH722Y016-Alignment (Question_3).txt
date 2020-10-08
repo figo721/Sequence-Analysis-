@@ -1,0 +1,2308 @@
+BLASTX 2.10.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: 1WYH722Y016
+
+
+Database: All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects
+           251,406,437 sequences; 90,675,456,348 total letters
+Query= DinoDNA  "Dinosaur DNA" from Crichton THE LOST WORLD  p. 135
+
+Length=1435
+
+
+                                                                   Score     E      Max
+Sequences producing significant alignments:                       (Bits)  Value   Ident
+
+NP_990795.1 erythroid transcription factor [Gallus gallus]         348     3e-114  96%         
+XP_030330160.1 erythroid transcription factor [Strigops habrop...  228     8e-67   64%         
+TRZ09635.1 hypothetical protein HGM15179_017468 [Zosterops bor...  224     4e-66   63%         
+XP_030116285.1 erythroid transcription factor [Taeniopygia gut...  220     6e-65   64%         
+XP_021410409.1 erythroid transcription factor-like [Lonchura s...  217     3e-64   63%         
+XP_014117351.1 PREDICTED: erythroid transcription factor isofo...  214     3e-62   65%         
+XP_018860987.1 PREDICTED: erythroid transcription factor isofo...  213     4e-62   65%         
+XP_018860986.1 PREDICTED: erythroid transcription factor isofo...  213     1e-61   65%         
+XP_030826123.1 erythroid transcription factor [Camarhynchus pa...  200     5e-56   85%         
+XP_019352182.1 PREDICTED: erythroid transcription factor [Alli...  200     6e-56   82%         
+XP_025069504.1 LOW QUALITY PROTEIN: erythroid transcription fa...  199     7e-56   82%         
+XP_007422274.1 erythroid transcription factor [Python bivittatus]  199     3e-55   60%         
+XP_015670436.1 erythroid transcription factor [Protobothrops m...  198     5e-55   60%         
+XP_013931011.1 PREDICTED: erythroid transcription factor [Tham...  198     6e-55   59%         
+XP_026567229.1 erythroid transcription factor [Pseudonaja text...  198     6e-55   60%         
+ETE70963.1 Erythroid transcription factor [Ophiophagus hannah]     197     7e-55   60%         
+XP_020375697.1 GATA-binding factor 2-like [Rhincodon typus]        200     8e-55   80%         
+XP_026532087.1 erythroid transcription factor [Notechis scutatus]  197     1e-54   60%         
+XP_028569003.1 erythroid transcription factor [Podarcis muralis]   197     1e-54   59%         
+XP_023967998.1 erythroid transcription factor isoform X2 [Chry...  199     2e-54   81%         
+XP_020448633.1 endothelial transcription factor GATA-2-like [M...  197     4e-54   78%         
+KYO28252.1 erythroid transcription factor [Alligator mississip...  199     4e-54   82%         
+XP_029357956.1 GATA-binding factor 2-like [Echeneis naucrates]     196     7e-54   78%         
+XP_030584329.1 GATA-binding factor 2-like [Archocentrus centra...  196     9e-54   78%         
+XP_030640748.1 GATA-binding factor 2-like [Chanos chanos]          195     2e-53   79%         
+XP_026857676.1 erythroid transcription factor-like [Electropho...  194     3e-53   79%         
+XP_029007024.1 GATA-binding factor 1-A-like [Betta splendens]      194     4e-53   79%         
+XP_020791521.1 GATA-binding factor 2-like [Boleophthalmus pect...  193     6e-53   78%         
+CAF96874.1 unnamed protein product [Tetraodon nigroviridis]        186     6e-53   77%         
+XP_008291690.1 PREDICTED: erythroid transcription factor-like ...  194     6e-53   79%         
+KAF0035297.1 hypothetical protein F2P81_013055 [Scophthalmus m...  192     7e-53   78%         
+XP_026205876.1 GATA-binding factor 2-like [Anabas testudineus]     193     9e-53   78%         
+XP_023134097.1 GATA-binding factor 2-like [Amphiprion ocellaris]   193     1e-52   78%         
+XP_030274503.1 GATA-binding factor 2-like [Sparus aurata]          193     1e-52   78%         
+XP_020489527.1 GATA-binding factor 2-like isoform X2 [Labrus b...  193     1e-52   78%         
+TMS19740.1 hypothetical protein E3U43_004061 [Larimichthys cro...  192     1e-52   78%         
+XP_018535503.1 PREDICTED: LOW QUALITY PROTEIN: endothelial tra...  193     1e-52   78%         
+XP_022045002.1 GATA-binding factor 2-like [Acanthochromis poly...  193     1e-52   78%         
+XP_029948149.1 GATA-binding factor 1-B-like isoform X1 [Salari...  193     1e-52   78%         
+XP_029948150.1 endothelial transcription factor GATA-2-like is...  192     2e-52   78%         
+XP_022600702.1 endothelial transcription factor GATA-2-like [S...  193     2e-52   78%         
+XP_023254763.1 endothelial transcription factor GATA-2-like [S...  193     2e-52   78%         
+XP_017574635.1 PREDICTED: GATA-binding factor 2-like [Pygocent...  192     2e-52   78%         
+XP_015815498.1 PREDICTED: GATA-binding factor 2-like [Nothobra...  192     2e-52   78%         
+XP_004571968.2 GATA-binding factor 2 [Maylandia zebra]             192     2e-52   78%         
+XP_026024593.1 GATA-binding factor 2-like [Astatotilapia calli...  192     2e-52   78%         
+XP_005746434.1 PREDICTED: GATA-binding factor 2-like [Pundamil...  192     2e-52   78%         
+XP_010754276.3 endothelial transcription factor GATA-2 [Larimi...  192     2e-52   78%         
+XP_005915348.1 PREDICTED: GATA-binding factor 2-like [Haplochr...  192     2e-52   78%         
+XP_003442682.1 GATA-binding factor 2 [Oreochromis niloticus]       192     2e-52   78%         
+XP_026163469.1 GATA-binding factor 1-A-like [Mastacembelus arm...  192     2e-52   78%         
+XP_023967997.1 erythroid transcription factor isoform X1 [Chry...  198     2e-52   61%         
+XP_028263125.1 endothelial transcription factor GATA-2-like [P...  192     2e-52   78%         
+XP_031588887.1 GATA-binding factor 2-like [Oreochromis aureus]     192     3e-52   78%         
+XP_006784771.1 PREDICTED: GATA-binding factor 2-like isoform X...  192     3e-52   78%         
+XP_022537879.1 LOW QUALITY PROTEIN: erythroid transcription fa...  191     3e-52   78%         
+XP_029989649.1 GATA-binding factor 1-B-like [Sphaeramia orbicu...  192     4e-52   78%         
+XP_007882951.1 PREDICTED: GATA-binding factor 1-A-like [Callor...  191     6e-52   78%         
+XP_029908229.1 erythroid transcription factor-like [Myripristi...  191     1e-51   78%         
+XP_003216904.1 PREDICTED: erythroid transcription factor [Anol...  186     2e-50   78%         
+pir|B48099| transcription factor GATA-2, retinoic acid-inducib...  176     1e-49   74%         
+XP_007507746.1 PREDICTED: erythroid transcription factor-like ...  179     2e-48   78%         
+XP_020832087.1 erythroid transcription factor isoform X2 [Phas...  178     3e-48   79%         
+XP_027696996.1 erythroid transcription factor [Vombatus ursinus]   180     4e-48   79%         
+XP_001372037.1 PREDICTED: erythroid transcription factor-like ...  179     9e-48   78%         
+XP_020832085.1 erythroid transcription factor isoform X1 [Phas...  179     1e-47   79%         
+EGW06105.1 Erythroid transcription factor [Cricetulus griseus]     177     2e-47   79%         
+XP_031800629.1 erythroid transcription factor isoform X2 [Sarc...  179     2e-47   79%         
+XP_024308131.1 erythroid transcription factor isoform X3 [Homo...  176     4e-47   78%         
+XP_003505150.1 erythroid transcription factor [Cricetulus gris...  178     4e-47   79%         
+NP_036896.1 erythroid transcription factor [Rattus norvegicus]     178     4e-47   78%         
+XP_005868065.1 PREDICTED: erythroid transcription factor, part...  176     4e-47   78%         
+EPQ08830.1 Erythroid transcription factor [Myotis brandtii]        176     5e-47   78%         
+XP_005411336.1 PREDICTED: erythroid transcription factor isofo...  177     5e-47   78%         
+XP_028923607.1 erythroid transcription factor [Ornithorhynchus...  177     5e-47   58%         
+XP_005641387.1 erythroid transcription factor isoform X2 [Cani...  176     5e-47   78%         
+XP_012979937.1 erythroid transcription factor [Mesocricetus au...  177     6e-47   79%         
+XP_008840773.1 erythroid transcription factor [Nannospalax gal...  177     7e-47   79%         
+XP_021514293.1 erythroid transcription factor [Meriones unguic...  177     7e-47   79%         
+XP_031800632.1 erythroid transcription factor isoform X5 [Sarc...  175     7e-47   78%         
+ELK33920.1 Erythroid transcription factor [Myotis davidii]         177     8e-47   78%         
+XP_017379365.1 PREDICTED: erythroid transcription factor [Cebu...  177     8e-47   78%         
+XP_002719945.1 PREDICTED: erythroid transcription factor [Oryc...  177     8e-47   78%         
+VTJ65178.1 Hypothetical predicted protein [Marmota monax]          176     9e-47   79%         
+XP_028737154.1 erythroid transcription factor [Peromyscus leuc...  177     9e-47   79%         
+XP_015846098.1 PREDICTED: erythroid transcription factor [Pero...  177     1e-46   79%         
+XP_006922813.1 erythroid transcription factor [Pteropus alecto]    177     1e-46   78%         
+XP_010359390.1 erythroid transcription factor [Rhinopithecus r...  177     1e-46   78%         
+XP_010596008.2 LOW QUALITY PROTEIN: erythroid transcription fa...  177     1e-46   78%         
+XP_011384533.1 erythroid transcription factor [Pteropus vampyrus]  177     1e-46   78%         
+XP_014982859.2 erythroid transcription factor [Macaca mulatta]     177     1e-46   78%         
+XP_012327121.1 erythroid transcription factor [Aotus nancymaae]    177     1e-46   78%         
+XP_005338712.1 erythroid transcription factor [Ictidomys tride...  177     1e-46   78%         
+XP_006902971.1 PREDICTED: erythroid transcription factor [Elep...  177     1e-46   78%         
+XP_011802099.1 PREDICTED: erythroid transcription factor [Colo...  177     1e-46   78%         
+XP_005352864.1 erythroid transcription factor [Microtus ochrog...  177     1e-46   79%         
+XP_010604671.1 PREDICTED: erythroid transcription factor [Fuko...  177     1e-46   78%         
+XP_003917725.1 erythroid transcription factor [Papio anubis]       177     1e-46   78%         
+XP_003939593.1 PREDICTED: erythroid transcription factor [Saim...  177     1e-46   78%         
+AAH52653.1 GATA binding protein 1 [Mus musculus]                   177     1e-46   78%         
+
+ALIGNMENTS
+>NP_990795.1 erythroid transcription factor [Gallus gallus]
+ P17678.1 RecName: Full=Erythroid transcription factor; AltName: Full=Eryf1; 
+AltName: Full=GATA-binding factor 1; Short=GATA-1; AltName: 
+Full=NF-E1 DNA-binding protein; Short=NF-E1a [Gallus gallus]
+ AAA49055.1 Eryf1 protein [Gallus gallus]
+Length=304
+
+ Score = 348 bits (893),  Expect = 3e-114, Method: Compositional matrix adjust.
+ Identities = 304/318 (96%), Positives = 304/318 (96%), Gaps = 14/318 (4%)
+ Frame = +1
+
+Query  121   MEFVALGGPDAGSPTPFPDeagaflglgggerteaggllaSYPPSGRVSLVPWADTGTLG  300
+             MEFVALGGPDAGSPTPFPDEAGAFLGLGGGERTEAGGLLASYPPSGRVSLVPWADTGTLG
+Sbjct  1     MEFVALGGPDAGSPTPFPDEAGAFLGLGGGERTEAGGLLASYPPSGRVSLVPWADTGTLG  60
+
+Query  301   TPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssgpppCEARECVMARKNCGAT  480
+             TPQWVPPATQMEPPHYLELLQPPRGSPPHPSSGPLLPLSSGPPPCEARECV    NCGAT
+Sbjct  61    TPQWVPPATQMEPPHYLELLQPPRGSPPHPSSGPLLPLSSGPPPCEARECV----NCGAT  116
+
+Query  481   ATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCSHERENCQT  660
+             ATPLWRRDGTGHYLCN   ACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCS    NCQT
+Sbjct  117   ATPLWRRDGTGHYLCN---ACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCS----NCQT  169
+
+Query  661   STTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTRNRKVsskgkkrrppg  840
+             STTTLWRRSPMGDPVCN   ACGLYYKLHQVNRPLTMRKDGIQTRNRKVSSKGKKRRPPG
+Sbjct  170   STTTLWRRSPMGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQTRNRKVSSKGKKRRPPG  226
+
+Query  841   ggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPVVLSGHFLPfgnsggf  1020
+             GGNPSATAGGGAPMGGGGDPSMPPPPPPPAAAPPQSDALYALGPVVLSGHFLPFGNSGGF
+Sbjct  227   GGNPSATAGGGAPMGGGGDPSMPPPPPPPAAAPPQSDALYALGPVVLSGHFLPFGNSGGF  286
+
+Query  1021  fgggaggYTAPPGLSPQI  1074
+             FGGGAGGYTAPPGLSPQI
+Sbjct  287   FGGGAGGYTAPPGLSPQI  304
+
+
+>XP_030330160.1 erythroid transcription factor [Strigops habroptila]
+Length=352
+
+ Score = 228 bits (581),  Expect = 8e-67, Method: Compositional matrix adjust.
+ Identities = 188/293 (64%), Positives = 198/293 (68%), Gaps = 27/293 (9%)
+ Frame = +1
+
+Query  121  MEFVALGGPDAGSPTPFPDeagaflglgggerteaggllaSYPPSGRVSLVPWADTGTLG  300
+            M+ VALGGP+ G P PF DEAGAFLGLGG E  EAGGLLA YPP GR+SLVPWA+ G+LG
+Sbjct  55   MDLVALGGPE-GVP-PFGDEAGAFLGLGGAEGLEAGGLLAPYPPPGRLSLVPWAEGGSLG  112
+
+Query  301  TPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssgpppCEARECVMARKNCGAT  480
+             P W  P  +     +LELLQPPRGSPP P              CEARECV    NCGAT
+Sbjct  113  GPPWAAPPPEPP--RFLELLQPPRGSPPPPGPLLPPSAPQP---CEARECV----NCGAT  163
+
+Query  481  ATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCSHERENCQT  660
+            ATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSKRAGTVCS    NCQT
+Sbjct  164  ATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSKRAGTVCS----NCQT  216
+
+Query  661  STTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTRNRKVsskgkkrrppg  840
+            STTTLWRRSP GDPVCN   ACGLYYKLH+VNRPL MRKDGIQTRNRKV           
+Sbjct  217  STTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLAMRKDGIQTRNRKV------SAKGK  267
+
+Query  841  ggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPVVLSGHFLP  999
+                   +  G            PPP PP   P    ALYALGP+VLSGH LP
+Sbjct  268  KRRQGGGSSTGGLGAEAMGGPPLPPPAPPQPPPEDPAALYALGPLVLSGHLLP  320
+
+
+>TRZ09635.1 hypothetical protein HGM15179_017468 [Zosterops borbonicus]
+Length=294
+
+ Score = 224 bits (572),  Expect = 4e-66, Method: Compositional matrix adjust.
+ Identities = 158/252 (63%), Positives = 166/252 (66%), Gaps = 28/252 (11%)
+ Frame = +1
+
+Query  244  YPPSGRVSLVPWADTGTLGTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssg  423
+            YPP GR+SLV W D G+LG P W PP  +     +LELLQPPR  PP     P  P    
+Sbjct  40   YPPPGRLSLVSWPDGGSLGGPSWTPPPPEPP--QFLELLQPPRSPPPPGPLLPPAPPP--  95
+
+Query  424  pppCEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRL  603
+               CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRL
+Sbjct  96   ---CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRL  145
+
+Query  604  LVSKRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDG  783
+            LVSKRAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDG
+Sbjct  146  LVSKRAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDG  198
+
+Query  784  IQTRNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYA  963
+            IQTRNRKV          G         G   +         PPP PP   P    AL+A
+Sbjct  199  IQTRNRKV-------SAKGKKRRQGGGAGPGGVPETSAGPPLPPPAPPQPPPEDPAALFA  251
+
+Query  964  LGPVVLSGHFLP  999
+            LGP+VLSGH LP
+Sbjct  252  LGPLVLSGHLLP  263
+
+
+>XP_030116285.1 erythroid transcription factor [Taeniopygia guttata]
+Length=253
+
+ Score = 220 bits (560),  Expect = 6e-65, Method: Compositional matrix adjust.
+ Identities = 137/213 (64%), Positives = 143/213 (67%), Gaps = 22/213 (10%)
+ Frame = +1
+
+Query  436   EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+             EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSK
+Sbjct  63    EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSK  115
+
+Query  616   RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+             RAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTR
+Sbjct  116   RAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTR  168
+
+Query  796   NRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPV  975
+             NRKV          G         G   +         PPP PP   P    AL+ALGP+
+Sbjct  169   NRKV-------SAKGKKRRQGGGAGPGGVPETSAGPPLPPPAPPQPPPEDPAALFALGPL  221
+
+Query  976   VLSGHFLPfgnsggffgggaggYTAPPGLSPQI  1074
+             VLSGH LP            G + APPGLSPQ+
+Sbjct  222   VLSGHLLP-FPPTPAGPFLGGDFAAPPGLSPQL  253
+
+
+>XP_021410409.1 erythroid transcription factor-like, partial [Lonchura striata 
+domestica]
+Length=220
+
+ Score = 217 bits (553),  Expect = 3e-64, Method: Compositional matrix adjust.
+ Identities = 138/220 (63%), Positives = 144/220 (65%), Gaps = 27/220 (12%)
+ Frame = +1
+
+Query  433   CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+             CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVS
+Sbjct  22    CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVS  74
+
+Query  613   KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+             KRAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQT
+Sbjct  75    KRAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQT  127
+
+Query  793   RNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGP  972
+             RNRKV          G         G   +         PPP PP   P    AL+ALGP
+Sbjct  128   RNRKV-------SAKGKKRRQGGGAGPGGVPESSAGPPLPPPAPPQPLPEDPAALFALGP  180
+
+Query  973   VVLSGHFLPfgnsggff------gggaggYTAPPGLSPQI  1074
+             +VLSGH LPF  +              G   APPGL PQ+
+Sbjct  181   LVLSGHLLPFPPAPAGPFLGGDFAVPPGPVAAPPGLGPQL  220
+
+
+>XP_014117351.1 PREDICTED: erythroid transcription factor isoform X1 [Pseudopodoces 
+humilis]
+Length=279
+
+ Score = 214 bits (544),  Expect = 3e-62, Method: Compositional matrix adjust.
+ Identities = 143/220 (65%), Positives = 149/220 (68%), Gaps = 28/220 (13%)
+ Frame = +1
+
+Query  436   EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+             EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSK
+Sbjct  81    EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSK  133
+
+Query  616   RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+             RAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTR
+Sbjct  134   RAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTR  186
+
+Query  796   NRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPV  975
+             NRKV          G     A   G   +         PPP PP   P    AL+ALGP+
+Sbjct  187   NRKV-------SAKGKKRRQAGGAGPGGVPETSMGPPLPPPAPPQPPPEDPAALFALGPL  239
+
+Query  976   VLSGHFLPfgnsggffgggaggY-------TAPPGLSPQI  1074
+             VLSGH LPF  +G F GG    Y        APPGLSPQ+
+Sbjct  240   VLSGHLLPFPPAGPFLGGPGSAYAAPPAPAAAPPGLSPQL  279
+
+
+>XP_018860987.1 PREDICTED: erythroid transcription factor isoform X2 [Parus major]
+Length=279
+
+ Score = 213 bits (543),  Expect = 4e-62, Method: Compositional matrix adjust.
+ Identities = 143/220 (65%), Positives = 149/220 (68%), Gaps = 28/220 (13%)
+ Frame = +1
+
+Query  436   EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+             EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSK
+Sbjct  81    EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSK  133
+
+Query  616   RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+             RAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTR
+Sbjct  134   RAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTR  186
+
+Query  796   NRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPV  975
+             NRKV          G     A   G   +         PPP PP   P    AL+ALGP+
+Sbjct  187   NRKV-------SAKGKKRRQAGGAGPGGVPETSMGPPLPPPAPPQPPPEDPAALFALGPL  239
+
+Query  976   VLSGHFLPfgnsggffgggaggY-------TAPPGLSPQI  1074
+             VLSGH LPF  +G F GG    Y        APPGLSPQ+
+Sbjct  240   VLSGHLLPFPPAGPFLGGPGSAYAAPPAPAAAPPGLSPQL  279
+
+
+>XP_018860986.1 PREDICTED: erythroid transcription factor isoform X1 [Parus major]
+Length=287
+
+ Score = 213 bits (541),  Expect = 1e-61, Method: Compositional matrix adjust.
+ Identities = 143/220 (65%), Positives = 149/220 (68%), Gaps = 28/220 (13%)
+ Frame = +1
+
+Query  436   EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+             EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSK
+Sbjct  89    EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSK  141
+
+Query  616   RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+             RAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTR
+Sbjct  142   RAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTR  194
+
+Query  796   NRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPV  975
+             NRKV          G     A   G   +         PPP PP   P    AL+ALGP+
+Sbjct  195   NRKV-------SAKGKKRRQAGGAGPGGVPETSMGPPLPPPAPPQPPPEDPAALFALGPL  247
+
+Query  976   VLSGHFLPfgnsggffgggaggY-------TAPPGLSPQI  1074
+             VLSGH LPF  +G F GG    Y        APPGLSPQ+
+Sbjct  248   VLSGHLLPFPPAGPFLGGPGSAYAAPPAPAAAPPGLSPQL  287
+
+
+>XP_030826123.1 erythroid transcription factor [Camarhynchus parvulus]
+Length=354
+
+ Score = 200 bits (508),  Expect = 5e-56, Method: Compositional matrix adjust.
+ Identities = 105/124 (85%), Positives = 108/124 (87%), Gaps = 14/124 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            +ARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSK
+Sbjct  157  QARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSK  209
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGTVCS    NCQTSTTTLWRRSP G+PVCN   ACGLYYKLH+VNRPLTMRKDGIQTR
+Sbjct  210  RAGTVCS----NCQTSTTTLWRRSPRGEPVCN---ACGLYYKLHRVNRPLTMRKDGIQTR  262
+
+Query  796  NRKV  807
+            NRKV
+Sbjct  263  NRKV  266
+
+
+>XP_019352182.1 PREDICTED: erythroid transcription factor [Alligator mississippiensis]
+Length=355
+
+ Score = 200 bits (508),  Expect = 6e-56, Method: Compositional matrix adjust.
+ Identities = 102/125 (82%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHR+NG NRPLIRPKKRL+VS
+Sbjct  171  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRVNGANRPLIRPKKRLVVS  223
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQT+TTTLWRR P G PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  224  KRAGTQCS----NCQTTTTTLWRRDPRGQPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  276
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  277  RNRKV  281
+
+
+>XP_025069504.1 LOW QUALITY PROTEIN: erythroid transcription factor [Alligator 
+sinensis]
+Length=323
+
+ Score = 199 bits (505),  Expect = 7e-56, Method: Compositional matrix adjust.
+ Identities = 102/125 (82%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHR+NG NRPLIRPKKRL+VS
+Sbjct  139  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRVNGANRPLIRPKKRLVVS  191
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQT+TTTLWRR P G PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  192  KRAGTQCS----NCQTTTTTLWRRDPRGQPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  244
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  245  RNRKV  249
+
+
+>XP_007422274.1 erythroid transcription factor [Python bivittatus]
+ XP_025032629.1 erythroid transcription factor [Python bivittatus]
+ XP_025032634.1 erythroid transcription factor [Python bivittatus]
+ XP_025032642.1 erythroid transcription factor [Python bivittatus]
+Length=380
+
+ Score = 199 bits (505),  Expect = 3e-55, Method: Compositional matrix adjust.
+ Identities = 112/188 (60%), Positives = 126/188 (67%), Gaps = 26/188 (14%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  186  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  238
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPL MRKDGIQTR
+Sbjct  239  RAGTQCS----NCQTTTTTLWRRNMNGEPVCN---ACGLYYKLHNVNRPLAMRKDGIQTR  291
+
+Query  796  NRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPV  975
+            NRKV             +  +    G         + P    P +    ++ ALY L P+
+Sbjct  292  NRKV------------SSAKSKKRKGNSGEATIAATTPLEMMPSSLMGEEAAALYPLSPM  339
+
+Query  976  VLSGHFLP  999
+            +L GH LP
+Sbjct  340  MLPGHLLP  347
+
+
+>XP_015670436.1 erythroid transcription factor [Protobothrops mucrosquamatus]
+Length=380
+
+ Score = 198 bits (503),  Expect = 5e-55, Method: Compositional matrix adjust.
+ Identities = 112/188 (60%), Positives = 126/188 (67%), Gaps = 26/188 (14%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  186  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  238
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPL MRKDGIQTR
+Sbjct  239  RAGTQCS----NCQTTTTTLWRRNMNGEPVCN---ACGLYYKLHNVNRPLAMRKDGIQTR  291
+
+Query  796  NRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPV  975
+            NRKV             +  +    G         + P    P +    ++ ALY L P+
+Sbjct  292  NRKV------------SSAKSKKRKGNSGEATMPANTPLEMMPSSLLGEEAAALYPLNPM  339
+
+Query  976  VLSGHFLP  999
+            +L GH LP
+Sbjct  340  MLPGHLLP  347
+
+
+>XP_013931011.1 PREDICTED: erythroid transcription factor [Thamnophis sirtalis]
+Length=380
+
+ Score = 198 bits (503),  Expect = 6e-55, Method: Compositional matrix adjust.
+ Identities = 111/188 (59%), Positives = 125/188 (66%), Gaps = 26/188 (14%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  186  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  238
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPL MRKDGIQTR
+Sbjct  239  RAGTQCS----NCQTTTTTLWRRNMNGEPVCN---ACGLYYKLHNVNRPLAMRKDGIQTR  291
+
+Query  796  NRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPV  975
+            NRKV             +  +    G         +      P +    ++ ALY L P+
+Sbjct  292  NRKV------------SSAKSKKRKGNSGETAIPANTSLEMMPSSLMGEEAAALYPLSPM  339
+
+Query  976  VLSGHFLP  999
+            +L GH LP
+Sbjct  340  MLPGHLLP  347
+
+
+>XP_026567229.1 erythroid transcription factor [Pseudonaja textilis]
+ XP_026567230.1 erythroid transcription factor [Pseudonaja textilis]
+ XP_026567232.1 erythroid transcription factor [Pseudonaja textilis]
+Length=380
+
+ Score = 198 bits (503),  Expect = 6e-55, Method: Compositional matrix adjust.
+ Identities = 112/188 (60%), Positives = 126/188 (67%), Gaps = 26/188 (14%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  186  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  238
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPL MRKDGIQTR
+Sbjct  239  RAGTQCS----NCQTTTTTLWRRNMNGEPVCN---ACGLYYKLHNVNRPLAMRKDGIQTR  291
+
+Query  796  NRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPV  975
+            NRKV             +  +    G         + P    P +    ++ ALY L P+
+Sbjct  292  NRKV------------SSTKSKKRKGNSGETTIPANTPLEMMPSSLMGEEAAALYPLSPM  339
+
+Query  976  VLSGHFLP  999
+            +L GH LP
+Sbjct  340  MLPGHLLP  347
+
+
+>ETE70963.1 Erythroid transcription factor, partial [Ophiophagus hannah]
+Length=380
+
+ Score = 197 bits (502),  Expect = 7e-55, Method: Compositional matrix adjust.
+ Identities = 112/188 (60%), Positives = 126/188 (67%), Gaps = 26/188 (14%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  186  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  238
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPL MRKDGIQTR
+Sbjct  239  RAGTQCS----NCQTTTTTLWRRNMNGEPVCN---ACGLYYKLHNVNRPLAMRKDGIQTR  291
+
+Query  796  NRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPV  975
+            NRKV             +  +    G         + P    P +    ++ ALY L P+
+Sbjct  292  NRKV------------SSAKSKKRKGNSGETIIPANTPLEMMPSSLMGEEAAALYPLSPM  339
+
+Query  976  VLSGHFLP  999
+            +L GH LP
+Sbjct  340  MLPGHLLP  347
+
+
+>XP_020375697.1 GATA-binding factor 2-like [Rhincodon typus]
+Length=463
+
+ Score = 200 bits (508),  Expect = 8e-55, Method: Compositional matrix adjust.
+ Identities = 100/125 (80%), Positives = 106/125 (85%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  273  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  325
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C+    NC TSTTTLWRR+  GDPVCN   ACGLYYKLH VNRPLTM+KDGIQT
+Sbjct  326  KRAGTQCA----NCHTSTTTLWRRNINGDPVCN---ACGLYYKLHHVNRPLTMKKDGIQT  378
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  379  RNRKV  383
+
+
+>XP_026532087.1 erythroid transcription factor [Notechis scutatus]
+ XP_026532088.1 erythroid transcription factor [Notechis scutatus]
+ XP_026532089.1 erythroid transcription factor [Notechis scutatus]
+Length=380
+
+ Score = 197 bits (502),  Expect = 1e-54, Method: Compositional matrix adjust.
+ Identities = 112/188 (60%), Positives = 126/188 (67%), Gaps = 26/188 (14%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  186  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  238
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPL MRKDGIQTR
+Sbjct  239  RAGTQCS----NCQTTTTTLWRRNMNGEPVCN---ACGLYYKLHNVNRPLAMRKDGIQTR  291
+
+Query  796  NRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPV  975
+            NRKV             +  +    G         + P    P +    ++ ALY L P+
+Sbjct  292  NRKV------------SSTKSKKRKGNSGETTIPANTPLEMMPSSLMGEEAAALYPLSPM  339
+
+Query  976  VLSGHFLP  999
+            +L GH LP
+Sbjct  340  MLPGHLLP  347
+
+
+>XP_028569003.1 erythroid transcription factor [Podarcis muralis]
+ XP_028569004.1 erythroid transcription factor [Podarcis muralis]
+ XP_028569005.1 erythroid transcription factor [Podarcis muralis]
+ XP_028569006.1 erythroid transcription factor [Podarcis muralis]
+ XP_028569008.1 erythroid transcription factor [Podarcis muralis]
+Length=380
+
+ Score = 197 bits (500),  Expect = 1e-54, Method: Compositional matrix adjust.
+ Identities = 111/188 (59%), Positives = 124/188 (66%), Gaps = 26/188 (14%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  186  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  238
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLY+KLH VNRPL MRKDGIQTR
+Sbjct  239  RAGTQCS----NCQTTTTTLWRRNVNGEPVCN---ACGLYFKLHNVNRPLAMRKDGIQTR  291
+
+Query  796  NRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPV  975
+            NRKV             +  +    G           P    P      ++ ALY L P+
+Sbjct  292  NRKV------------SSAKSKKRKGNSGEAAMSTPTPLELMPAPLMGEEAAALYTLSPM  339
+
+Query  976  VLSGHFLP  999
+            +L GH LP
+Sbjct  340  MLPGHLLP  347
+
+
+>XP_023967998.1 erythroid transcription factor isoform X2 [Chrysemys picta bellii]
+ XP_023967999.1 erythroid transcription factor isoform X2 [Chrysemys picta bellii]
+Length=455
+
+ Score = 199 bits (506),  Expect = 2e-54, Method: Compositional matrix adjust.
+ Identities = 101/125 (81%), Positives = 107/125 (86%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  186  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  238
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  239  KRAGTQCS----NCQTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  291
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  292  RNRKV  296
+
+
+>XP_020448633.1 endothelial transcription factor GATA-2-like [Monopterus albus]
+Length=422
+
+ Score = 197 bits (500),  Expect = 4e-54, Method: Compositional matrix adjust.
+ Identities = 97/124 (78%), Positives = 106/124 (85%), Gaps = 14/124 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  238  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  290
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  291  RAGTLCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  343
+
+Query  796  NRKV  807
+            NRKV
+Sbjct  344  NRKV  347
+
+
+>KYO28252.1 erythroid transcription factor [Alligator mississippiensis]
+Length=485
+
+ Score = 199 bits (505),  Expect = 4e-54, Method: Compositional matrix adjust.
+ Identities = 102/125 (82%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHR+NG NRPLIRPKKRL+VS
+Sbjct  221  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRVNGANRPLIRPKKRLVVS  273
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQT+TTTLWRR P G PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  274  KRAGTQCS----NCQTTTTTLWRRDPRGQPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  326
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  327  RNRKV  331
+
+
+>XP_029357956.1 GATA-binding factor 2-like [Echeneis naucrates]
+Length=423
+
+ Score = 196 bits (499),  Expect = 7e-54, Method: Compositional matrix adjust.
+ Identities = 97/124 (78%), Positives = 106/124 (85%), Gaps = 14/124 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  238  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  290
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  291  RAGTMCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  343
+
+Query  796  NRKV  807
+            NRKV
+Sbjct  344  NRKV  347
+
+
+>XP_030584329.1 GATA-binding factor 2-like [Archocentrus centrarchus]
+Length=425
+
+ Score = 196 bits (498),  Expect = 9e-54, Method: Compositional matrix adjust.
+ Identities = 97/124 (78%), Positives = 106/124 (85%), Gaps = 14/124 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  240  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  292
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  293  RAGTLCA----NCHTSTTTLWRRNSNGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  345
+
+Query  796  NRKV  807
+            NRKV
+Sbjct  346  NRKV  349
+
+
+>XP_030640748.1 GATA-binding factor 2-like [Chanos chanos]
+Length=409
+
+ Score = 195 bits (495),  Expect = 2e-53, Method: Compositional matrix adjust.
+ Identities = 98/124 (79%), Positives = 106/124 (85%), Gaps = 14/124 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  229  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  281
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT C+    NCQTSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  282  RAGTQCA----NCQTSTTTLWRRNASGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  334
+
+Query  796  NRKV  807
+            NRKV
+Sbjct  335  NRKV  338
+
+
+>XP_026857676.1 erythroid transcription factor-like [Electrophorus electricus]
+Length=415
+
+ Score = 194 bits (494),  Expect = 3e-53, Method: Compositional matrix adjust.
+ Identities = 98/124 (79%), Positives = 106/124 (85%), Gaps = 14/124 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  237  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  289
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT C+    NCQTSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  290  RAGTQCA----NCQTSTTTLWRRNASGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  342
+
+Query  796  NRKV  807
+            NRKV
+Sbjct  343  NRKV  346
+
+
+>XP_029007024.1 GATA-binding factor 1-A-like [Betta splendens]
+Length=422
+
+ Score = 194 bits (494),  Expect = 4e-53, Method: Compositional matrix adjust.
+ Identities = 96/122 (79%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  238  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  290
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGTVC+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  291  RAGTVCA----NCHTSTTTLWRRNASGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  343
+
+Query  796  NR  801
+            NR
+Sbjct  344  NR  345
+
+
+>XP_020791521.1 GATA-binding factor 2-like [Boleophthalmus pectinirostris]
+Length=405
+
+ Score = 193 bits (491),  Expect = 6e-53, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  221  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  273
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  274  RAGTICA----NCHTSTTTLWRRNSNGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  326
+
+Query  796  NR  801
+            NR
+Sbjct  327  NR  328
+
+
+>CAF96874.1 unnamed protein product, partial [Tetraodon nigroviridis]
+Length=190
+
+ Score = 186 bits (473),  Expect = 6e-53, Method: Compositional matrix adjust.
+ Identities = 94/122 (77%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  2    EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  54
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+K+GIQTR
+Sbjct  55   RAGTLCA----NCHTSTTTLWRRNASGEPVCN---ACGLYFKLHNVNRPLTMKKEGIQTR  107
+
+Query  796  NR  801
+            NR
+Sbjct  108  NR  109
+
+
+>XP_008291690.1 PREDICTED: erythroid transcription factor-like [Stegastes partitus]
+Length=425
+
+ Score = 194 bits (492),  Expect = 6e-53, Method: Compositional matrix adjust.
+ Identities = 96/122 (79%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  240  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  292
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTM+KDGIQTR
+Sbjct  293  RAGTLCA----NCHTSTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMKKDGIQTR  345
+
+Query  796  NR  801
+            NR
+Sbjct  346  NR  347
+
+
+>KAF0035297.1 hypothetical protein F2P81_013055 [Scophthalmus maximus]
+Length=352
+
+ Score = 192 bits (487),  Expect = 7e-53, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  167  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  219
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  220  RAGTMCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  272
+
+Query  796  NR  801
+            NR
+Sbjct  273  NR  274
+
+
+>XP_026205876.1 GATA-binding factor 2-like [Anabas testudineus]
+Length=423
+
+ Score = 193 bits (491),  Expect = 9e-53, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  238  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  290
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  291  RAGTLCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  343
+
+Query  796  NR  801
+            NR
+Sbjct  344  NR  345
+
+
+>XP_023134097.1 GATA-binding factor 2-like [Amphiprion ocellaris]
+Length=423
+
+ Score = 193 bits (490),  Expect = 1e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  238  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  290
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  291  RAGTLCA----NCHTSTTTLWRRNASGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  343
+
+Query  796  NR  801
+            NR
+Sbjct  344  NR  345
+
+
+>XP_030274503.1 GATA-binding factor 2-like [Sparus aurata]
+Length=421
+
+ Score = 193 bits (490),  Expect = 1e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  236  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  288
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  289  RAGTLCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  341
+
+Query  796  NR  801
+            NR
+Sbjct  342  NR  343
+
+
+>XP_020489527.1 GATA-binding factor 2-like isoform X2 [Labrus bergylta]
+Length=421
+
+ Score = 193 bits (490),  Expect = 1e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  238  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  290
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  291  RAGTLCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  343
+
+Query  796  NR  801
+            NR
+Sbjct  344  NR  345
+
+
+>TMS19740.1 hypothetical protein E3U43_004061 [Larimichthys crocea]
+Length=393
+
+ Score = 192 bits (488),  Expect = 1e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  209  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  261
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  262  RAGTLCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  314
+
+Query  796  NR  801
+            NR
+Sbjct  315  NR  316
+
+
+>XP_018535503.1 PREDICTED: LOW QUALITY PROTEIN: endothelial transcription factor 
+GATA-2-like [Lates calcarifer]
+Length=425
+
+ Score = 193 bits (490),  Expect = 1e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  241  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  293
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  294  RAGTMCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  346
+
+Query  796  NR  801
+            NR
+Sbjct  347  NR  348
+
+
+>XP_022045002.1 GATA-binding factor 2-like [Acanthochromis polyacanthus]
+Length=423
+
+ Score = 193 bits (490),  Expect = 1e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  238  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  290
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  291  RAGTLCA----NCHTSTTTLWRRNASGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  343
+
+Query  796  NR  801
+            NR
+Sbjct  344  NR  345
+
+
+>XP_029948149.1 GATA-binding factor 1-B-like isoform X1 [Salarias fasciatus]
+Length=425
+
+ Score = 193 bits (490),  Expect = 1e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  240  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  292
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  293  RAGTLCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  345
+
+Query  796  NR  801
+            NR
+Sbjct  346  NR  347
+
+
+>XP_029948150.1 endothelial transcription factor GATA-2-like isoform X2 [Salarias 
+fasciatus]
+Length=403
+
+ Score = 192 bits (488),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  218  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  270
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  271  RAGTLCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  323
+
+Query  796  NR  801
+            NR
+Sbjct  324  NR  325
+
+
+>XP_022600702.1 endothelial transcription factor GATA-2-like [Seriola dumerili]
+Length=425
+
+ Score = 193 bits (490),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  240  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  292
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  293  RAGTMCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  345
+
+Query  796  NR  801
+            NR
+Sbjct  346  NR  347
+
+
+>XP_023254763.1 endothelial transcription factor GATA-2-like [Seriola lalandi 
+dorsalis]
+Length=425
+
+ Score = 193 bits (490),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  240  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  292
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  293  RAGTMCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  345
+
+Query  796  NR  801
+            NR
+Sbjct  346  NR  347
+
+
+>XP_017574635.1 PREDICTED: GATA-binding factor 2-like [Pygocentrus nattereri]
+ XP_017574637.1 PREDICTED: GATA-binding factor 2-like [Pygocentrus nattereri]
+Length=392
+
+ Score = 192 bits (487),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 97/124 (78%), Positives = 106/124 (85%), Gaps = 14/124 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            +ARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  220  DARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  272
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT C+    NCQTSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  273  RAGTQCA----NCQTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  325
+
+Query  796  NRKV  807
+            NRKV
+Sbjct  326  NRKV  329
+
+
+>XP_015815498.1 PREDICTED: GATA-binding factor 2-like [Nothobranchius furzeri]
+Length=418
+
+ Score = 192 bits (489),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  234  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  286
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTM+K+GIQTR
+Sbjct  287  RAGTLCA----NCHTSTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMKKEGIQTR  339
+
+Query  796  NR  801
+            NR
+Sbjct  340  NR  341
+
+
+>XP_004571968.2 GATA-binding factor 2 [Maylandia zebra]
+Length=424
+
+ Score = 192 bits (489),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  239  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  291
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  292  RAGTLCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  344
+
+Query  796  NR  801
+            NR
+Sbjct  345  NR  346
+
+
+>XP_026024593.1 GATA-binding factor 2-like [Astatotilapia calliptera]
+Length=424
+
+ Score = 192 bits (489),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  239  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  291
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  292  RAGTLCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  344
+
+Query  796  NR  801
+            NR
+Sbjct  345  NR  346
+
+
+>XP_005746434.1 PREDICTED: GATA-binding factor 2-like [Pundamilia nyererei]
+Length=424
+
+ Score = 192 bits (489),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  239  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  291
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  292  RAGTLCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  344
+
+Query  796  NR  801
+            NR
+Sbjct  345  NR  346
+
+
+>XP_010754276.3 endothelial transcription factor GATA-2 [Larimichthys crocea]
+Length=425
+
+ Score = 192 bits (489),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  241  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  293
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  294  RAGTLCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  346
+
+Query  796  NR  801
+            NR
+Sbjct  347  NR  348
+
+
+>XP_005915348.1 PREDICTED: GATA-binding factor 2-like [Haplochromis burtoni]
+Length=424
+
+ Score = 192 bits (489),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  239  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  291
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  292  RAGTLCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  344
+
+Query  796  NR  801
+            NR
+Sbjct  345  NR  346
+
+
+>XP_003442682.1 GATA-binding factor 2 [Oreochromis niloticus]
+Length=424
+
+ Score = 192 bits (489),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  239  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  291
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  292  RAGTLCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  344
+
+Query  796  NR  801
+            NR
+Sbjct  345  NR  346
+
+
+>XP_026163469.1 GATA-binding factor 1-A-like [Mastacembelus armatus]
+Length=421
+
+ Score = 192 bits (488),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  237  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  289
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  290  RAGTLCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  342
+
+Query  796  NR  801
+            NR
+Sbjct  343  NR  344
+
+
+>XP_023967997.1 erythroid transcription factor isoform X1 [Chrysemys picta bellii]
+Length=683
+
+ Score = 198 bits (503),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 116/189 (61%), Positives = 125/189 (66%), Gaps = 28/189 (15%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  414  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  466
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  467  KRAGTQCS----NCQTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  519
+
+Query  793  RNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGP  972
+            RNRKV                          G G    P P    +       +LYAL P
+Sbjct  520  RNRKV--------------SGKGKKRRGAAPGEGGAGPPTPLELLSPLGEDPGSLYALSP  565
+
+Query  973  VVLSGHFLP  999
+            +VLS H LP
+Sbjct  566  MVLSSHLLP  574
+
+
+>XP_028263125.1 endothelial transcription factor GATA-2-like [Parambassis ranga]
+ XP_028263126.1 endothelial transcription factor GATA-2-like [Parambassis ranga]
+ XP_028263127.1 endothelial transcription factor GATA-2-like [Parambassis ranga]
+Length=425
+
+ Score = 192 bits (488),  Expect = 2e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  240  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  292
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  293  RAGTLCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  345
+
+Query  796  NR  801
+            NR
+Sbjct  346  NR  347
+
+
+>XP_031588887.1 GATA-binding factor 2-like [Oreochromis aureus]
+Length=424
+
+ Score = 192 bits (488),  Expect = 3e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  239  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  291
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  292  RAGTLCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  344
+
+Query  796  NR  801
+            NR
+Sbjct  345  NR  346
+
+
+>XP_006784771.1 PREDICTED: GATA-binding factor 2-like isoform X1 [Neolamprologus 
+brichardi]
+ XP_006784772.1 PREDICTED: GATA-binding factor 2-like isoform X2 [Neolamprologus 
+brichardi]
+Length=424
+
+ Score = 192 bits (488),  Expect = 3e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  239  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  291
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  292  RAGTLCA----NCHTSTTTLWRRNANGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  344
+
+Query  796  NR  801
+            NR
+Sbjct  345  NR  346
+
+
+>XP_022537879.1 LOW QUALITY PROTEIN: erythroid transcription factor-like [Astyanax 
+mexicanus]
+Length=393
+
+ Score = 191 bits (485),  Expect = 3e-52, Method: Compositional matrix adjust.
+ Identities = 97/124 (78%), Positives = 106/124 (85%), Gaps = 14/124 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            +ARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  220  DARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  272
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT C+    NCQTSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  273  RAGTQCA----NCQTSTTTLWRRNVNGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  325
+
+Query  796  NRKV  807
+            NRKV
+Sbjct  326  NRKV  329
+
+
+>XP_029989649.1 GATA-binding factor 1-B-like [Sphaeramia orbicularis]
+Length=417
+
+ Score = 192 bits (487),  Expect = 4e-52, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  230  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  282
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  283  RAGTLCA----NCHTSTTTLWRRNASGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  335
+
+Query  796  NR  801
+            NR
+Sbjct  336  NR  337
+
+
+>XP_007882951.1 PREDICTED: GATA-binding factor 1-A-like [Callorhinchus milii]
+Length=406
+
+ Score = 191 bits (484),  Expect = 6e-52, Method: Compositional matrix adjust.
+ Identities = 97/124 (78%), Positives = 105/124 (85%), Gaps = 14/124 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            E+RECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  217  ESRECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  269
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT C+    NC T TTTLWRR+  GDPVCN   ACGLYYKLH+VNRPLTM+KDGIQTR
+Sbjct  270  RAGTQCA----NCHTCTTTLWRRNATGDPVCN---ACGLYYKLHKVNRPLTMKKDGIQTR  322
+
+Query  796  NRKV  807
+            NRKV
+Sbjct  323  NRKV  326
+
+
+>XP_029908229.1 erythroid transcription factor-like [Myripristis murdjan]
+Length=427
+
+ Score = 191 bits (484),  Expect = 1e-51, Method: Compositional matrix adjust.
+ Identities = 95/122 (78%), Positives = 104/122 (85%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  242  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  294
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+KDGIQTR
+Sbjct  295  RAGTLCA----NCHTSTTTLWRRNASGEPVCN---ACGLYFKLHNVNRPLTMKKDGIQTR  347
+
+Query  796  NR  801
+            NR
+Sbjct  348  NR  349
+
+
+>XP_003216904.1 PREDICTED: erythroid transcription factor [Anolis carolinensis]
+Length=383
+
+ Score = 186 bits (473),  Expect = 2e-50, Method: Compositional matrix adjust.
+ Identities = 94/120 (78%), Positives = 101/120 (84%), Gaps = 14/120 (12%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  189  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  241
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLY+KLH VNRPL MRKDGIQTR
+Sbjct  242  RAGTQCS----NCQTTTTTLWRRNVNGEPVCN---ACGLYFKLHNVNRPLAMRKDGIQTR  294
+
+
+>pir|B48099| transcription factor GATA-2, retinoic acid-inducible - mouse 
+(fragment) [Mus musculus]
+Length=118
+
+ Score = 176 bits (445),  Expect = 1e-49, Method: Compositional matrix adjust.
+ Identities = 90/122 (74%), Positives = 101/122 (83%), Gaps = 14/122 (11%)
+ Frame = +1
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            E RECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLI+PK+RL  ++
+Sbjct  1    EGRECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIKPKRRLPAAR  53
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT C+    NCQT+TTTLWRR+  GDPVCN   ACGLYYKLH VNRPLTM+K+GIQTR
+Sbjct  54   RAGTCCA----NCQTTTTTLWRRNANGDPVCN---ACGLYYKLHNVNRPLTMKKEGIQTR  106
+
+Query  796  NR  801
+            NR
+Sbjct  107  NR  108
+
+
+>XP_007507746.1 PREDICTED: erythroid transcription factor-like isoform X2 [Monodelphis 
+domestica]
+ XP_016282025.1 PREDICTED: erythroid transcription factor-like isoform X2 [Monodelphis 
+domestica]
+Length=322
+
+ Score = 179 bits (454),  Expect = 2e-48, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 106/125 (85%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  123  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  175
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  176  KRAGTQCTNC----QTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  228
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  229  RNRKV  233
+
+
+>XP_020832087.1 erythroid transcription factor isoform X2 [Phascolarctos cinereus]
+Length=321
+
+ Score = 178 bits (452),  Expect = 3e-48, Method: Compositional matrix adjust.
+ Identities = 99/125 (79%), Positives = 106/125 (85%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  123  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  175
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  176  KRAGT----QCTNCQTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  228
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  229  RNRKV  233
+
+
+>XP_027696996.1 erythroid transcription factor [Vombatus ursinus]
+Length=393
+
+ Score = 180 bits (457),  Expect = 4e-48, Method: Compositional matrix adjust.
+ Identities = 99/125 (79%), Positives = 106/125 (85%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  195  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  247
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  248  KRAGT----QCTNCQTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  300
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  301  RNRKV  305
+
+
+>XP_001372037.1 PREDICTED: erythroid transcription factor-like isoform X1 [Monodelphis 
+domestica]
+ XP_007507745.1 PREDICTED: erythroid transcription factor-like isoform X1 [Monodelphis 
+domestica]
+Length=401
+
+ Score = 179 bits (455),  Expect = 9e-48, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 106/125 (85%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  202  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  254
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  255  KRAGTQCTNC----QTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  307
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  308  RNRKV  312
+
+
+>XP_020832085.1 erythroid transcription factor isoform X1 [Phascolarctos cinereus]
+ XP_020832086.1 erythroid transcription factor isoform X1 [Phascolarctos cinereus]
+Length=400
+
+ Score = 179 bits (455),  Expect = 1e-47, Method: Compositional matrix adjust.
+ Identities = 99/125 (79%), Positives = 106/125 (85%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  202  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  254
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  255  KRAGT----QCTNCQTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  307
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  308  RNRKV  312
+
+
+>EGW06105.1 Erythroid transcription factor [Cricetulus griseus]
+ ERE63740.1 erythroid transcription factor-like protein [Cricetulus griseus]
+Length=330
+
+ Score = 177 bits (448),  Expect = 2e-47, Method: Compositional matrix adjust.
+ Identities = 99/125 (79%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  116  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  168
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  169  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  221
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  222  RNRKA  226
+
+
+>XP_031800629.1 erythroid transcription factor isoform X2 [Sarcophilus harrisii]
+Length=403
+
+ Score = 179 bits (453),  Expect = 2e-47, Method: Compositional matrix adjust.
+ Identities = 99/125 (79%), Positives = 106/125 (85%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  202  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  254
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  255  KRAGT----QCTNCQTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  307
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  308  RNRKV  312
+
+
+>XP_024308131.1 erythroid transcription factor isoform X3 [Homo sapiens]
+Length=330
+
+ Score = 176 bits (446),  Expect = 4e-47, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  116  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  168
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  169  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  221
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  222  RNRKA  226
+
+
+>XP_003505150.1 erythroid transcription factor [Cricetulus griseus]
+ XP_027289124.1 erythroid transcription factor [Cricetulus griseus]
+Length=412
+
+ Score = 178 bits (452),  Expect = 4e-47, Method: Compositional matrix adjust.
+ Identities = 99/125 (79%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  198  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  250
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  251  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  303
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  304  RNRKA  308
+
+
+>NP_036896.1 erythroid transcription factor [Rattus norvegicus]
+ XP_017457744.1 PREDICTED: erythroid transcription factor [Rattus norvegicus]
+ P43429.1 RecName: Full=Erythroid transcription factor; AltName: Full=Eryf1; 
+AltName: Full=GATA-binding factor 1; Short=GATA-1; Short=GF-1; 
+AltName: Full=NF-E1 DNA-binding protein [Rattus norvegicus]
+ EDL83808.1 GATA binding protein 1 [Rattus norvegicus]
+ BAA02735.1 GATA-1 [Rattus norvegicus]
+Length=413
+
+ Score = 178 bits (451),  Expect = 4e-47, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKR++VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRMIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+>XP_005868065.1 PREDICTED: erythroid transcription factor, partial [Myotis brandtii]
+Length=324
+
+ Score = 176 bits (445),  Expect = 4e-47, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  197  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  249
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  250  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  302
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  303  RNRKA  307
+
+
+>EPQ08830.1 Erythroid transcription factor [Myotis brandtii]
+Length=325
+
+ Score = 176 bits (445),  Expect = 5e-47, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  197  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  249
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  250  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  302
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  303  RNRKA  307
+
+
+>XP_005411336.1 PREDICTED: erythroid transcription factor isoform X2 [Chinchilla 
+lanigera]
+Length=369
+
+ Score = 177 bits (448),  Expect = 5e-47, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  156  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  208
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  209  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  261
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  262  RNRKA  266
+
+
+>XP_028923607.1 erythroid transcription factor [Ornithorhynchus anatinus]
+ XP_028923608.1 erythroid transcription factor [Ornithorhynchus anatinus]
+Length=379
+
+ Score = 177 bits (448),  Expect = 5e-47, Method: Compositional matrix adjust.
+ Identities = 109/187 (58%), Positives = 121/187 (65%), Gaps = 37/187 (20%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  192  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  244
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTMRKDGIQT
+Sbjct  245  KRAGTQCTNC----QTTTTTLWRRNASGEPVCN---ACGLYFKLHNVNRPLTMRKDGIQT  297
+
+Query  793  RNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGP  972
+            RNRKV                               +           PP +  LY LGP
+Sbjct  298  RNRKV-----------------------SSKTKKKRAAEGTGEGLREEPPPATGLYGLGP  334
+
+Query  973  VVLSGHF  993
+            +VLSGH 
+Sbjct  335  MVLSGHM  341
+
+
+>XP_005641387.1 erythroid transcription factor isoform X2 [Canis lupus familiaris]
+ XP_025324529.1 erythroid transcription factor isoform X2 [Canis lupus dingo]
+Length=330
+
+ Score = 176 bits (445),  Expect = 5e-47, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  116  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  168
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  169  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  221
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  222  RNRKA  226
+
+
+>XP_012979937.1 erythroid transcription factor [Mesocricetus auratus]
+ XP_021091629.1 erythroid transcription factor [Mesocricetus auratus]
+Length=413
+
+ Score = 177 bits (450),  Expect = 6e-47, Method: Compositional matrix adjust.
+ Identities = 99/125 (79%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  197  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  249
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  250  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  302
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  303  RNRKA  307
+
+
+>XP_008840773.1 erythroid transcription factor [Nannospalax galili]
+Length=413
+
+ Score = 177 bits (450),  Expect = 7e-47, Method: Compositional matrix adjust.
+ Identities = 99/125 (79%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+>XP_021514293.1 erythroid transcription factor [Meriones unguiculatus]
+Length=419
+
+ Score = 177 bits (450),  Expect = 7e-47, Method: Compositional matrix adjust.
+ Identities = 99/125 (79%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+>XP_031800632.1 erythroid transcription factor isoform X5 [Sarcophilus harrisii]
+ XP_031800633.1 erythroid transcription factor isoform X5 [Sarcophilus harrisii]
+Length=325
+
+ Score = 175 bits (443),  Expect = 7e-47, Method: Compositional matrix adjust.
+ Identities = 97/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+             EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  124  AEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  176
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  177  KRAGTQCTNC----QTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  229
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  230  RNRKV  234
+
+
+>ELK33920.1 Erythroid transcription factor [Myotis davidii]
+Length=391
+
+ Score = 177 bits (448),  Expect = 8e-47, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  177  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  229
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  230  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  282
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  283  RNRKA  287
+
+
+>XP_017379365.1 PREDICTED: erythroid transcription factor [Cebus capucinus imitator]
+ XP_017379366.1 PREDICTED: erythroid transcription factor [Cebus capucinus imitator]
+ XP_017379367.1 PREDICTED: erythroid transcription factor [Cebus capucinus imitator]
+Length=413
+
+ Score = 177 bits (449),  Expect = 8e-47, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+>XP_002719945.1 PREDICTED: erythroid transcription factor [Oryctolagus cuniculus]
+Length=413
+
+ Score = 177 bits (449),  Expect = 8e-47, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+>VTJ65178.1 Hypothetical predicted protein [Marmota monax]
+Length=359
+
+ Score = 176 bits (445),  Expect = 9e-47, Method: Compositional matrix adjust.
+ Identities = 99/125 (79%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  145  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  197
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  198  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  250
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  251  RNRKA  255
+
+
+>XP_028737154.1 erythroid transcription factor [Peromyscus leucopus]
+Length=412
+
+ Score = 177 bits (449),  Expect = 9e-47, Method: Compositional matrix adjust.
+ Identities = 99/125 (79%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  198  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  250
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  251  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  303
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  304  RNRKA  308
+
+
+>XP_015846098.1 PREDICTED: erythroid transcription factor [Peromyscus maniculatus 
+bairdii]
+Length=412
+
+ Score = 177 bits (449),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 99/125 (79%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  198  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  250
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  251  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  303
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  304  RNRKA  308
+
+
+>XP_006922813.1 erythroid transcription factor [Pteropus alecto]
+ ELK03433.1 Erythroid transcription factor [Pteropus alecto]
+Length=413
+
+ Score = 177 bits (449),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+>XP_010359390.1 erythroid transcription factor [Rhinopithecus roxellana]
+ XP_017710921.1 PREDICTED: erythroid transcription factor isoform X2 [Rhinopithecus 
+bieti]
+Length=413
+
+ Score = 177 bits (449),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+>XP_010596008.2 LOW QUALITY PROTEIN: erythroid transcription factor, partial 
+[Loxodonta africana]
+Length=410
+
+ Score = 177 bits (449),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  196  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  248
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  249  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  301
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  302  RNRKA  306
+
+
+>XP_011384533.1 erythroid transcription factor [Pteropus vampyrus]
+Length=413
+
+ Score = 177 bits (449),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+>XP_014982859.2 erythroid transcription factor [Macaca mulatta]
+Length=413
+
+ Score = 177 bits (449),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+>XP_012327121.1 erythroid transcription factor [Aotus nancymaae]
+Length=413
+
+ Score = 177 bits (449),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+>XP_005338712.1 erythroid transcription factor [Ictidomys tridecemlineatus]
+Length=413
+
+ Score = 177 bits (449),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+>XP_006902971.1 PREDICTED: erythroid transcription factor [Elephantulus edwardii]
+Length=413
+
+ Score = 177 bits (449),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNSSGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+>XP_011802099.1 PREDICTED: erythroid transcription factor [Colobus angolensis 
+palliatus]
+ XP_023057691.1 erythroid transcription factor isoform X2 [Piliocolobus tephrosceles]
+Length=413
+
+ Score = 177 bits (449),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+>XP_005352864.1 erythroid transcription factor [Microtus ochrogaster]
+Length=412
+
+ Score = 177 bits (448),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 99/125 (79%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  198  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  250
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  251  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  303
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  304  RNRKA  308
+
+
+>XP_010604671.1 PREDICTED: erythroid transcription factor [Fukomys damarensis]
+ KFO22666.1 Erythroid transcription factor [Fukomys damarensis]
+Length=413
+
+ Score = 177 bits (448),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+>XP_003917725.1 erythroid transcription factor [Papio anubis]
+Length=413
+
+ Score = 177 bits (448),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+>XP_003939593.1 PREDICTED: erythroid transcription factor [Saimiri boliviensis 
+boliviensis]
+Length=413
+
+ Score = 177 bits (448),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 98/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+>AAH52653.1 GATA binding protein 1 [Mus musculus]
+Length=413
+
+ Score = 177 bits (448),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 97/125 (78%), Positives = 105/125 (84%), Gaps = 14/125 (11%)
+ Frame = +1
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKR++VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRMIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLY+KLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYFKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+  Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+    Posted date:  Jan 10, 2020  12:42 AM
+  Number of letters in database: 90,675,456,348
+  Number of sequences in database:  251,406,437
+
+Lambda      K        H
+   0.318    0.134    0.401 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 251406437
+Number of Hits to DB: 125833386
+Number of extensions: 89174
+Number of successful extensions: 21337
+Number of sequences better than 10: 194
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 20850
+Number of HSP's successfully gapped: 282
+Length of query: 1435
+Length of database: 90675456348
+Length adjustment: 163
+Effective length of query: 1272
+Effective length of database: 49696207117
+Effective search space: 15654305241855
+Effective search space used: 15654305241855
+T: 21
+A: 40
+X1: 16 (7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (20.4 bits)
+S2: 94 (40.8 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+

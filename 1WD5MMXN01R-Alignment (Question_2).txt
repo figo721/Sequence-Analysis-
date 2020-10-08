@@ -1,0 +1,3965 @@
+BLASTN 2.10.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: 1WD5MMXN01R
+
+
+Database: Nucleotide collection (nt)
+           55,411,115 sequences; 253,561,826,700 total letters
+Query= DinoDNA  "Dinosaur DNA" from Crichton THE LOST WORLD  p. 135
+
+Length=1435
+
+
+                                                                   Score     E      Max
+Sequences producing significant alignments:                       (Bits)  Value   Ident
+
+NM_205464.1 Gallus gallus GATA binding protein 1 (globin trans...  1557    0.0     96%         
+M76564.1 X.laevis GATA-binding protein (XGATA-2) gene, complet...  626     2e-174  98%         
+XM_018256580.1 PREDICTED: Xenopus laevis GATA binding protein ...  600     8e-167  97%         
+XM_018256579.1 PREDICTED: Xenopus laevis GATA binding protein ...  600     8e-167  97%         
+XM_018256578.1 PREDICTED: Xenopus laevis GATA binding protein ...  600     8e-167  97%         
+NM_001090574.1 Xenopus laevis GATA binding protein 2 L homeolo...  600     8e-167  97%         
+XM_030474300.1 PREDICTED: Strigops habroptila GATA binding pro...  560     7e-155  74%         
+XM_019005442.1 PREDICTED: Parus major GATA binding protein 1 (...  483     2e-131  74%         
+XM_014261876.1 PREDICTED: Pseudopodoces humilis GATA binding p...  451     1e-121  74%         
+XM_018259893.1 PREDICTED: Xenopus laevis GATA-binding factor 2...  418     6e-112  86%         
+XM_004914092.3 PREDICTED: Xenopus tropicalis GATA binding prot...  383     1e-101  82%         
+XM_002933064.3 PREDICTED: Xenopus tropicalis GATA binding prot...  383     1e-101  82%         
+XM_021554734.1 PREDICTED: Lonchura striata domestica erythroid...  368     9e-97   76%         
+XM_030260425.1 PREDICTED: Taeniopygia guttata GATA binding pro...  363     1e-95   81%         
+XM_030970263.1 PREDICTED: Camarhynchus parvulus GATA binding p...  343     1e-89   79%         
+XM_019005441.1 PREDICTED: Parus major GATA binding protein 1 (...  340     1e-88   79%         
+XM_024112231.1 PREDICTED: Chrysemys picta bellii GATA binding ...  293     2e-74   75%         
+XM_024112230.1 PREDICTED: Chrysemys picta bellii GATA binding ...  293     2e-74   75%         
+XM_024112229.1 PREDICTED: Chrysemys picta bellii GATA binding ...  293     2e-74   75%         
+XM_005515529.2 PREDICTED: Columba livia erythroid transcriptio...  285     8e-72   81%         
+XM_005061320.2 PREDICTED: Ficedula albicollis GATA binding pro...  267     2e-66   79%         
+XM_023945359.1 PREDICTED: Cyanistes caeruleus erythroid transc...  254     1e-62   79%         
+XM_019496637.1 PREDICTED: Alligator mississippiensis GATA bind...  248     6e-61   74%         
+XM_025213719.1 PREDICTED: Alligator sinensis GATA binding prot...  239     3e-58   74%         
+XM_007884760.1 PREDICTED: Callorhinchus milii GATA-binding fac...  239     3e-58   75%         
+XM_023325211.1 PREDICTED: Xiphophorus maculatus GATA-binding f...  234     1e-56   74%         
+XM_005800620.2 PREDICTED: Xiphophorus maculatus GATA-binding f...  234     1e-56   74%         
+XM_028002048.1 PREDICTED: Xiphophorus couchianus GATA-binding ...  230     2e-55   74%         
+XM_028002046.1 PREDICTED: Xiphophorus couchianus GATA-binding ...  230     2e-55   74%         
+XM_029067775.1 PREDICTED: Ornithorhynchus anatinus GATA bindin...  227     2e-54   72%         
+XM_029067774.1 PREDICTED: Ornithorhynchus anatinus GATA bindin...  227     2e-54   72%         
+NM_001085775.1 Xenopus laevis GATA binding protein 1 S homeolo...  226     2e-54   100%        
+XM_029241509.1 PREDICTED: Monodon monoceros GATA binding prote...  224     7e-54   74%         
+XM_008410518.2 PREDICTED: Poecilia reticulata endothelial tran...  224     2e-53   74%         
+XM_030846767.1 PREDICTED: Globicephala melas GATA binding prot...  220     3e-52   73%         
+XM_022563824.2 PREDICTED: Delphinapterus leucas GATA binding p...  220     3e-52   73%         
+XM_022563823.2 PREDICTED: Delphinapterus leucas GATA binding p...  220     3e-52   73%         
+XM_027091532.1 PREDICTED: Lagenorhynchus obliquidens GATA bind...  220     3e-52   73%         
+XM_024769223.1 PREDICTED: Neophocaena asiaeorientalis asiaeori...  220     3e-52   73%         
+XM_007123832.2 PREDICTED: Physeter catodon GATA binding protei...  220     3e-52   73%         
+XM_024116908.1 PREDICTED: Physeter catodon GATA binding protei...  220     3e-52   73%         
+XM_004281964.1 PREDICTED: Orcinus orca GATA binding protein 1 ...  220     3e-52   73%         
+XM_027831941.1 PREDICTED: Chelonia mydas GATA binding protein ...  218     1e-51   74%         
+BC170266.1 Xenopus laevis GATA binding factor-1b, mRNA (cDNA c...  216     4e-51   99%         
+XM_007450879.1 PREDICTED: Lipotes vexillifer GATA binding prot...  215     4e-51   73%         
+XM_007565644.2 PREDICTED: Poecilia formosa GATA-binding factor...  214     1e-50   73%         
+XM_007565642.2 PREDICTED: Poecilia formosa GATA-binding factor...  214     1e-50   73%         
+XM_015060727.1 PREDICTED: Poecilia latipinna GATA-binding fact...  214     1e-50   73%         
+XM_015060726.1 PREDICTED: Poecilia latipinna GATA-binding fact...  214     1e-50   73%         
+XM_031672447.1 PREDICTED: Vicugna pacos GATA binding protein 1...  211     2e-49   73%         
+XM_023507252.1 PREDICTED: Sarcophilus harrisii GATA binding pr...  210     2e-49   71%         
+NM_001278767.1 Sus scrofa GATA binding protein 1 (GATA1), mRNA     210     2e-49   73%         
+BC170262.1 Xenopus laevis GATA binding factor-1b, mRNA (cDNA c...  209     5e-49   99%         
+XM_023507253.1 PREDICTED: Sarcophilus harrisii GATA binding pr...  208     5e-49   72%         
+XM_029151191.1 PREDICTED: Betta splendens GATA-binding factor ...  207     2e-48   72%         
+XM_031445270.1 PREDICTED: Camelus dromedarius GATA binding pro...  206     2e-48   73%         
+XM_010968132.1 PREDICTED: Camelus bactrianus GATA binding prot...  206     2e-48   73%         
+XM_018231830.1 PREDICTED: Xenopus laevis GATA binding protein ...  205     7e-48   99%         
+XM_014970501.1 PREDICTED: Poecilia mexicana endothelial transc...  205     7e-48   72%         
+XM_014970500.1 PREDICTED: Poecilia mexicana endothelial transc...  205     7e-48   72%         
+AK349904.1 Sus scrofa mRNA, clone:SKNB10084F10, expressed in skin  205     7e-48   72%         
+XM_030092290.1 PREDICTED: Salarias fasciatus GATA-binding fact...  204     2e-47   72%         
+XM_030092289.1 PREDICTED: Salarias fasciatus GATA-binding fact...  204     2e-47   72%         
+XM_015341490.1 PREDICTED: Lepisosteus oculatus GATA binding pr...  203     2e-47   72%         
+XM_006625293.2 PREDICTED: Lepisosteus oculatus GATA binding pr...  203     2e-47   72%         
+XM_004690009.1 PREDICTED: Condylura cristata GATA binding prot...  202     8e-47   72%         
+XM_004587923.1 PREDICTED: Ochotona princeps GATA binding prote...  202     8e-47   72%         
+XM_019956055.1 PREDICTED: Bos indicus GATA binding protein 1 (...  199     3e-46   71%         
+XM_026513371.1 PREDICTED: Ursus arctos horribilis GATA binding...  197     1e-45   72%         
+XM_021383923.1 PREDICTED: Numida meleagris cyclin-dependent ki...  196     3e-45   85%         
+XM_016426539.1 PREDICTED: Monodelphis domestica erythroid tran...  196     3e-45   71%         
+XM_001372000.3 PREDICTED: Monodelphis domestica erythroid tran...  196     3e-45   71%         
+XM_007507684.1 PREDICTED: Monodelphis domestica erythroid tran...  196     3e-45   71%         
+XM_007507683.1 PREDICTED: Monodelphis domestica erythroid tran...  196     3e-45   71%         
+XM_027533196.1 PREDICTED: Bos indicus x Bos taurus GATA bindin...  195     1e-44   70%         
+XM_010821902.3 PREDICTED: Bos taurus GATA binding protein 1 (G...  195     1e-44   70%         
+XM_010844350.1 PREDICTED: Bison bison bison GATA binding prote...  195     1e-44   70%         
+XM_005887669.1 PREDICTED: Bos mutus GATA binding protein 1 (gl...  195     1e-44   70%         
+NM_001252179.1 Ovis aries GATA binding protein 1 (GATA1), mRNA     195     1e-44   70%         
+NM_001206240.1 Bos taurus GATA binding protein 1 (GATA1), mRNA     195     1e-44   70%         
+NM_002049.4 Homo sapiens GATA binding protein 1 (GATA1), mRNA      193     4e-44   72%         
+XM_024452363.1 PREDICTED: Homo sapiens GATA binding protein 1 ...  193     4e-44   72%         
+XM_022508043.1 PREDICTED: Enhydra lutris kenyoni GATA binding ...  193     4e-44   72%         
+XM_018043633.1 PREDICTED: Capra hircus GATA binding protein 1 ...  193     4e-44   72%         
+XM_016943529.1 PREDICTED: Pan troglodytes GATA binding protein...  193     4e-44   72%         
+XM_014790992.1 PREDICTED: Ceratotherium simum simum GATA bindi...  193     4e-44   72%         
+XM_004434955.2 PREDICTED: Ceratotherium simum simum GATA bindi...  193     4e-44   72%         
+XM_005868003.2 PREDICTED: Myotis brandtii GATA binding protein...  193     4e-44   72%         
+XM_004064106.1 PREDICTED: Gorilla gorilla gorilla GATA binding...  193     4e-44   72%         
+XM_003807222.1 PREDICTED: Pan paniscus GATA binding protein 1 ...  193     4e-44   72%         
+AB463674.1 Synthetic construct DNA, clone: pF1KB7694, Homo sap...  193     4e-44   72%         
+BT019772.1 Synthetic construct Homo sapiens GATA binding prote...  193     4e-44   72%         
+X17254.1 Human mRNA for the transcription factor Eryf1             193     4e-44   72%         
+M30601.1 Human erythroid DNA-binding protein (GF-1) mRNA, comp...  193     4e-44   72%         
+XM_012854945.2 PREDICTED: Fundulus heteroclitus GATA-binding f...  192     4e-44   72%         
+XM_015960012.1 PREDICTED: Nothobranchius furzeri GATA-binding ...  192     4e-44   72%         
+XM_006045697.2 PREDICTED: Bubalus bubalis GATA binding protein...  190     1e-43   70%         
+XM_020520108.1 PREDICTED: Rhincodon typus GATA-binding factor ...  190     1e-43   71%         
+XM_014261877.1 PREDICTED: Pseudopodoces humilis GATA binding p...  189     5e-43   77%         
+XM_003276829.4 PREDICTED: Nomascus leucogenys GATA binding pro...  188     5e-43   71%         
+
+ALIGNMENTS
+>NM_205464.1 Gallus gallus GATA binding protein 1 (globin transcription factor 
+1) (GATA1), mRNA
+ M26209.1 Chicken erythroid-specific transcription factor eryf1 mRNA, complete 
+cds
+Length=1068
+
+ Score = 1557 bits (1726),  Expect = 0.0
+ Identities = 915/957 (96%), Gaps = 42/957 (4%)
+ Strand=Plus/Plus
+
+Query  119   CCATGGAGTTCGTGGCGCTgggggggCCGGATGCGGGCTCCCCCACTCCGTTCCCTGATG  178
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  39    CCATGGAGTTCGTGGCGCTGGGGGGGCCGGATGCGGGCTCCCCCACTCCGTTCCCTGATG  98
+
+Query  179   AAGCCGGAGCCTTCCTGGGGCTgggggggggCGAGAGGACGGAGGCgggggggCTGCTGG  238
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  99    AAGCCGGAGCCTTCCTGGGGCTGGGGGGGGGCGAGAGGACGGAGGCGGGGGGGCTGCTGG  158
+
+Query  239   CCTCCTAcccccccTCAGGCCGCGTGTCCCTGGTGCCGTGGGCAGACACGGGTACTTTGG  298
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  159   CCTCCTACCCCCCCTCAGGCCGCGTGTCCCTGGTGCCGTGGGCAGACACGGGTACTTTGG  218
+
+Query  299   GGACCCCCCAGTGGGTGCCGCCCGCCACCCAAATGGAGcccccccACTACCTGGAGCTGC  358
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  219   GGACCCCCCAGTGGGTGCCGCCCGCCACCCAAATGGAGCCCCCCCACTACCTGGAGCTGC  278
+
+Query  359   TGCAAcccccccggggcagccccccccATCCCTCCTCCGGGCCCCTACTGCCACTCAGCA  418
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  279   TGCAACCCCCCCGGGGCAGCCCCCCCCATCCCTCCTCCGGGCCCCTACTGCCACTCAGCA  338
+
+Query  419   GCGGGCCCCCACCCTGCGAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGAGCGA  478
+             ||||||||||||||||||||||||||||||||||||            ||||||||||||
+Sbjct  339   GCGGGCCCCCACCCTGCGAGGCCCGTGAGTGCGTCA------------ACTGCGGAGCGA  386
+
+Query  479   CGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCAG  538
+             ||||||||||||||||||||||||||||||||||||||||||||||||||         |
+Sbjct  387   CGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAAC---------G  437
+
+Query  539   CCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGC  598
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  438   CCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGC  497
+
+Query  599   GCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAGA  658
+             ||||||||||||||||||||||||||||||||||||||            ||||||||||
+Sbjct  498   GCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGC------------AACTGCCAGA  545
+
+Query  659   CATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATTC  718
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||       
+Sbjct  546   CATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAAC-------  598
+
+Query  719   ACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAG  778
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  599   --GCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAG  656
+
+Query  779   ACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAGGGTAAAAAGCGGCGCCCCCCgg  838
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  657   ACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAGGGTAAAAAGCGGCGCCCCCCGG  716
+
+Query  839   gggggggaaacccctccgccaccgcgggagggggcgctcctatggggggagggggggACC  898
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  717   GGGGGGGAAACCCCTCCGCCACCGCGGGAGGGGGCGCTCCTATGGGGGGAGGGGGGGACC  776
+
+Query  899   CCTCTATgccccccccgccgccccccccggccgccgcccccccTCAAAGCGACGCTCTGT  958
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  777   CCTCTATGCCCCCCCCGCCGCCCCCCCCGGCCGCCGCCCCCCCTCAAAGCGACGCTCTGT  836
+
+Query  959   ACGCTCTCGGCCCCGTGGTCCTTTCGGGCCATTTTCTGCCCTTTGGAAACTCCGGAGGGT  1018
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  837   ACGCTCTCGGCCCCGTGGTCCTTTCGGGCCATTTTCTGCCCTTTGGAAACTCCGGAGGGT  896
+
+Query  1019  TTTTTggggggggggcggggggTTACACGGcccccccGGGGCTGAGCCCGCAGATTT  1075
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  897   TTTTTGGGGGGGGGGCGGGGGGTTACACGGCCCCCCCGGGGCTGAGCCCGCAGATTT  953
+
+
+>M76564.1 X.laevis GATA-binding protein (XGATA-2) gene, complete cds
+Length=1938
+
+ Score = 626 bits (693),  Expect = 2e-174
+ Identities = 355/361 (98%), Gaps = 6/361 (2%)
+ Strand=Plus/Plus
+
+Query  1075  TAAATAATAACTCTGACGTGGGCAAGTGGGCCTTGCTGAGAAGACAGTGTAACATAATAA  1134
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1584  TAAATAATAACTCTGACGTGGGCAAGTGGGCCTTGCTGAGAAGACAGTGTAACATAATAA  1643
+
+Query  1135  TTTGCACCTCGGCAATTGCAGAGGGTCGATCTCCACTTTGGACACAACAGGGCTACTCGG  1194
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1644  TTTGCACCTCGGCAATTGCAGAGGGTCGATCTCCACTTTGGACACAACAGGGCTACTCGG  1703
+
+Query  1195  TAGGACCAGATAAGCACTTTGCTCCCTGGACTGAAAAAGAAAGGATTTATCTGTTTGCTT  1254
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1704  TAGGACCAGATAAGCACTTTGCTCCCTGGACTGAAAAAGAAAGGATTTATCTGTTTGCTT  1763
+
+Query  1255  CTTGCTGACAAATCCCTGTGAAAGGTAAAAGTCGGACACAGCAATCGATTATTTCTCGCC  1314
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1764  CTTGCTGACAAATCCCTGTGAAAGGTAAAAGTCGGACACAGCAATCGATTATTTCTCGCC  1823
+
+Query  1315  TGTGTGAAATTACTGTGAATATTGTAAatatatatatatatatatatatatCTGTATAGA  1374
+             |||||||||||||||||||||||||||      |||||||||||||||||||||||||||
+Sbjct  1824  TGTGTGAAATTACTGTGAATATTGTAA------ATATATATATATATATATCTGTATAGA  1877
+
+Query  1375  ACAGCCTCGGAGGCGGCATGGACCCAGCGTAGATCATGCTGGATTTGTACTGCCGGAATT  1434
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1878  ACAGCCTCGGAGGCGGCATGGACCCAGCGTAGATCATGCTGGATTTGTACTGCCGGAATT  1937
+
+Query  1435  C  1435
+             |
+Sbjct  1938  C  1938
+
+
+ Score = 102 bits (112),  Expect = 6e-17
+ Identities = 231/351 (66%), Gaps = 30/351 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             ||||| ||||| || || || || |||||| |  | || || ||||| ||||| ||||| 
+Sbjct  1032  AACTGTGGAGCTACAGCCACCCCTCTGTGGAGAAGAGATGGGACCGGCCATTATCTGTGT  1091
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         ||||| || ||||| |||    | || || || ||||| || ||||| 
+Sbjct  1092  AAC---------GCCTGTGGTCTCTATCACAAAATGAATGGTCAAAACCGGCCACTCATT  1142
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGT  645
+                |||||   | | |||  || |   | | | || |||||    ||| |         |
+Sbjct  1143  AAACCCAAGCGGAGACTGTCGGCGGCCAGGAGAGCGGGCACC---TGCTG---------T  1190
+
+Query  646   GAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTC  705
+             | |||||| ||||| || || |||||| | ||| | || |   | |  |||||||| || 
+Sbjct  1191  GCAAACTGTCAGACCTCAACTACCACTTTATGGAGACGTAATGCTAATGGGGACCCTGTG  1250
+
+Query  706   TGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTC  765
+             ||||||         |||||||| |||||||||||| ||||| | ||||| || ||||| 
+Sbjct  1251  TGCAAC---------GCCTGCGGACTCTACTACAAATTGCACAATGTGAATCGGCCCCTG  1301
+
+Query  766   ACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             || |||   || || ||||| || ||| ||||  | ||| | |||  ||||
+Sbjct  1302  ACCATGAAAAAGGAAGGAATTCAGACCAGAAATAGGAAAATGTCCAACAAG  1352
+
+
+>XM_018256580.1 PREDICTED: Xenopus laevis GATA binding protein 2 L homeolog (gata2.L), 
+transcript variant X3, mRNA
+Length=3863
+
+ Score = 600 bits (664),  Expect = 8e-167
+ Identities = 344/353 (97%), Gaps = 8/353 (2%)
+ Strand=Plus/Plus
+
+Query  1075  TAAATAATAACTCTGACGTGGGCAAGTGGGCCTTGCTGAGAAGACAGTGTAACATAATAA  1134
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1641  TAAATAATAACTCTGACGTGGGCAAGTGGGCCTTGCTGAGAAGACAGTGTAACATAATAA  1700
+
+Query  1135  TTTGCACCTCGGCAATTGCAGAGGGTCGATCTCCACTTTGGACACAACAGGGCTACTCGG  1194
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1701  TTTGCACCTCGGCAATTGCAGAGGGTCGATCTCCACTTTGGACACAACAGGGCTACTCGG  1760
+
+Query  1195  TAGGACCAGATAAGCACTTTGCTCCCTGGACTGAAAAAGAAAGGATTTATCTGTTTGCTT  1254
+             ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  1761  TAGGACCAGATAAGCACTTTGCTCCCTGGACTGCAAAAGAAAGGATTTATCTGTTTGCTT  1820
+
+Query  1255  CTTGCTGACAAATCCCTGTGAAAGGTAAAAGTCGGACACAGCAATCGATTATTTCTCGCC  1314
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1821  CTTGCTGACAAATCCCTGTGAAAGGTAAAAGTCGGACACAGCAATCGATTATTTCTCGCC  1880
+
+Query  1315  TGTGTGAAATTACTGTGAATATTGTAAatatatatatatatatatatatatCTGTATAGA  1374
+             |||||||||||||||||||||||||||        |||||||||||||||||||||||||
+Sbjct  1881  TGTGTGAAATTACTGTGAATATTGTAA--------ATATATATATATATATCTGTATAGA  1932
+
+Query  1375  ACAGCCTCGGAGGCGGCATGGACCCAGCGTAGATCATGCTGGATTTGTACTGC  1427
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1933  ACAGCCTCGGAGGCGGCATGGACCCAGCGTAGATCATGCTGGATTTGTACTGC  1985
+
+
+ Score = 102 bits (112),  Expect = 6e-17
+ Identities = 231/351 (66%), Gaps = 30/351 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             ||||| ||||| || || || || |||||| |  | || || ||||| ||||| ||||| 
+Sbjct  1089  AACTGTGGAGCTACAGCCACCCCTCTGTGGAGAAGAGATGGGACCGGCCATTATCTGTGT  1148
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         ||||| || ||||| |||    | || || || ||||| || ||||| 
+Sbjct  1149  AAC---------GCCTGTGGTCTCTATCACAAAATGAATGGTCAAAACCGGCCACTCATT  1199
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGT  645
+                |||||   | | |||  || |   | | | || |||||    ||| |         |
+Sbjct  1200  AAACCCAAGCGGAGACTGTCGGCGGCCAGGAGAGCGGGCACC---TGCTG---------T  1247
+
+Query  646   GAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTC  705
+             | |||||| ||||| || || |||||| | ||| | || |   | |  |||||||| || 
+Sbjct  1248  GCAAACTGTCAGACCTCAACTACCACTTTATGGAGACGTAATGCTAATGGGGACCCTGTG  1307
+
+Query  706   TGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTC  765
+             ||||||         |||||||| |||||||||||| ||||| | ||||| || ||||| 
+Sbjct  1308  TGCAAC---------GCCTGCGGACTCTACTACAAATTGCACAATGTGAATCGGCCCCTG  1358
+
+Query  766   ACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             || |||   || || ||||| || ||| ||||  | ||| | |||  ||||
+Sbjct  1359  ACCATGAAAAAGGAAGGAATTCAGACCAGAAATAGGAAAATGTCCAACAAG  1409
+
+
+>XM_018256579.1 PREDICTED: Xenopus laevis GATA binding protein 2 L homeolog (gata2.L), 
+transcript variant X2, mRNA
+Length=3910
+
+ Score = 600 bits (664),  Expect = 8e-167
+ Identities = 344/353 (97%), Gaps = 8/353 (2%)
+ Strand=Plus/Plus
+
+Query  1075  TAAATAATAACTCTGACGTGGGCAAGTGGGCCTTGCTGAGAAGACAGTGTAACATAATAA  1134
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1688  TAAATAATAACTCTGACGTGGGCAAGTGGGCCTTGCTGAGAAGACAGTGTAACATAATAA  1747
+
+Query  1135  TTTGCACCTCGGCAATTGCAGAGGGTCGATCTCCACTTTGGACACAACAGGGCTACTCGG  1194
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1748  TTTGCACCTCGGCAATTGCAGAGGGTCGATCTCCACTTTGGACACAACAGGGCTACTCGG  1807
+
+Query  1195  TAGGACCAGATAAGCACTTTGCTCCCTGGACTGAAAAAGAAAGGATTTATCTGTTTGCTT  1254
+             ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  1808  TAGGACCAGATAAGCACTTTGCTCCCTGGACTGCAAAAGAAAGGATTTATCTGTTTGCTT  1867
+
+Query  1255  CTTGCTGACAAATCCCTGTGAAAGGTAAAAGTCGGACACAGCAATCGATTATTTCTCGCC  1314
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1868  CTTGCTGACAAATCCCTGTGAAAGGTAAAAGTCGGACACAGCAATCGATTATTTCTCGCC  1927
+
+Query  1315  TGTGTGAAATTACTGTGAATATTGTAAatatatatatatatatatatatatCTGTATAGA  1374
+             |||||||||||||||||||||||||||        |||||||||||||||||||||||||
+Sbjct  1928  TGTGTGAAATTACTGTGAATATTGTAA--------ATATATATATATATATCTGTATAGA  1979
+
+Query  1375  ACAGCCTCGGAGGCGGCATGGACCCAGCGTAGATCATGCTGGATTTGTACTGC  1427
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1980  ACAGCCTCGGAGGCGGCATGGACCCAGCGTAGATCATGCTGGATTTGTACTGC  2032
+
+
+ Score = 102 bits (112),  Expect = 6e-17
+ Identities = 231/351 (66%), Gaps = 30/351 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             ||||| ||||| || || || || |||||| |  | || || ||||| ||||| ||||| 
+Sbjct  1136  AACTGTGGAGCTACAGCCACCCCTCTGTGGAGAAGAGATGGGACCGGCCATTATCTGTGT  1195
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         ||||| || ||||| |||    | || || || ||||| || ||||| 
+Sbjct  1196  AAC---------GCCTGTGGTCTCTATCACAAAATGAATGGTCAAAACCGGCCACTCATT  1246
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGT  645
+                |||||   | | |||  || |   | | | || |||||    ||| |         |
+Sbjct  1247  AAACCCAAGCGGAGACTGTCGGCGGCCAGGAGAGCGGGCACC---TGCTG---------T  1294
+
+Query  646   GAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTC  705
+             | |||||| ||||| || || |||||| | ||| | || |   | |  |||||||| || 
+Sbjct  1295  GCAAACTGTCAGACCTCAACTACCACTTTATGGAGACGTAATGCTAATGGGGACCCTGTG  1354
+
+Query  706   TGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTC  765
+             ||||||         |||||||| |||||||||||| ||||| | ||||| || ||||| 
+Sbjct  1355  TGCAAC---------GCCTGCGGACTCTACTACAAATTGCACAATGTGAATCGGCCCCTG  1405
+
+Query  766   ACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             || |||   || || ||||| || ||| ||||  | ||| | |||  ||||
+Sbjct  1406  ACCATGAAAAAGGAAGGAATTCAGACCAGAAATAGGAAAATGTCCAACAAG  1456
+
+
+>XM_018256578.1 PREDICTED: Xenopus laevis GATA binding protein 2 L homeolog (gata2.L), 
+transcript variant X1, mRNA
+Length=3968
+
+ Score = 600 bits (664),  Expect = 8e-167
+ Identities = 344/353 (97%), Gaps = 8/353 (2%)
+ Strand=Plus/Plus
+
+Query  1075  TAAATAATAACTCTGACGTGGGCAAGTGGGCCTTGCTGAGAAGACAGTGTAACATAATAA  1134
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1746  TAAATAATAACTCTGACGTGGGCAAGTGGGCCTTGCTGAGAAGACAGTGTAACATAATAA  1805
+
+Query  1135  TTTGCACCTCGGCAATTGCAGAGGGTCGATCTCCACTTTGGACACAACAGGGCTACTCGG  1194
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1806  TTTGCACCTCGGCAATTGCAGAGGGTCGATCTCCACTTTGGACACAACAGGGCTACTCGG  1865
+
+Query  1195  TAGGACCAGATAAGCACTTTGCTCCCTGGACTGAAAAAGAAAGGATTTATCTGTTTGCTT  1254
+             ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  1866  TAGGACCAGATAAGCACTTTGCTCCCTGGACTGCAAAAGAAAGGATTTATCTGTTTGCTT  1925
+
+Query  1255  CTTGCTGACAAATCCCTGTGAAAGGTAAAAGTCGGACACAGCAATCGATTATTTCTCGCC  1314
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1926  CTTGCTGACAAATCCCTGTGAAAGGTAAAAGTCGGACACAGCAATCGATTATTTCTCGCC  1985
+
+Query  1315  TGTGTGAAATTACTGTGAATATTGTAAatatatatatatatatatatatatCTGTATAGA  1374
+             |||||||||||||||||||||||||||        |||||||||||||||||||||||||
+Sbjct  1986  TGTGTGAAATTACTGTGAATATTGTAA--------ATATATATATATATATCTGTATAGA  2037
+
+Query  1375  ACAGCCTCGGAGGCGGCATGGACCCAGCGTAGATCATGCTGGATTTGTACTGC  1427
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2038  ACAGCCTCGGAGGCGGCATGGACCCAGCGTAGATCATGCTGGATTTGTACTGC  2090
+
+
+ Score = 102 bits (112),  Expect = 6e-17
+ Identities = 231/351 (66%), Gaps = 30/351 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             ||||| ||||| || || || || |||||| |  | || || ||||| ||||| ||||| 
+Sbjct  1194  AACTGTGGAGCTACAGCCACCCCTCTGTGGAGAAGAGATGGGACCGGCCATTATCTGTGT  1253
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         ||||| || ||||| |||    | || || || ||||| || ||||| 
+Sbjct  1254  AAC---------GCCTGTGGTCTCTATCACAAAATGAATGGTCAAAACCGGCCACTCATT  1304
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGT  645
+                |||||   | | |||  || |   | | | || |||||    ||| |         |
+Sbjct  1305  AAACCCAAGCGGAGACTGTCGGCGGCCAGGAGAGCGGGCACC---TGCTG---------T  1352
+
+Query  646   GAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTC  705
+             | |||||| ||||| || || |||||| | ||| | || |   | |  |||||||| || 
+Sbjct  1353  GCAAACTGTCAGACCTCAACTACCACTTTATGGAGACGTAATGCTAATGGGGACCCTGTG  1412
+
+Query  706   TGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTC  765
+             ||||||         |||||||| |||||||||||| ||||| | ||||| || ||||| 
+Sbjct  1413  TGCAAC---------GCCTGCGGACTCTACTACAAATTGCACAATGTGAATCGGCCCCTG  1463
+
+Query  766   ACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             || |||   || || ||||| || ||| ||||  | ||| | |||  ||||
+Sbjct  1464  ACCATGAAAAAGGAAGGAATTCAGACCAGAAATAGGAAAATGTCCAACAAG  1514
+
+
+>NM_001090574.1 Xenopus laevis GATA binding protein 2 L homeolog (gata2.L), mRNA
+ BC108544.1 Xenopus laevis XGATA-2 protein, mRNA (cDNA clone MGC:131004 IMAGE:7978680), 
+complete cds
+Length=3899
+
+ Score = 600 bits (664),  Expect = 8e-167
+ Identities = 344/353 (97%), Gaps = 8/353 (2%)
+ Strand=Plus/Plus
+
+Query  1075  TAAATAATAACTCTGACGTGGGCAAGTGGGCCTTGCTGAGAAGACAGTGTAACATAATAA  1134
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1658  TAAATAATAACTCTGACGTGGGCAAGTGGGCCTTGCTGAGAAGACAGTGTAACATAATAA  1717
+
+Query  1135  TTTGCACCTCGGCAATTGCAGAGGGTCGATCTCCACTTTGGACACAACAGGGCTACTCGG  1194
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1718  TTTGCACCTCGGCAATTGCAGAGGGTCGATCTCCACTTTGGACACAACAGGGCTACTCGG  1777
+
+Query  1195  TAGGACCAGATAAGCACTTTGCTCCCTGGACTGAAAAAGAAAGGATTTATCTGTTTGCTT  1254
+             ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  1778  TAGGACCAGATAAGCACTTTGCTCCCTGGACTGCAAAAGAAAGGATTTATCTGTTTGCTT  1837
+
+Query  1255  CTTGCTGACAAATCCCTGTGAAAGGTAAAAGTCGGACACAGCAATCGATTATTTCTCGCC  1314
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1838  CTTGCTGACAAATCCCTGTGAAAGGTAAAAGTCGGACACAGCAATCGATTATTTCTCGCC  1897
+
+Query  1315  TGTGTGAAATTACTGTGAATATTGTAAatatatatatatatatatatatatCTGTATAGA  1374
+             |||||||||||||||||||||||||||        |||||||||||||||||||||||||
+Sbjct  1898  TGTGTGAAATTACTGTGAATATTGTAA--------ATATATATATATATATCTGTATAGA  1949
+
+Query  1375  ACAGCCTCGGAGGCGGCATGGACCCAGCGTAGATCATGCTGGATTTGTACTGC  1427
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1950  ACAGCCTCGGAGGCGGCATGGACCCAGCGTAGATCATGCTGGATTTGTACTGC  2002
+
+
+ Score = 102 bits (112),  Expect = 6e-17
+ Identities = 231/351 (66%), Gaps = 30/351 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             ||||| ||||| || || || || |||||| |  | || || ||||| ||||| ||||| 
+Sbjct  1106  AACTGTGGAGCTACAGCCACCCCTCTGTGGAGAAGAGATGGGACCGGCCATTATCTGTGT  1165
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         ||||| || ||||| |||    | || || || ||||| || ||||| 
+Sbjct  1166  AAC---------GCCTGTGGTCTCTATCACAAAATGAATGGTCAAAACCGGCCACTCATT  1216
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGT  645
+                |||||   | | |||  || |   | | | || |||||    ||| |         |
+Sbjct  1217  AAACCCAAGCGGAGACTGTCGGCGGCCAGGAGAGCGGGCACC---TGCTG---------T  1264
+
+Query  646   GAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTC  705
+             | |||||| ||||| || || |||||| | ||| | || |   | |  |||||||| || 
+Sbjct  1265  GCAAACTGTCAGACCTCAACTACCACTTTATGGAGACGTAATGCTAATGGGGACCCTGTG  1324
+
+Query  706   TGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTC  765
+             ||||||         |||||||| |||||||||||| ||||| | ||||| || ||||| 
+Sbjct  1325  TGCAAC---------GCCTGCGGACTCTACTACAAATTGCACAATGTGAATCGGCCCCTG  1375
+
+Query  766   ACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             || |||   || || ||||| || ||| ||||  | ||| | |||  ||||
+Sbjct  1376  ACCATGAAAAAGGAAGGAATTCAGACCAGAAATAGGAAAATGTCCAACAAG  1426
+
+
+>XM_030474300.1 PREDICTED: Strigops habroptila GATA binding protein 1 (GATA1), 
+mRNA
+Length=1214
+
+ Score = 560 bits (620),  Expect = 7e-155
+ Identities = 655/888 (74%), Gaps = 89/888 (10%)
+ Strand=Plus/Plus
+
+Query  119   CCATGGAGTTCGTGGCGCTgggggggCCGGATGCGGGCTCCCCCACTCCGTTCCCTGATG  178
+             ||||||| || |||||| |||||||||| || | || | |||||      ||    ||||
+Sbjct  269   CCATGGACTTGGTGGCGTTGGGGGGGCCCGAAGGGGTCCCCCCC------TTTGGAGATG  322
+
+Query  179   AAGCCGGAGCCTTCCTGGGGCTgggggggggCGAGAGGACGGAGGCgggggggCTGCTGG  238
+             | ||||||||||||||||||||||||||||  ||  ||  |||||| |||||||||||||
+Sbjct  323   AGGCCGGAGCCTTCCTGGGGCTGGGGGGGGCTGAAGGGCTGGAGGCAGGGGGGCTGCTGG  382
+
+Query  239   CCTCCTAcccccccTCAGGCCGCGTGTCCCTGGTGCCGTGGGCAGACACGGGTACTTTGG  298
+             || | || |||||| |||||||| |||| |||||||| ||||| ||   |||  | ||||
+Sbjct  383   CCCCATATCCCCCCCCAGGCCGCCTGTCGCTGGTGCCCTGGGCCGAGGGGGGGTCATTGG  442
+
+Query  299   GGACCCCCCAGTGGGTGCCGCCCGCCACCCAAATGGAGcccccccACTACCTGGAGCTGC  358
+             ||  |||||  ||||  | |||| || |||    |||||||||||  | |||||||||||
+Sbjct  443   GGGGCCCCCCCTGGG--CTGCCCCCCCCCC----GGAGCCCCCCCGGTTCCTGGAGCTGC  496
+
+Query  359   TGCAAcccccccggggcagccccccccATCCCTCCTCCGGGCCCCTACTGCCACTCAGCA  418
+             |||| ||||||||||||||||||||||  ||       |||||||| ||||| | |||| 
+Sbjct  497   TGCAGCCCCCCCGGGGCAGCCCCCCCCCGCCG------GGGCCCCTCCTGCCCCCCAGC-  549
+
+Query  419   GCGGGCCCCCA-CCCTGCGAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGAGCG  477
+                | |||||| ||||||||||| || ||||||||            |||||||||||||
+Sbjct  550   ---GCCCCCCAGCCCTGCGAGGCGCGGGAGTGCGT------------GAACTGCGGAGCG  594
+
+Query  478   ACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCA  537
+             ||||| |||||||| ||||| |||||||| ||||| |||||||| ||||||         
+Sbjct  595   ACGGCGACGCCGCTTTGGCGGCGGGACGGGACCGGCCATTACCTCTGCAAC---------  645
+
+Query  538   GCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAG  597
+             ||||||||||| ||||||||||||||||| || ||||| || |||||||||||||| |||
+Sbjct  646   GCCTGCGGGCTGTACCACCGCCTCAACGGGCACAACCGGCCCCTCATCCGCCCCAAGAAG  705
+
+Query  598   CGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAG  657
+             ||||||||||||||||| ||||| ||||| || ||||||            |||||||||
+Sbjct  706   CGCCTGCTGGTGAGTAAACGCGCCGGCACCGTCTGCAGC------------AACTGCCAG  753
+
+Query  658   ACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATT  717
+             ||   ||||||||| || ||||| |||||||||   || ||||| |||||||        
+Sbjct  754   ACCAGCACCACCACCCTCTGGCGCCGCAGCCCCCGCGGAGACCCTGTCTGCA--------  805
+
+Query  718   CACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAA  777
+              ||||||| || |||||||||||||||||||  |||||||| |||||  | |||||||| 
+Sbjct  806   -ACGCCTGTGGTCTCTACTACAAACTGCACCGGGTGAACCGGCCCCTAGCCATGCGCAAG  864
+
+Query  778   GACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAGGGTAAAAAGCGGCGCCCCCCg  837
+             ||||| ||||| ||| | ||||||||||| ||  ||||||| || || |||||    |  
+Sbjct  865   GACGGGATCCAGACCAGGAACCGCAAAGTCTCGGCCAAGGGGAAGAAACGGCG---TCAA  921
+
+Query  838   ggggggggaaacccctccgccaccgcgggagggggcgctcctatggggggagggggggAC  897
+             |||||||| | |  | |||     | ||  ||||||        | ||  | |||||| |
+Sbjct  922   GGGGGGGGCAGCAGCACCG----GGGGGTTGGGGGC-------AGAGGCCATGGGGGGGC  970
+
+Query  898   CCCTCTATgccccccccgccgccccccccggccgccgcccccccTCAAAGC---GACGCT  954
+             ||| |  ||||||| ||| | ||||| | |       |||||||| |   |   |  |||
+Sbjct  971   CCC-CCCTGCCCCCTCCGGCTCCCCCACAG------CCCCCCCCTGAGGACCCAGCTGCT  1023
+
+Query  955   CTGTACGCTCTCGGCCCCGTGGTCCTTTCGGGCCATTTTCTGCCCTTT  1002
+             || ||||| ||||||||| | || || || || ||  | ||||| |||
+Sbjct  1024  CTCTACGCCCTCGGCCCCCTCGTGCTCTCCGGACACCTCCTGCCATTT  1071
+
+
+>XM_019005442.1 PREDICTED: Parus major GATA binding protein 1 (GATA1), transcript 
+variant X2, mRNA
+Length=1395
+
+ Score = 483 bits (535),  Expect = 2e-131
+ Identities = 555/749 (74%), Gaps = 82/749 (11%)
+ Strand=Plus/Plus
+
+Query  119   CCATGGAGTTCGTGGCGCTgggggggCCGGATGCGGGCTCCCCCACTCCGTTCCCTGATG  178
+             ||||||||||||||||  |||||||||| || | |    |||||||  ||||||| || |
+Sbjct  433   CCATGGAGTTCGTGGCATTGGGGGGGCCAGAGGGG----CCCCCAC--CGTTCCCCGACG  486
+
+Query  179   AAGCCGGAGCCTTCCTGGGGCTgggggggggCGAGAGGACGGAGGCgggggggCTGCTGG  238
+             | |||||||| |||||||||||||||||    ||  ||  |||| |||||||||||||||
+Sbjct  487   AGGCCGGAGCATTCCTGGGGCTGGGGGGCCCTGATGGGCTGGAGCCGGGGGGGCTGCTGG  546
+
+Query  239   CCTCCTAcccccccTCAGGCCGCGTGTCCCTGGTGCCGTGGGCAGACACGGGTACTTTGG  298
+             || | ||||||||| |||||||| ||||||||||||| ||||| ||   |||  |  |||
+Sbjct  547   CCCCATACCCCCCCCCAGGCCGCCTGTCCCTGGTGCCCTGGGCTGAGGGGGGGTCCCTGG  606
+
+Query  299   GGACCCCCCAGTGGGTGCCGCCCGCCACCCAAATGGAGcccccccACTACCTGGAGCTGC  358
+             ||  ||||   |||   || |||  ||| |    |||||| ||||| | |||||||||||
+Sbjct  607   GGGGCCCCTCCTGGACCCCTCCC--CACTC----GGAGCCTCCCCAGTTCCTGGAGCTGC  660
+
+Query  359   TGCAAcccccccggggcagccccccccATCCCTCCTCCGGGCCCCTACTGCCACTCAGCA  418
+             |||| |||||||||   |||||||| |      || | || ||||| ||||| | |    
+Sbjct  661   TGCAGCCCCCCCGG---AGCCCCCCTC------CCACGGGACCCCTCCTGCCGCCC----  707
+
+Query  419   GCGGGCCCCCACCCTGCGA---GG------CCCGTGAGTGC---GTCATGGCCAG-----  461
+               | |||||| |||||||    ||      || || | ||    ||  ||| |||     
+Sbjct  708   --GTGCCCCCGCCCTGCGTACTGGTTTGTACCGGTTACTGGTCTGTACTGGGCAGAGGCA  765
+
+Query  462   ---GAA-----GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGG  513
+                ||      ||||||||| || || || ||||| ||||||||||| ||||||||||||
+Sbjct  766   CGGGAGTGCGTGAACTGCGGGGCCACAGCGACGCCCCTGTGGCGCCGAGACGGCACCGGG  825
+
+Query  514   CATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAAC  573
+             || |||||||||||          ||||||||||| |||||||| |||||||| || |||
+Sbjct  826   CACTACCTGTGCAAT---------GCCTGCGGGCTGTACCACCGGCTCAACGGGCACAAC  876
+
+Query  574   CGCCCGCTCATCCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGC  633
+             || || |||||||||||||| ||||||||||||||||| || || || ||||| ||||||
+Sbjct  877   CGGCCCCTCATCCGCCCCAAGAAGCGCCTGCTGGTGAGCAAACGTGCCGGCACCGTGTGC  936
+
+Query  634   AGCCACGAGCGTGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATG  693
+             |||            |||||||||||   |||||| || |||||||| |||||||||   
+Sbjct  937   AGC------------AACTGCCAGACCAGCACCACGACCCTGTGGCGCCGCAGCCCCCGC  984
+
+Query  694   GGGGACCCCGTCTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTG  753
+             ||||||||||||||||||         |||||||| |||||||||||||||||||  |||
+Sbjct  985   GGGGACCCCGTCTGCAAC---------GCCTGCGGGCTCTACTACAAACTGCACCGGGTG  1035
+
+Query  754   AACCGCCCCCTCACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCC  813
+             ||||| || || ||||||||||| ||||| ||||| ||||| ||||| || || ||  ||
+Sbjct  1036  AACCGGCCGCTGACGATGCGCAAGGACGGGATCCAGACCCGCAACCGGAAGGTCTCGGCC  1095
+
+Query  814   AAGGGTAAAAAGCGGCGCCCCCCgggggg  842
+             ||||| || ||||||||||   |||||||
+Sbjct  1096  AAGGGCAAGAAGCGGCGCCAGGCGGGGGG  1124
+
+
+>XM_014261876.1 PREDICTED: Pseudopodoces humilis GATA binding protein 1 (globin 
+transcription factor 1) (GATA1), transcript variant X1, mRNA
+Length=920
+
+ Score = 451 bits (499),  Expect = 1e-121
+ Identities = 523/709 (74%), Gaps = 76/709 (11%)
+ Strand=Plus/Plus
+
+Query  159  CCCCACTCCGTTCCCTGATGAAGCCGGAGCCTTCCTGGGGCTgggggggggCGAGAGGAC  218
+            |||| | |||||||| || || |||||||| |||||||||||||||||    ||  ||  
+Sbjct  1    CCCCCCGCCGTTCCCCGACGAGGCCGGAGCATTCCTGGGGCTGGGGGGCCCTGATGGGCT  60
+
+Query  219  GGAGGCgggggggCTGCTGGCCTCCTAcccccccTCAGGCCGCGTGTCCCTGGTGCCGTG  278
+            |||| | ||||||||||||||| | ||||||||| |||||||| ||||||||||||| ||
+Sbjct  61   GGAGCCAGGGGGGCTGCTGGCCCCGTACCCCCCCCCAGGCCGCCTGTCCCTGGTGCCCTG  120
+
+Query  279  GGCAGACACGGGTACTTTGGGGACCCCCCAGTGGGTGCCGCCCGCCACCCAAATGGAGcc  338
+            ||| ||   |||  |  |||||  ||||   |||   || |||  ||| |    ||||||
+Sbjct  121  GGCTGAGGGGGGGTCCCTGGGGGGCCCCTCCTGGACCCCTCCC--CACTC----GGAGCC  174
+
+Query  339  cccccACTACCTGGAGCTGCTGCAAcccccccggggcagccccccccATCCCTCCTCCGG  398
+            |||||| | ||||||||||||||| |||||||||   ||||||||||      || | ||
+Sbjct  175  CCCCCAGTTCCTGGAGCTGCTGCAGCCCCCCCGG---AGCCCCCCCC------CCACGGG  225
+
+Query  399  GCCCCTACTGCCACTCAGCAGCGGGCCCCCACCCTGCGA---GG------CCCGTGAGTG  449
+             ||||| ||||| |        | |||||| |||||||    ||      |  || | ||
+Sbjct  226  ACCCCTCCTGCCGCCT------GTGCCCCCGCCCTGCGTACTGGTTTGTACTGGTTACTG  279
+
+Query  450  C---GTCATGGCCAG--------GAA-----GAACTGCGGAGCGACGGCAACGCCGCTGT  493
+                ||  ||| |||        ||      ||||||||| || || || ||||| ||||
+Sbjct  280  GTCTGTACTGGGCAGAGGCACGGGAGTGCGTGAACTGCGGGGCCACAGCGACGCCCCTGT  339
+
+Query  494  GGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTCTACC  553
+            ||||||| |||||||||||||| ||||||||||||         ||||||||||| ||||
+Sbjct  340  GGCGCCGAGACGGCACCGGGCACTACCTGTGCAAC---------GCCTGCGGGCTGTACC  390
+
+Query  554  ACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTGCTGGTGAGTA  613
+            |||| |||||||| || ||||| || |||||||||||||| ||||||||||||||||| |
+Sbjct  391  ACCGGCTCAACGGGCACAACCGGCCCCTCATCCGCCCCAAGAAGCGCCTGCTGGTGAGCA  450
+
+Query  614  AGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAGACATCCACCACCACTC  673
+            | || || ||||| |||||||||            |||||||||||   |||||| || |
+Sbjct  451  AACGTGCGGGCACGGTGTGCAGC------------AACTGCCAGACCAGCACCACGACCC  498
+
+Query  674  TGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATTCACGCCTGCGGCCTCT  733
+            ||||||| |||||||||   |||||||||||||||||          |||||||| ||||
+Sbjct  499  TGTGGCGCCGCAGCCCCCGCGGGGACCCCGTCTGCAAT---------GCCTGCGGGCTCT  549
+
+Query  734  ACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAGACGGAATCCAAACCC  793
+            |||||||||||||||  |||||||| || || ||||||||||| ||||| ||||| ||||
+Sbjct  550  ACTACAAACTGCACCGGGTGAACCGGCCGCTGACGATGCGCAAGGACGGGATCCAGACCC  609
+
+Query  794  GAAACCGCAAAGTTTCCTCCAAGGGTAAAAAGCGGCGCCCCCCgggggg  842
+            | ||||| || || ||  ||||||| || ||||||||||   |||||||
+Sbjct  610  GCAACCGGAAGGTCTCGGCCAAGGGCAAGAAGCGGCGCCAGGCGGGGGG  658
+
+
+>XM_018259893.1 PREDICTED: Xenopus laevis GATA-binding factor 2-like (LOC108715041), 
+mRNA
+Length=3659
+
+ Score = 418 bits (463),  Expect = 6e-112
+ Identities = 307/359 (86%), Gaps = 25/359 (7%)
+ Strand=Plus/Plus
+
+Query  1075  TAAATAATAACTCTGACGTGGGCAAGTGGGCCTTGCTGAGAAGACAGTGTAACATAATAA  1134
+             ||||||||||||  || |||||||| ||||| ||||  ||||||||||||||||||||||
+Sbjct  1581  TAAATAATAACT--GATGTGGGCAATTGGGCATTGCCAAGAAGACAGTGTAACATAATAA  1638
+
+Query  1135  TTTGCACCTCGGCAATTGCAGAGGGTCGATCTCCACTTTGGACACAACAGGGCTACTCGG  1194
+              ||||||||  ||| ||||||||| | |||||||||||||||||||||||||||||||||
+Sbjct  1639  CTTGCACCTTTGCAGTTGCAGAGGATGGATCTCCACTTTGGACACAACAGGGCTACTCGG  1698
+
+Query  1195  TAGGACCAGATAAGCACTTTGCTCCCTGGACTG------AAAAAGAAAGGATTTATCTGT  1248
+             ||||||||||||||||||||||||||  |||||      || || |||||||||||||||
+Sbjct  1699  TAGGACCAGATAAGCACTTTGCTCCCCAGACTGCAAAAAAACAAAAAAGGATTTATCTGT  1758
+
+Query  1249  TTGCTTCTTGCTGACAAATCCCTGTGAAAGGTAAAAGTCGGACACAGCAATCGATTATTT  1308
+             |||||||||||||||||||| |||| ||||||||||||||||||||  ||||        
+Sbjct  1759  TTGCTTCTTGCTGACAAATCTCTGTTAAAGGTAAAAGTCGGACACAATAATC--------  1810
+
+Query  1309  CTCGCCTGTGTGAAATTACTGTGAATATTGTAAatatatatatatatatatatatatCTG  1368
+                    ||| || ||||||||||||| |||||  |||||||||||||||||||||||||
+Sbjct  1811  -------GTGGGATATTACTGTGAATACTGTAA--ATATATATATATATATATATATCTG  1861
+
+Query  1369  TATAGAACAGCCTCGGAGGCGGCATGGACCCAGCGTAGATCATGCTGGATTTGTACTGC  1427
+             ||||||||||||| ||||||||||||||||||  | ||||||||||| |||||||||||
+Sbjct  1862  TATAGAACAGCCTTGGAGGCGGCATGGACCCAATGCAGATCATGCTGTATTTGTACTGC  1920
+
+
+ Score = 86.9 bits (95),  Expect = 4e-12
+ Identities = 122/173 (71%), Gaps = 9/173 (5%)
+ Strand=Plus/Plus
+
+Query  644   GTGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCG  703
+             ||| |||||| ||||| ||||| || ||  | ||| | || |   | |  |||||||| |
+Sbjct  1186  GTGCAAACTGTCAGACCTCCACTACGACGTTATGGAGACGTAATGCTAATGGGGACCCTG  1245
+
+Query  704   TCTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCC  763
+             | ||||||         ||||| || |||||||||||| ||||| | |||||||| ||||
+Sbjct  1246  TGTGCAAC---------GCCTGTGGACTCTACTACAAATTGCACAATGTGAACCGGCCCC  1296
+
+Query  764   TCACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             | || |||   || || ||||| || ||| ||||  | ||| | |||  ||||
+Sbjct  1297  TGACCATGAAAAAGGAAGGAATTCAGACCAGAAATAGGAAAATGTCCAGCAAG  1349
+
+
+>XM_004914092.3 PREDICTED: Xenopus tropicalis GATA binding protein 2 (gata2), 
+transcript variant X1, mRNA
+Length=4009
+
+ Score = 383 bits (424),  Expect = 1e-101
+ Identities = 308/375 (82%), Gaps = 34/375 (9%)
+ Strand=Plus/Plus
+
+Query  1075  TAAATAATAACTCTGACGTGGGCAAGTGGGCCTTGCTGAGAAGACAGTGTAACATAATAA  1134
+             ||||||||| |    | |||||||||| | | |||||||||||||| ||| ||| ||| |
+Sbjct  1718  TAAATAATAGCCA--ATGTGGGCAAGTTGCCTTTGCTGAGAAGACAATGTCACAAAATCA  1775
+
+Query  1135  TTTGCACCTCGGCAATTGCAGAGGGTCGATCTCCACTTTGGACACAACAGGGCTACTCGG  1194
+             |||| |||| | |||| |||| |||| |||||||||||||||||||||||||||||||||
+Sbjct  1776  TTTGGACCTGGACAATGGCAGCGGGTGGATCTCCACTTTGGACACAACAGGGCTACTCGG  1835
+
+Query  1195  TAGGACCAGATAAGCACTTTGCTCCCTGGACTGAAAAAGAAA--------------GGAT  1240
+             ||||||||||||||||||||||||||||||||| |||| |||              ||||
+Sbjct  1836  TAGGACCAGATAAGCACTTTGCTCCCTGGACTGCAAAAAAAAAAAAAAAATGAAATGGAT  1895
+
+Query  1241  TTATCTGTTTGCTTCTTGCTGACAAATCCCTGTGAAAGGTAAAAGTCGGACACAGCAA--  1298
+             |||||||||||||||||||||||||||| |||| ||||||||||||||||||||  ||  
+Sbjct  1896  TTATCTGTTTGCTTCTTGCTGACAAATCTCTGTTAAAGGTAAAAGTCGGACACAATAAGT  1955
+
+Query  1299  ----TCGATTATTTCTCGCCTGTGTGAAATTACTGTGAATATTGTAAatatatatatata  1354
+                 |   || ||| || || |||||||| |||||||||||||||||          |||
+Sbjct  1956  GTTTTTTTTTTTTTTTCACCCGTGTGAAAATACTGTGAATATTGTAA----------ATA  2005
+
+Query  1355  tatatatatatCTGTATAGAACAGCCTCGG--AGGCGGCATGGACCCAGCGTAGATCATG  1412
+             ||||||||||||||||||||||||||||||  ||||||||||||||||| ||||| ||||
+Sbjct  2006  TATATATATATCTGTATAGAACAGCCTCGGAAAGGCGGCATGGACCCAGTGTAGAACATG  2065
+
+Query  1413  CTGGATTTGTACTGC  1427
+             |||||||||||||||
+Sbjct  2066  CTGGATTTGTACTGC  2080
+
+
+ Score = 92.4 bits (101),  Expect = 1e-13
+ Identities = 231/352 (66%), Gaps = 32/352 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             ||||| ||||| || || || || || ||| |  | || || ||||| ||||| ||||| 
+Sbjct  1166  AACTGTGGAGCTACAGCCACCCCCCTATGGAGAAGAGATGGGACCGGCCATTATCTGTGT  1225
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         ||||| || ||||| |||    | || || || ||||| || ||||| 
+Sbjct  1226  AAC---------GCCTGTGGCCTCTATCACAAAATGAATGGTCAAAACCGGCCACTCATT  1276
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGC-G  644
+                |||||   | | |||        | |||    || || |  | || | |||  || |
+Sbjct  1277  AAGCCCAAGCGGAGACTG--------TCAGC----AGCCAGAA-GAGCGGGCACCTGCTG  1323
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+              |  || ||||||||  |||| || || || ||| | ||||   | |  |||||||| ||
+Sbjct  1324  CGCCAATTGCCAGACCACCACTACGACGCTATGGAGACGCAATGCTAATGGGGACCCTGT  1383
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              ||||||         |||||||| |||||||||||| ||||| | |||||||| |||||
+Sbjct  1384  GTGCAAC---------GCCTGCGGACTCTACTACAAATTGCACAATGTGAACCGGCCCCT  1434
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+              || |||   || || ||||| || ||| ||||  | ||| | |||  ||||
+Sbjct  1435  GACCATGAAAAAGGAAGGAATTCAGACCAGAAATAGGAAAATGTCCAACAAG  1486
+
+
+>XM_002933064.3 PREDICTED: Xenopus tropicalis GATA binding protein 2 (gata2), 
+transcript variant X2, mRNA
+Length=3977
+
+ Score = 383 bits (424),  Expect = 1e-101
+ Identities = 308/375 (82%), Gaps = 34/375 (9%)
+ Strand=Plus/Plus
+
+Query  1075  TAAATAATAACTCTGACGTGGGCAAGTGGGCCTTGCTGAGAAGACAGTGTAACATAATAA  1134
+             ||||||||| |    | |||||||||| | | |||||||||||||| ||| ||| ||| |
+Sbjct  1686  TAAATAATAGCCA--ATGTGGGCAAGTTGCCTTTGCTGAGAAGACAATGTCACAAAATCA  1743
+
+Query  1135  TTTGCACCTCGGCAATTGCAGAGGGTCGATCTCCACTTTGGACACAACAGGGCTACTCGG  1194
+             |||| |||| | |||| |||| |||| |||||||||||||||||||||||||||||||||
+Sbjct  1744  TTTGGACCTGGACAATGGCAGCGGGTGGATCTCCACTTTGGACACAACAGGGCTACTCGG  1803
+
+Query  1195  TAGGACCAGATAAGCACTTTGCTCCCTGGACTGAAAAAGAAA--------------GGAT  1240
+             ||||||||||||||||||||||||||||||||| |||| |||              ||||
+Sbjct  1804  TAGGACCAGATAAGCACTTTGCTCCCTGGACTGCAAAAAAAAAAAAAAAATGAAATGGAT  1863
+
+Query  1241  TTATCTGTTTGCTTCTTGCTGACAAATCCCTGTGAAAGGTAAAAGTCGGACACAGCAA--  1298
+             |||||||||||||||||||||||||||| |||| ||||||||||||||||||||  ||  
+Sbjct  1864  TTATCTGTTTGCTTCTTGCTGACAAATCTCTGTTAAAGGTAAAAGTCGGACACAATAAGT  1923
+
+Query  1299  ----TCGATTATTTCTCGCCTGTGTGAAATTACTGTGAATATTGTAAatatatatatata  1354
+                 |   || ||| || || |||||||| |||||||||||||||||          |||
+Sbjct  1924  GTTTTTTTTTTTTTTTCACCCGTGTGAAAATACTGTGAATATTGTAA----------ATA  1973
+
+Query  1355  tatatatatatCTGTATAGAACAGCCTCGG--AGGCGGCATGGACCCAGCGTAGATCATG  1412
+             ||||||||||||||||||||||||||||||  ||||||||||||||||| ||||| ||||
+Sbjct  1974  TATATATATATCTGTATAGAACAGCCTCGGAAAGGCGGCATGGACCCAGTGTAGAACATG  2033
+
+Query  1413  CTGGATTTGTACTGC  1427
+             |||||||||||||||
+Sbjct  2034  CTGGATTTGTACTGC  2048
+
+
+ Score = 92.4 bits (101),  Expect = 1e-13
+ Identities = 231/352 (66%), Gaps = 32/352 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             ||||| ||||| || || || || || ||| |  | || || ||||| ||||| ||||| 
+Sbjct  1134  AACTGTGGAGCTACAGCCACCCCCCTATGGAGAAGAGATGGGACCGGCCATTATCTGTGT  1193
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         ||||| || ||||| |||    | || || || ||||| || ||||| 
+Sbjct  1194  AAC---------GCCTGTGGCCTCTATCACAAAATGAATGGTCAAAACCGGCCACTCATT  1244
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGC-G  644
+                |||||   | | |||        | |||    || || |  | || | |||  || |
+Sbjct  1245  AAGCCCAAGCGGAGACTG--------TCAGC----AGCCAGAA-GAGCGGGCACCTGCTG  1291
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+              |  || ||||||||  |||| || || || ||| | ||||   | |  |||||||| ||
+Sbjct  1292  CGCCAATTGCCAGACCACCACTACGACGCTATGGAGACGCAATGCTAATGGGGACCCTGT  1351
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              ||||||         |||||||| |||||||||||| ||||| | |||||||| |||||
+Sbjct  1352  GTGCAAC---------GCCTGCGGACTCTACTACAAATTGCACAATGTGAACCGGCCCCT  1402
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+              || |||   || || ||||| || ||| ||||  | ||| | |||  ||||
+Sbjct  1403  GACCATGAAAAAGGAAGGAATTCAGACCAGAAATAGGAAAATGTCCAACAAG  1454
+
+
+>XM_021554734.1 PREDICTED: Lonchura striata domestica erythroid transcription 
+factor-like (LOC110484219), partial mRNA
+Length=663
+
+ Score = 368 bits (407),  Expect = 9e-97
+ Identities = 373/491 (76%), Gaps = 60/491 (12%)
+ Strand=Plus/Plus
+
+Query  355  CTGCTGCAAcccccccggggcagccccccccATCCCTCCTCCGGGCCCCTACTGCCACTC  414
+            |||||||| ||||||||   |||||||||||  |||    ||   ||||| | ||| | |
+Sbjct  1    CTGCTGCAGCCCCCCCG---CAGCCCCCCCCCACCCGGACCC---CCCCTGCCGCCCCCC  54
+
+Query  415  AGCAGCGGGCCCCCACCCTGCGAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGA  474
+             | ||| |        |||||||||| || ||||||||            ||||||||| 
+Sbjct  55   GG-AGCCG--------CCTGCGAGGCGCGCGAGTGCGT------------GAACTGCGGG  93
+
+Query  475  GCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCC  534
+            || ||||| |||||||||||||||||||||||||||||||| ||||||||||||      
+Sbjct  94   GCCACGGCGACGCCGCTGTGGCGCCGGGACGGCACCGGGCACTACCTGTGCAAC------  147
+
+Query  535  TCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAA  594
+               ||||||||||| |||||||| || ||||| || ||||| || |||||||||||||| 
+Sbjct  148  ---GCCTGCGGGCTGTACCACCGGCTGAACGGGCACAACCGGCCCCTCATCCGCCCCAAG  204
+
+Query  595  AAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGC  654
+            ||||||||||||||||| || ||||| ||||| || ||||||            ||||||
+Sbjct  205  AAGCGCCTGCTGGTGAGCAAACGCGCCGGCACCGTCTGCAGC------------AACTGC  252
+
+Query  655  CAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAAC  714
+            |||||   ||||||||| |||||| | |||||||||   ||||||||||||||||||   
+Sbjct  253  CAGACCAGCACCACCACGCTGTGGAGGCGCAGCCCCCGCGGGGACCCCGTCTGCAAC---  309
+
+Query  715  ATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGC  774
+                  |||||||| || ||||||||||||||||  ||||||||||| || |||||||||
+Sbjct  310  ------GCCTGCGGGCTGTACTACAAACTGCACCGGGTGAACCGCCCGCTGACGATGCGC  363
+
+Query  775  AAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAGGGTAAAAAGCGGCGCCCC  834
+            || ||||| ||||| ||||| |||||||| || ||  ||||||| || ||||||||   |
+Sbjct  364  AAGGACGGCATCCAGACCCGCAACCGCAAGGTCTCGGCCAAGGGCAAGAAGCGGCG---C  420
+
+Query  835  CCggggggggg  845
+            | |||||||||
+Sbjct  421  CAGGGGGGGGG  431
+
+
+>XM_030260425.1 PREDICTED: Taeniopygia guttata GATA binding protein 1 (GATA1), 
+mRNA
+Length=792
+
+ Score = 363 bits (402),  Expect = 1e-95
+ Identities = 306/380 (81%), Gaps = 32/380 (8%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||| || |||||||| |||||||||||||||||||||||||||||||| ||||||||
+Sbjct  204  GAACTGTGGGGCGACGGCGACGCCGCTGTGGCGCCGGGACGGCACCGGGCACTACCTGTG  263
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            ||||         ||||||||||| |||||||||||||||||||| ||||| || |||||
+Sbjct  264  CAAC---------GCCTGCGGGCTGTACCACCGCCTCAACGGCCACAACCGGCCCCTCAT  314
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||||||||| ||||||||||||||||| || ||||| ||||| || ||||||        
+Sbjct  315  CCGCCCCAAGAAGCGCCTGCTGGTGAGCAAACGCGCCGGCACCGTCTGCAGC--------  366
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||   ||||||||| |||||| | |||||||||   || ||||||||
+Sbjct  367  ----AACTGCCAGACCAGCACCACCACGCTGTGGAGGCGCAGCCCCCGCGGAGACCCCGT  422
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+            |||||         |||||||||| || ||||||||||||||||  ||||||||||| ||
+Sbjct  423  CTGCA---------ACGCCTGCGGGCTGTACTACAAACTGCACCGGGTGAACCGCCCGCT  473
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAGGGTAAAAA  824
+             ||||||||||| ||||| ||||| ||||| |||||||| || ||  ||||||| || ||
+Sbjct  474  GACGATGCGCAAGGACGGGATCCAGACCCGCAACCGCAAGGTCTCGGCCAAGGGCAAGAA  533
+
+Query  825  GCGGCGCCCCCCgggggggg  844
+            ||||||  ||  ||||||||
+Sbjct  534  GCGGCG--CCAAGGGGGGGG  551
+
+
+>XM_030970263.1 PREDICTED: Camarhynchus parvulus GATA binding protein 1 (GATA1), 
+mRNA
+Length=1185
+
+ Score = 343 bits (380),  Expect = 1e-89
+ Identities = 302/381 (79%), Gaps = 33/381 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            ||||||||| |||||||| |||||||||||||||||||||||||||||||| ||||||||
+Sbjct  560  GAACTGCGGGGCGACGGCGACGCCGCTGTGGCGCCGGGACGGCACCGGGCACTACCTGTG  619
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            ||||         |||||||||||||||||||| |||||||| || ||||| || || ||
+Sbjct  620  CAAC---------GCCTGCGGGCTCTACCACCGGCTCAACGGGCACAACCGGCCCCTGAT  670
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||||||||| || |||||||||||||| || ||||| ||||| || ||||||        
+Sbjct  671  CCGCCCCAAGAAACGCCTGCTGGTGAGCAAACGCGCCGGCACCGTCTGCAGC--------  722
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||   ||| ||||| |||||| | |||||||||   ||||| |||||
+Sbjct  723  ----AACTGCCAGACCAGCACGACCACGCTGTGGAGGCGCAGCCCCCGCGGGGAGCCCGT  778
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             ||||||         ||||||||| | ||||||||||||||||  |||||||| || ||
+Sbjct  779  GTGCAAC---------GCCTGCGGCTTGTACTACAAACTGCACCGGGTGAACCGGCCGCT  829
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAGGGTAAAAA  824
+             ||||||||||| ||||| ||||| ||||| |||||||| || ||  ||||||| || ||
+Sbjct  830  GACGATGCGCAAGGACGGCATCCAGACCCGCAACCGCAAGGTCTCGGCCAAGGGCAAGAA  889
+
+Query  825  GCGGCGCCCCCCggggggggg  845
+            ||||||   || |||||||||
+Sbjct  890  GCGGCG---CCAGGGGGGGGG  907
+
+
+ Score = 151 bits (167),  Expect = 1e-31
+ Identities = 136/169 (80%), Gaps = 9/169 (5%)
+ Strand=Plus/Plus
+
+Query  119  CCATGGAGTTCGTGGCGCTgggggggCCGGATGCGGGCTCCCCCACTCCGTTCCCTGATG  178
+            |||||||||| ||| |||||||||||||||| |  ||| |||||    ||||||| || |
+Sbjct  142  CCATGGAGTTTGTGACGCTGGGGGGGCCGGAGG--GGCCCCCCC----CGTTCCCGGACG  195
+
+Query  179  AAGCCGGAGCCTTCCTGGGGCTgggggggggCGAGAGGACGGAGGCgggggggCTGCTGG  238
+            | |||| ||| |||||||||||||||| |  |||| || ||||| |||||||||||||||
+Sbjct  196  AGGCCGCAGCGTTCCTGGGGCTGGGGGCGCCCGAGGGGCCGGAGCCGGGGGGGCTGCTGG  255
+
+Query  239  CCTCCTAccccccc---TCAGGCCGCGTGTCCCTGGTGCCGTGGGCAGA  284
+               ||| |||||||    |||||||  ||||||||||||| ||||| ||
+Sbjct  256  GGCCCTTCCCCCCCGCGCCAGGCCGGCTGTCCCTGGTGCCCTGGGCTGA  304
+
+
+>XM_019005441.1 PREDICTED: Parus major GATA binding protein 1 (GATA1), transcript 
+variant X1, mRNA
+Length=1671
+
+ Score = 340 bits (376),  Expect = 1e-88
+ Identities = 299/378 (79%), Gaps = 30/378 (8%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             ||||||||| || || || ||||| ||||||||||| |||||||||||||| ||||||||
+Sbjct  1053  GAACTGCGGGGCCACAGCGACGCCCCTGTGGCGCCGAGACGGCACCGGGCACTACCTGTG  1112
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             |||          ||||||||||| |||||||| |||||||| || ||||| || |||||
+Sbjct  1113  CAAT---------GCCTGCGGGCTGTACCACCGGCTCAACGGGCACAACCGGCCCCTCAT  1163
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||||||||| ||||||||||||||||| || || || ||||| |||||||||        
+Sbjct  1164  CCGCCCCAAGAAGCGCCTGCTGGTGAGCAAACGTGCCGGCACCGTGTGCAGC--------  1215
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||   |||||| || |||||||| |||||||||   |||||||||||
+Sbjct  1216  ----AACTGCCAGACCAGCACCACGACCCTGTGGCGCCGCAGCCCCCGCGGGGACCCCGT  1271
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             |||||||         |||||||| |||||||||||||||||||  |||||||| || ||
+Sbjct  1272  CTGCAAC---------GCCTGCGGGCTCTACTACAAACTGCACCGGGTGAACCGGCCGCT  1322
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAGGGTAAAAA  824
+              ||||||||||| ||||| ||||| ||||| ||||| || || ||  ||||||| || ||
+Sbjct  1323  GACGATGCGCAAGGACGGGATCCAGACCCGCAACCGGAAGGTCTCGGCCAAGGGCAAGAA  1382
+
+Query  825   GCGGCGCCCCCCgggggg  842
+             ||||||||   |||||||
+Sbjct  1383  GCGGCGCCAGGCGGGGGG  1400
+
+
+>XM_024112231.1 PREDICTED: Chrysemys picta bellii GATA binding protein 1 (GATA1), 
+transcript variant X3, mRNA
+Length=1771
+
+ Score = 293 bits (324),  Expect = 2e-74
+ Identities = 301/401 (75%), Gaps = 42/401 (10%)
+ Strand=Plus/Plus
+
+Query  430   CCCTGCGAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGAGCGACGGCAACGCCG  489
+             || |||||||| || ||||||||            ||||||||| || ||||| || || 
+Sbjct  659   CCATGCGAGGCGCGGGAGTGCGT------------GAACTGCGGGGCCACGGCCACCCCC  706
+
+Query  490   CTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTC  549
+             |||||||||||||||||||||||||| |||||||| |||         ||||||||||| 
+Sbjct  707   CTGTGGCGCCGGGACGGCACCGGGCACTACCTGTGTAAC---------GCCTGCGGGCTG  757
+
+Query  550   TACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTGCTGGTG  609
+             ||||||    | ||||| |||||||| ||||||||||| ||||| || |||||| | || 
+Sbjct  758   TACCACAAGATGAACGGGCAGAACCGGCCGCTCATCCGGCCCAAGAAACGCCTGATCGTC  817
+
+Query  610   AGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAGACATCCACCACC  669
+             || || || || || ||   |||||||            |||||||||||  ||||||||
+Sbjct  818   AGCAAACGAGCGGGTACCCAGTGCAGC------------AACTGCCAGACGACCACCACC  865
+
+Query  670   ACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATTCACGCCTGCGGC  729
+             || || ||||| |||| | |||  ||||| ||||||||||||         |||||||||
+Sbjct  866   ACGCTCTGGCGCCGCAACGCCAGCGGGGAGCCCGTCTGCAAC---------GCCTGCGGC  916
+
+Query  730   CTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAGACGGAATCCAA  789
+             |||||||||||||||||| | || || |||||||| |||||||| |||||||| ||||| 
+Sbjct  917   CTCTACTACAAACTGCACAACGTCAATCGCCCCCTGACGATGCGGAAAGACGGCATCCAG  976
+
+Query  790   ACCCGAAACCGCAAAGTTTCCTCCAAGGGTAAAAAGCGGCG  830
+             ||||| ||||||||||| |||  |||||| || || || ||
+Sbjct  977   ACCCGCAACCGCAAAGTCTCCGGCAAGGGCAAGAAACGCCG  1017
+
+
+>XM_024112230.1 PREDICTED: Chrysemys picta bellii GATA binding protein 1 (GATA1), 
+transcript variant X2, mRNA
+Length=1814
+
+ Score = 293 bits (324),  Expect = 2e-74
+ Identities = 301/401 (75%), Gaps = 42/401 (10%)
+ Strand=Plus/Plus
+
+Query  430   CCCTGCGAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGAGCGACGGCAACGCCG  489
+             || |||||||| || ||||||||            ||||||||| || ||||| || || 
+Sbjct  702   CCATGCGAGGCGCGGGAGTGCGT------------GAACTGCGGGGCCACGGCCACCCCC  749
+
+Query  490   CTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTC  549
+             |||||||||||||||||||||||||| |||||||| |||         ||||||||||| 
+Sbjct  750   CTGTGGCGCCGGGACGGCACCGGGCACTACCTGTGTAAC---------GCCTGCGGGCTG  800
+
+Query  550   TACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTGCTGGTG  609
+             ||||||    | ||||| |||||||| ||||||||||| ||||| || |||||| | || 
+Sbjct  801   TACCACAAGATGAACGGGCAGAACCGGCCGCTCATCCGGCCCAAGAAACGCCTGATCGTC  860
+
+Query  610   AGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAGACATCCACCACC  669
+             || || || || || ||   |||||||            |||||||||||  ||||||||
+Sbjct  861   AGCAAACGAGCGGGTACCCAGTGCAGC------------AACTGCCAGACGACCACCACC  908
+
+Query  670   ACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATTCACGCCTGCGGC  729
+             || || ||||| |||| | |||  ||||| ||||||||||||         |||||||||
+Sbjct  909   ACGCTCTGGCGCCGCAACGCCAGCGGGGAGCCCGTCTGCAAC---------GCCTGCGGC  959
+
+Query  730   CTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAGACGGAATCCAA  789
+             |||||||||||||||||| | || || |||||||| |||||||| |||||||| ||||| 
+Sbjct  960   CTCTACTACAAACTGCACAACGTCAATCGCCCCCTGACGATGCGGAAAGACGGCATCCAG  1019
+
+Query  790   ACCCGAAACCGCAAAGTTTCCTCCAAGGGTAAAAAGCGGCG  830
+             ||||| ||||||||||| |||  |||||| || || || ||
+Sbjct  1020  ACCCGCAACCGCAAAGTCTCCGGCAAGGGCAAGAAACGCCG  1060
+
+
+>XM_024112229.1 PREDICTED: Chrysemys picta bellii GATA binding protein 1 (GATA1), 
+transcript variant X1, mRNA
+Length=5125
+
+ Score = 293 bits (324),  Expect = 2e-74
+ Identities = 301/401 (75%), Gaps = 42/401 (10%)
+ Strand=Plus/Plus
+
+Query  430   CCCTGCGAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGAGCGACGGCAACGCCG  489
+             || |||||||| || ||||||||            ||||||||| || ||||| || || 
+Sbjct  4013  CCATGCGAGGCGCGGGAGTGCGT------------GAACTGCGGGGCCACGGCCACCCCC  4060
+
+Query  490   CTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTC  549
+             |||||||||||||||||||||||||| |||||||| |||         ||||||||||| 
+Sbjct  4061  CTGTGGCGCCGGGACGGCACCGGGCACTACCTGTGTAAC---------GCCTGCGGGCTG  4111
+
+Query  550   TACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTGCTGGTG  609
+             ||||||    | ||||| |||||||| ||||||||||| ||||| || |||||| | || 
+Sbjct  4112  TACCACAAGATGAACGGGCAGAACCGGCCGCTCATCCGGCCCAAGAAACGCCTGATCGTC  4171
+
+Query  610   AGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAGACATCCACCACC  669
+             || || || || || ||   |||||||            |||||||||||  ||||||||
+Sbjct  4172  AGCAAACGAGCGGGTACCCAGTGCAGC------------AACTGCCAGACGACCACCACC  4219
+
+Query  670   ACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATTCACGCCTGCGGC  729
+             || || ||||| |||| | |||  ||||| ||||||||||||         |||||||||
+Sbjct  4220  ACGCTCTGGCGCCGCAACGCCAGCGGGGAGCCCGTCTGCAAC---------GCCTGCGGC  4270
+
+Query  730   CTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAGACGGAATCCAA  789
+             |||||||||||||||||| | || || |||||||| |||||||| |||||||| ||||| 
+Sbjct  4271  CTCTACTACAAACTGCACAACGTCAATCGCCCCCTGACGATGCGGAAAGACGGCATCCAG  4330
+
+Query  790   ACCCGAAACCGCAAAGTTTCCTCCAAGGGTAAAAAGCGGCG  830
+             ||||| ||||||||||| |||  |||||| || || || ||
+Sbjct  4331  ACCCGCAACCGCAAAGTCTCCGGCAAGGGCAAGAAACGCCG  4371
+
+
+>XM_005515529.2 PREDICTED: Columba livia erythroid transcription factor-like 
+(LOC102096653), partial mRNA
+Length=802
+
+ Score = 285 bits (315),  Expect = 8e-72
+ Identities = 234/290 (81%), Gaps = 30/290 (10%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            ||||||||| |||||||| ||||||||||||||||||||||||||||| || ||||||||
+Sbjct  42   GAACTGCGGGGCGACGGCGACGCCGCTGTGGCGCCGGGACGGCACCGGCCACTACCTGTG  101
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            ||||         |||||||||||||||||||| ||||||||||| ||||| || |||||
+Sbjct  102  CAAC---------GCCTGCGGGCTCTACCACCGGCTCAACGGCCACAACCGGCCCCTCAT  152
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||||||||| ||||||||||||||||| || ||||| ||||| || ||||||        
+Sbjct  153  CCGCCCCAAGAAGCGCCTGCTGGTGAGCAAACGCGCCGGCACCGTCTGCAGC--------  204
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||| ||   |||||| || |||||||| |||||||||   |||||||||||
+Sbjct  205  ----AACTGCCAAACCAGCACCACGACCCTGTGGCGCCGCAGCCCCCGCGGGGACCCCGT  260
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGA  754
+            |||||         ||||||||||||||||||||||||||||||  ||||
+Sbjct  261  CTGCA---------ACGCCTGCGGCCTCTACTACAAACTGCACCGCGTGA  301
+
+
+>XM_005061320.2 PREDICTED: Ficedula albicollis GATA binding protein 1 (GATA1), 
+mRNA
+Length=628
+
+ Score = 267 bits (295),  Expect = 2e-66
+ Identities = 230/290 (79%), Gaps = 30/290 (10%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            ||||||||| || || || |||||||| ||||||||||||||||||||||| ||||||||
+Sbjct  297  GAACTGCGGGGCCACAGCGACGCCGCTCTGGCGCCGGGACGGCACCGGGCACTACCTGTG  356
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            ||||         ||||||||||| |||||||| || ||||| || ||||| ||||||||
+Sbjct  357  CAAC---------GCCTGCGGGCTGTACCACCGGCTGAACGGGCACAACCGGCCGCTCAT  407
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||||||||||||||||||||||||||| || ||||| ||||| |||||||||        
+Sbjct  408  CCGCCCCAAAAAGCGCCTGCTGGTGAGCAAACGCGCGGGCACCGTGTGCAGC--------  459
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||   |||||| || |||||| | |||||||||   |||||||||||
+Sbjct  460  ----AACTGCCAGACCAGCACCACGACCCTGTGGAGGCGCAGCCCCCGCGGGGACCCCGT  515
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGA  754
+             ||||         |||||||||| |||||||||||||||||||  ||||
+Sbjct  516  GTGCA---------ACGCCTGCGGGCTCTACTACAAACTGCACCGGGTGA  556
+
+
+>XM_023945359.1 PREDICTED: Cyanistes caeruleus erythroid transcription factor-like 
+(LOC111942180), mRNA
+Length=1547
+
+ Score = 254 bits (281),  Expect = 1e-62
+ Identities = 223/283 (79%), Gaps = 30/283 (11%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             ||||||||| || || |||||||| ||||||||||| || ||||||||||| ||||||||
+Sbjct  1103  GAACTGCGGGGCCACAGCAACGCCCCTGTGGCGCCGAGATGGCACCGGGCACTACCTGTG  1162
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         ||||||||||| |||||||| |||||||| || ||||| || |||||
+Sbjct  1163  CAAC---------GCCTGCGGGCTGTACCACCGGCTCAACGGGCACAACCGGCCCCTCAT  1213
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||||||||| ||||||||||||||||| || || || ||||| |||||||||        
+Sbjct  1214  CCGCCCCAAGAAGCGCCTGCTGGTGAGCAAACGTGCCGGCACCGTGTGCAGC--------  1265
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||   |||||| || |||||||| |||||||||   |||||||| ||
+Sbjct  1266  ----AACTGCCAGACCAGCACCACGACCCTGTGGCGCCGCAGCCCCCGCGGGGACCCTGT  1321
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCAC  747
+             |||||         |||||||||| ||||||||||||||||||
+Sbjct  1322  CTGCA---------ACGCCTGCGGGCTCTACTACAAACTGCAC  1355
+
+
+>XM_019496637.1 PREDICTED: Alligator mississippiensis GATA binding protein 1 
+(GATA1), mRNA
+Length=2303
+
+ Score = 248 bits (274),  Expect = 6e-61
+ Identities = 272/367 (74%), Gaps = 30/367 (8%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             ||||||||| || ||||| || || |||||||||||||| || |||||||| ||||| ||
+Sbjct  1263  GAACTGCGGGGCCACGGCCACACCACTGTGGCGCCGGGATGGTACCGGGCACTACCTATG  1322
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             |||          ||||| ||||| ||||||||  |||||||    ||||| || |||||
+Sbjct  1323  CAAT---------GCCTGTGGGCTGTACCACCGTGTCAACGGTGCCAACCGGCCCCTCAT  1373
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||||||||| || || ||| ||||||| ||||| ||||| ||   |||||||        
+Sbjct  1374  CCGCCCCAAGAAACGTCTGGTGGTGAGCAAGCGAGCAGGGACCCAGTGCAGC--------  1425
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||  | ||||| || |||||||| |||  ||||   ||| | |||||
+Sbjct  1426  ----AACTGCCAGACCACGACCACAACACTGTGGCGCCGCGACCCCCGCGGGCAGCCCGT  1481
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             |||||||         || |||||||| |||||||| || ||| | |||||||| || ||
+Sbjct  1482  CTGCAAC---------GCTTGCGGCCTGTACTACAAGCTCCACAATGTGAACCGGCCACT  1532
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAGGGTAAAAA  824
+              || |||||||| || || ||||| || || ||||||||||| ||  ||||||| || ||
+Sbjct  1533  GACCATGCGCAAGGATGGGATCCAGACACGGAACCGCAAAGTCTCAGCCAAGGGCAAGAA  1592
+
+Query  825   GCGGCGC  831
+             ||| |||
+Sbjct  1593  GCGCCGC  1599
+
+
+>XM_025213719.1 PREDICTED: Alligator sinensis GATA binding protein 1 (GATA1), 
+mRNA
+Length=1491
+
+ Score = 239 bits (264),  Expect = 3e-58
+ Identities = 270/367 (74%), Gaps = 30/367 (8%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            ||||||||| || ||||| || || |||||||||||||| || |||||||| ||||| ||
+Sbjct  450  GAACTGCGGGGCCACGGCCACACCACTGTGGCGCCGGGATGGTACCGGGCACTACCTATG  509
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            |||          ||||||||||| ||||||||  |||||||    ||||| || |||||
+Sbjct  510  CAAT---------GCCTGCGGGCTGTACCACCGTGTCAACGGTGCCAACCGGCCCCTCAT  560
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||||||||| || || ||| ||||||| ||||| ||||| ||   |||||||        
+Sbjct  561  CCGCCCCAAGAAACGTCTGGTGGTGAGCAAGCGAGCAGGGACCCAGTGCAGC--------  612
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||  | ||||| || |||||||| |||  ||||   ||| | |||||
+Sbjct  613  ----AACTGCCAGACCACGACCACAACACTGTGGCGCCGCGACCCCCGCGGGCAGCCCGT  668
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+            |||||         |||| |||||||| |||||||| || ||| | |||||||| || ||
+Sbjct  669  CTGCA---------ACGCTTGCGGCCTGTACTACAAGCTCCACAATGTGAACCGGCCACT  719
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAGGGTAAAAA  824
+             || ||||| || || || ||||| || || || ||||| || ||  ||||||| || ||
+Sbjct  720  GACCATGCGGAAGGATGGGATCCAGACACGGAATCGCAAGGTCTCAGCCAAGGGCAAGAA  779
+
+Query  825  GCGGCGC  831
+            ||| |||
+Sbjct  780  GCGCCGC  786
+
+
+>XM_007884760.1 PREDICTED: Callorhinchus milii GATA-binding factor 1-A-like (LOC103171966), 
+mRNA
+Length=1639
+
+ Score = 239 bits (264),  Expect = 3e-58
+ Identities = 255/342 (75%), Gaps = 30/342 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             ||| || ||||| ||||| || |||||||||||  |||||||||||||||| ||||||||
+Sbjct  782   GAATTGTGGAGCCACGGCCACTCCGCTGTGGCGGAGGGACGGCACCGGGCACTACCTGTG  841
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+              |||         ||||| ||||||||||||    | ||||| |||||||| ||||||||
+Sbjct  842   TAAC---------GCCTGTGGGCTCTACCACAAGATGAACGGACAGAACCGGCCGCTCAT  892
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||||||||| || |||||| | || |||||| | || ||||||  ||||           
+Sbjct  893   CCGCCCCAAGAAACGCCTGATTGTCAGTAAGAGGGCTGGCACACAGTGC-----------  941
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+              |  |||||||| || | ||||||||| |||||| | || | | |||  || || || ||
+Sbjct  942   -GCTAACTGCCACACTTGCACCACCACACTGTGGAGACGTAACGCCACTGGAGATCCTGT  1000
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              || |||         ||||||||||| ||||||||||||||| |||||||| | |||||
+Sbjct  1001  GTGTAAC---------GCCTGCGGCCTTTACTACAAACTGCACAAAGTGAACAGACCCCT  1051
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGT  806
+              || |||   || ||||||||||| ||| |||||||||||||
+Sbjct  1052  GACTATGAAGAAGGACGGAATCCAGACCAGAAACCGCAAAGT  1093
+
+
+>XM_023325211.1 PREDICTED: Xiphophorus maculatus GATA-binding factor 1-B-like 
+(LOC102221305), transcript variant X2, mRNA
+Length=2647
+
+ Score = 234 bits (259),  Expect = 1e-56
+ Identities = 261/352 (74%), Gaps = 30/352 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| || || ||||| ||||||||||||||||| ||||| || ||||||||
+Sbjct  836   GAACTGCGGAGCCACCGCGACGCCCCTGTGGCGCCGGGACGGTACCGGACACTACCTGTG  895
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         |||||||| || ||||||    | |||||||||||||| || || ||
+Sbjct  896   CAAC---------GCCTGCGGACTGTACCACAAGATGAACGGCCAGAACCGACCTCTGAT  946
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||| | ||| | ||||| |||||||| || || |||||| |||       
+Sbjct  947   CCGGCCCAAGAAGAGACTGATCGTGAGCAAGCGCGCGGGTACCGTGTGC-GCC-------  998
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 ||||| || ||   ||| || || |||||||| |||| | |||  ||||| |||||
+Sbjct  999   ----AACTGTCACACCAGCACGACGACGCTGTGGCGGCGCAACGCCAGCGGGGAGCCCGT  1054
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              ||||         |||||||||| ||||||| |||||||||| | || ||||| || ||
+Sbjct  1055  GTGCA---------ACGCCTGCGGACTCTACTTCAAACTGCACAATGTCAACCGACCGCT  1105
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             ||| |||   ||||| || ||||| ||||| ||||| ||||| |||  ||||
+Sbjct  1106  CACCATGAAGAAAGAAGGCATCCAGACCCGCAACCGGAAAGTCTCCAACAAG  1157
+
+
+>XM_005800620.2 PREDICTED: Xiphophorus maculatus GATA-binding factor 1-B-like 
+(LOC102221305), transcript variant X1, mRNA
+Length=2681
+
+ Score = 234 bits (259),  Expect = 1e-56
+ Identities = 261/352 (74%), Gaps = 30/352 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| || || ||||| ||||||||||||||||| ||||| || ||||||||
+Sbjct  870   GAACTGCGGAGCCACCGCGACGCCCCTGTGGCGCCGGGACGGTACCGGACACTACCTGTG  929
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         |||||||| || ||||||    | |||||||||||||| || || ||
+Sbjct  930   CAAC---------GCCTGCGGACTGTACCACAAGATGAACGGCCAGAACCGACCTCTGAT  980
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||| | ||| | ||||| |||||||| || || |||||| |||       
+Sbjct  981   CCGGCCCAAGAAGAGACTGATCGTGAGCAAGCGCGCGGGTACCGTGTGC-GCC-------  1032
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 ||||| || ||   ||| || || |||||||| |||| | |||  ||||| |||||
+Sbjct  1033  ----AACTGTCACACCAGCACGACGACGCTGTGGCGGCGCAACGCCAGCGGGGAGCCCGT  1088
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              ||||         |||||||||| ||||||| |||||||||| | || ||||| || ||
+Sbjct  1089  GTGCA---------ACGCCTGCGGACTCTACTTCAAACTGCACAATGTCAACCGACCGCT  1139
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             ||| |||   ||||| || ||||| ||||| ||||| ||||| |||  ||||
+Sbjct  1140  CACCATGAAGAAAGAAGGCATCCAGACCCGCAACCGGAAAGTCTCCAACAAG  1191
+
+
+>XM_028002048.1 PREDICTED: Xiphophorus couchianus GATA-binding factor 1-B-like 
+(LOC114135098), transcript variant X2, mRNA
+Length=1793
+
+ Score = 230 bits (254),  Expect = 2e-55
+ Identities = 260/352 (74%), Gaps = 30/352 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| || || ||||| ||||||||||||||||| ||||| || ||||||||
+Sbjct  876   GAACTGCGGAGCCACCGCGACGCCCCTGTGGCGCCGGGACGGTACCGGACACTACCTGTG  935
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         |||||||| || ||||||    | |||||||||||||| || || ||
+Sbjct  936   CAAC---------GCCTGCGGACTGTACCACAAGATGAACGGCCAGAACCGACCTCTGAT  986
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||| | ||| | ||||| |||||||| || || |||||| |||       
+Sbjct  987   CCGGCCCAAGAAGAGACTGATCGTGAGCAAGCGCGCGGGTACCGTGTGC-GCC-------  1038
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 ||||| || ||   ||| || || |||||||| |||| | |||  ||||| |||||
+Sbjct  1039  ----AACTGTCACACCAGCACGACGACGCTGTGGCGGCGCAACGCCAGCGGGGAGCCCGT  1094
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              ||||         |||||||||| ||||||| |||||||||| | || ||||| || ||
+Sbjct  1095  GTGCA---------ACGCCTGCGGACTCTACTTCAAACTGCACAATGTCAACCGACCGCT  1145
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             ||| |||   || || || ||||| ||||| ||||| ||||| |||  ||||
+Sbjct  1146  CACCATGAAGAAGGAAGGCATCCAGACCCGCAACCGGAAAGTCTCCAACAAG  1197
+
+
+>XM_028002046.1 PREDICTED: Xiphophorus couchianus GATA-binding factor 1-B-like 
+(LOC114135098), transcript variant X1, mRNA
+Length=1809
+
+ Score = 230 bits (254),  Expect = 2e-55
+ Identities = 260/352 (74%), Gaps = 30/352 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| || || ||||| ||||||||||||||||| ||||| || ||||||||
+Sbjct  892   GAACTGCGGAGCCACCGCGACGCCCCTGTGGCGCCGGGACGGTACCGGACACTACCTGTG  951
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         |||||||| || ||||||    | |||||||||||||| || || ||
+Sbjct  952   CAAC---------GCCTGCGGACTGTACCACAAGATGAACGGCCAGAACCGACCTCTGAT  1002
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||| | ||| | ||||| |||||||| || || |||||| |||       
+Sbjct  1003  CCGGCCCAAGAAGAGACTGATCGTGAGCAAGCGCGCGGGTACCGTGTGC-GCC-------  1054
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 ||||| || ||   ||| || || |||||||| |||| | |||  ||||| |||||
+Sbjct  1055  ----AACTGTCACACCAGCACGACGACGCTGTGGCGGCGCAACGCCAGCGGGGAGCCCGT  1110
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              ||||         |||||||||| ||||||| |||||||||| | || ||||| || ||
+Sbjct  1111  GTGCA---------ACGCCTGCGGACTCTACTTCAAACTGCACAATGTCAACCGACCGCT  1161
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             ||| |||   || || || ||||| ||||| ||||| ||||| |||  ||||
+Sbjct  1162  CACCATGAAGAAGGAAGGCATCCAGACCCGCAACCGGAAAGTCTCCAACAAG  1213
+
+
+>XM_029067775.1 PREDICTED: Ornithorhynchus anatinus GATA binding protein 1 (GATA1), 
+transcript variant X2, mRNA
+Length=2445
+
+ Score = 227 bits (251),  Expect = 2e-54
+ Identities = 278/387 (72%), Gaps = 42/387 (11%)
+ Strand=Plus/Plus
+
+Query  430   CCCTGCGAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGAGCGACGGCAACGCCG  489
+             ||||| |||||||| ||||| ||||            |||| || || ||||| || || 
+Sbjct  787   CCCTGTGAGGCCCGGGAGTGTGTCA------------ACTGTGGGGCAACGGCCACCCCC  834
+
+Query  490   CTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTC  549
+              ||||||||||||||||||| ||||| |||||||||||          |||||||| |||
+Sbjct  835   TTGTGGCGCCGGGACGGCACTGGGCACTACCTGTGCAA---------TGCCTGCGGACTC  885
+
+Query  550   TACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTGCTGGTG  609
+             ||||||    | ||||| |||||||| || || ||||| ||||| ||||||||| | || 
+Sbjct  886   TACCACAAGATGAACGGGCAGAACCGGCCCCTAATCCGGCCCAAGAAGCGCCTGATTGTC  945
+
+Query  610   AGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAGACATCCACCACC  669
+             || ||||| ||||| ||   ||||| |            |||||||||||  ||||||||
+Sbjct  946   AGCAAGCGAGCAGGTACCCAGTGCACC------------AACTGCCAGACGACCACCACC  993
+
+Query  670   ACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATTCACGCCTGCGGC  729
+             || |||||| | || |   |||  ||||| || |||||||         ||||||| |||
+Sbjct  994   ACCCTGTGGAGACGTAATGCCAGCGGGGAGCCGGTCTGCA---------ACGCCTGTGGC  1044
+
+Query  730   CTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAGACGGAATCCAA  789
+             ||||| | |||||| ||| | |||||||| ||||| || |||||||| || || ||||| 
+Sbjct  1045  CTCTATTTCAAACTACACAACGTGAACCGGCCCCTGACCATGCGCAAGGATGGCATCCAG  1104
+
+Query  790   ACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             ||||| || ||||| || |||  ||||
+Sbjct  1105  ACCCGGAATCGCAAGGTGTCCAGCAAG  1131
+
+
+>XM_029067774.1 PREDICTED: Ornithorhynchus anatinus GATA binding protein 1 (GATA1), 
+transcript variant X1, mRNA
+Length=2850
+
+ Score = 227 bits (251),  Expect = 2e-54
+ Identities = 278/387 (72%), Gaps = 42/387 (11%)
+ Strand=Plus/Plus
+
+Query  430   CCCTGCGAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGAGCGACGGCAACGCCG  489
+             ||||| |||||||| ||||| ||||            |||| || || ||||| || || 
+Sbjct  1192  CCCTGTGAGGCCCGGGAGTGTGTCA------------ACTGTGGGGCAACGGCCACCCCC  1239
+
+Query  490   CTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTC  549
+              ||||||||||||||||||| ||||| |||||||||||          |||||||| |||
+Sbjct  1240  TTGTGGCGCCGGGACGGCACTGGGCACTACCTGTGCAA---------TGCCTGCGGACTC  1290
+
+Query  550   TACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTGCTGGTG  609
+             ||||||    | ||||| |||||||| || || ||||| ||||| ||||||||| | || 
+Sbjct  1291  TACCACAAGATGAACGGGCAGAACCGGCCCCTAATCCGGCCCAAGAAGCGCCTGATTGTC  1350
+
+Query  610   AGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAGACATCCACCACC  669
+             || ||||| ||||| ||   ||||| |            |||||||||||  ||||||||
+Sbjct  1351  AGCAAGCGAGCAGGTACCCAGTGCACC------------AACTGCCAGACGACCACCACC  1398
+
+Query  670   ACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATTCACGCCTGCGGC  729
+             || |||||| | || |   |||  ||||| || |||||||         ||||||| |||
+Sbjct  1399  ACCCTGTGGAGACGTAATGCCAGCGGGGAGCCGGTCTGCA---------ACGCCTGTGGC  1449
+
+Query  730   CTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAGACGGAATCCAA  789
+             ||||| | |||||| ||| | |||||||| ||||| || |||||||| || || ||||| 
+Sbjct  1450  CTCTATTTCAAACTACACAACGTGAACCGGCCCCTGACCATGCGCAAGGATGGCATCCAG  1509
+
+Query  790   ACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             ||||| || ||||| || |||  ||||
+Sbjct  1510  ACCCGGAATCGCAAGGTGTCCAGCAAG  1536
+
+
+>NM_001085775.1 Xenopus laevis GATA binding protein 1 S homeolog (gata1.S), mRNA
+ M76563.1 X.laevis GATA-binding protein (XGATA-1B ) gene, complete cds
+Length=1303
+
+ Score = 226 bits (250),  Expect = 2e-54
+ Identities = 125/125 (100%), Gaps = 0/125 (0%)
+ Strand=Plus/Plus
+
+Query  1    GAATTCCGGAAGCGAGCAAGAGATAAGTCCTGGCATCAGATACAGTTGGAGATAAGGACG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAATTCCGGAAGCGAGCAAGAGATAAGTCCTGGCATCAGATACAGTTGGAGATAAGGACG  60
+
+Query  61   GACGTGTGGCAGCTCCCGCAGAGGATTCACTGGAAGTGCATTACCTATCCCATGGGAGCC  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   GACGTGTGGCAGCTCCCGCAGAGGATTCACTGGAAGTGCATTACCTATCCCATGGGAGCC  120
+
+Query  121  ATGGA  125
+            |||||
+Sbjct  121  ATGGA  125
+
+
+ Score = 95.1 bits (104),  Expect = 8e-15
+ Identities = 214/327 (65%), Gaps = 30/327 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||| ||||| || |  || ||  ||||| | |||||    |  ||||| ||| ||||
+Sbjct  663  GAACTGTGGAGCCACAGTGACTCCATTGTGGAGACGGGATCTGAGTGGGCACTACTTGTG  722
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            |||          ||||| ||  | ||||||    | || || ||||| || || || ||
+Sbjct  723  CAAT---------GCCTGTGGCTTGTACCACAAAATGAATGGACAGAATCGTCCACTTAT  773
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||| || || || || ||| |  | |||||| | || || |||  ||||||         
+Sbjct  774  CCGGCCAAAGAAACGACTGATCATAAGTAAGAGAGCTGGAACACAGTGCAGT--------  825
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||| ||   ||||||||| |||||| | || | | |    || || || ||
+Sbjct  826  ----AACTGCCACACGAGCACCACCACCCTGTGGAGACGGAACGCGGGTGGAGATCCTGT  881
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             || |||         ||||| |||||||||||||| || ||| | |||||||| |||||
+Sbjct  882  TTGTAAC---------GCCTGTGGCCTCTACTACAAGCTTCACAATGTGAACCGTCCCCT  932
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAAC  791
+             ||||||   || || || ||||| ||
+Sbjct  933  GACGATGAAGAAGGAAGGGATCCAGAC  959
+
+
+>XM_029241509.1 PREDICTED: Monodon monoceros GATA binding protein 1 (GATA1), 
+mRNA
+Length=1679
+
+ Score = 224 bits (248),  Expect = 7e-54
+ Identities = 250/339 (74%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| ||||| || || |||||||| |||||| | || || |||||||||||
+Sbjct  761   GAACTGCGGAGCAACGGCCACCCCACTGTGGCGGCGGGACAGGACGGGTCATTACCTGTG  820
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         ||||| || ||||| |||    | ||||| |||||| | || |||||
+Sbjct  821   CAAC---------GCCTGTGGCCTCTATCACAAGATGAACGGGCAGAACAGGCCCCTCAT  871
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || || || || ||||||||   ||||| |        
+Sbjct  872   CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGCACCCAGTGCACC--------  923
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||| |||||||||| ||||||||  | | | |||  || ||||| ||
+Sbjct  924   ----AACTGCCAGACAACCACCACCACACTGTGGCGGAGAAACGCCAGTGGCGACCCTGT  979
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  980   GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGACCACT  1030
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || ||||| || |||||||||||
+Sbjct  1031  GACCATGCGGAAGGATGGTATCCAGACTCGAAACCGCAA  1069
+
+
+>XM_008410518.2 PREDICTED: Poecilia reticulata endothelial transcription factor 
+GATA-2-like (LOC103465552), mRNA
+Length=2117
+
+ Score = 224 bits (247),  Expect = 2e-53
+ Identities = 258/351 (74%), Gaps = 30/351 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             ||||||||||| || || ||||| ||||||||||||||||| ||||| || ||||| |||
+Sbjct  1206  AACTGCGGAGCCACTGCGACGCCCCTGTGGCGCCGGGACGGTACCGGACACTACCTATGC  1265
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         |||||||| || ||||||    | |||||||||||||| || || |||
+Sbjct  1266  AAC---------GCCTGCGGACTGTACCACAAGATGAACGGCCAGAACCGACCTCTGATC  1316
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGT  645
+             || ||||| ||| | ||| | ||||| |||||||| || || |||||| |||        
+Sbjct  1317  CGGCCCAAGAAGAGACTGATCGTGAGCAAGCGCGCGGGTACCGTGTGC-GCC--------  1367
+
+Query  646   GAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTC  705
+                ||||| || ||   ||| || || |||||||| |||| | |||  ||||| ||||| 
+Sbjct  1368  ---AACTGTCACACCAGCACGACGACGCTGTGGCGGCGCAACGCCAGCGGGGAGCCCGTG  1424
+
+Query  706   TGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTC  765
+             ||||         |||||||||| ||||||| |||||||||| | || ||||| || |||
+Sbjct  1425  TGCA---------ACGCCTGCGGACTCTACTTCAAACTGCACAATGTCAACCGACCGCTC  1475
+
+Query  766   ACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             || |||   || || || ||||| ||||| ||||| ||||| |||  ||||
+Sbjct  1476  ACCATGAAGAAGGAAGGCATCCAGACCCGGAACCGGAAAGTCTCCAACAAG  1526
+
+
+>XM_030846767.1 PREDICTED: Globicephala melas GATA binding protein 1 (GATA1), 
+mRNA
+Length=1502
+
+ Score = 220 bits (243),  Expect = 3e-52
+ Identities = 249/339 (73%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| ||||| || || |||||||| |||||| | || || |||||||||||
+Sbjct  731   GAACTGCGGAGCAACGGCCACCCCACTGTGGCGGCGGGACAGGACGGGCCATTACCTGTG  790
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         ||||| || ||||| |||    | ||||| |||||| | || |||||
+Sbjct  791   CAAC---------GCCTGTGGCCTCTATCACAAGATGAACGGGCAGAACAGGCCCCTCAT  841
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  842   CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTACCCAGTGCACC--------  893
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||| |||||||||| ||||||||  | | | |||  || ||||| ||
+Sbjct  894   ----AACTGCCAGACAACCACCACCACACTGTGGCGGAGAAACGCCAGTGGCGACCCTGT  949
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  950   GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGACCACT  1000
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || ||||| || |||||||||||
+Sbjct  1001  GACCATGCGGAAGGATGGTATCCAGACTCGAAACCGCAA  1039
+
+
+>XM_022563824.2 PREDICTED: Delphinapterus leucas GATA binding protein 1 (GATA1), 
+transcript variant X2, mRNA
+Length=1500
+
+ Score = 220 bits (243),  Expect = 3e-52
+ Identities = 249/339 (73%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| ||||| || || |||||||| |||||| | || || |||||||||||
+Sbjct  726   GAACTGCGGAGCAACGGCCACCCCACTGTGGCGGCGGGACAGGACGGGTCATTACCTGTG  785
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         ||||| || ||||| |||    | ||||| |||||| | || |||||
+Sbjct  786   CAAC---------GCCTGTGGCCTCTATCACAAGATGAACGGGCAGAACAGGCCCCTCAT  836
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  837   CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTACCCAGTGCACC--------  888
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||| |||||||||| ||||||||  | | | |||  || ||||| ||
+Sbjct  889   ----AACTGCCAGACAACCACCACCACACTGTGGCGGAGAAACGCCAGTGGCGACCCTGT  944
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  945   GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGACCACT  995
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || ||||| || |||||||||||
+Sbjct  996   GACCATGCGGAAGGATGGTATCCAGACTCGAAACCGCAA  1034
+
+
+>XM_022563823.2 PREDICTED: Delphinapterus leucas GATA binding protein 1 (GATA1), 
+transcript variant X1, mRNA
+Length=1474
+
+ Score = 220 bits (243),  Expect = 3e-52
+ Identities = 249/339 (73%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||||||||| ||||| || || |||||||| |||||| | || || |||||||||||
+Sbjct  679  GAACTGCGGAGCAACGGCCACCCCACTGTGGCGGCGGGACAGGACGGGTCATTACCTGTG  738
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            ||||         ||||| || ||||| |||    | ||||| |||||| | || |||||
+Sbjct  739  CAAC---------GCCTGTGGCCTCTATCACAAGATGAACGGGCAGAACAGGCCCCTCAT  789
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  790  CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTACCCAGTGCACC--------  841
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||| |||||||||| ||||||||  | | | |||  || ||||| ||
+Sbjct  842  ----AACTGCCAGACAACCACCACCACACTGTGGCGGAGAAACGCCAGTGGCGACCCTGT  897
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  898  GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGACCACT  948
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+             || ||||| || || || ||||| || |||||||||||
+Sbjct  949  GACCATGCGGAAGGATGGTATCCAGACTCGAAACCGCAA  987
+
+
+>XM_027091532.1 PREDICTED: Lagenorhynchus obliquidens GATA binding protein 1 
+(GATA1), mRNA
+Length=1558
+
+ Score = 220 bits (243),  Expect = 3e-52
+ Identities = 249/339 (73%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| ||||| || || |||||||| |||||| | || || |||||||||||
+Sbjct  787   GAACTGCGGAGCAACGGCCACCCCACTGTGGCGGCGGGACAGGACGGGCCATTACCTGTG  846
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         ||||| || ||||| |||    | ||||| |||||| | || |||||
+Sbjct  847   CAAC---------GCCTGTGGCCTCTATCACAAGATGAACGGGCAGAACAGGCCCCTCAT  897
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  898   CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTACCCAGTGCACC--------  949
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||| |||||||||| ||||||||  | | | |||  || ||||| ||
+Sbjct  950   ----AACTGCCAGACAACCACCACCACACTGTGGCGGAGAAACGCCAGTGGCGACCCTGT  1005
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  1006  GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGACCACT  1056
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || ||||| || |||||||||||
+Sbjct  1057  GACCATGCGGAAGGATGGTATCCAGACTCGAAACCGCAA  1095
+
+
+>XM_024769223.1 PREDICTED: Neophocaena asiaeorientalis asiaeorientalis GATA binding 
+protein 1 (GATA1), mRNA
+Length=1518
+
+ Score = 220 bits (243),  Expect = 3e-52
+ Identities = 249/339 (73%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| ||||| || || |||||||| |||||| | || || |||||||||||
+Sbjct  726   GAACTGCGGAGCAACGGCCACCCCACTGTGGCGGCGGGACAGGACGGGTCATTACCTGTG  785
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         ||||| || ||||| |||    | ||||| |||||| | || |||||
+Sbjct  786   CAAC---------GCCTGTGGCCTCTATCACAAGATGAACGGGCAGAACAGGCCCCTCAT  836
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  837   CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTACCCAGTGCACC--------  888
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||| |||||||||| ||||||||  | | | |||  || ||||| ||
+Sbjct  889   ----AACTGCCAGACAACCACCACCACACTGTGGCGGAGAAACGCCAGTGGCGACCCTGT  944
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  945   GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGACCACT  995
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || ||||| || |||||||||||
+Sbjct  996   GACCATGCGGAAGGATGGTATCCAGACTCGAAACCGCAA  1034
+
+
+>XM_007123832.2 PREDICTED: Physeter catodon GATA binding protein 1 (GATA1), transcript 
+variant X2, mRNA
+Length=1472
+
+ Score = 220 bits (243),  Expect = 3e-52
+ Identities = 249/339 (73%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| ||||| || || |||||||| |||||| | || || |||||||||||
+Sbjct  698   GAACTGCGGAGCAACGGCCACCCCACTGTGGCGGCGGGACAGGACAGGCCATTACCTGTG  757
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         ||||| || ||||| |||    | ||||| |||||| | || |||||
+Sbjct  758   CAAC---------GCCTGTGGCCTCTATCACAAGATGAACGGGCAGAACAGGCCCCTCAT  808
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  809   CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTACCCAGTGCACC--------  860
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||| |||||||||| ||||||||  | | | |||  || ||||| ||
+Sbjct  861   ----AACTGCCAGACAACCACCACCACACTGTGGCGGAGAAACGCCAGTGGTGACCCTGT  916
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  917   GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGACCACT  967
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || ||||| || |||||||||||
+Sbjct  968   GACCATGCGGAAGGATGGTATCCAGACTCGAAACCGCAA  1006
+
+
+>XM_024116908.1 PREDICTED: Physeter catodon GATA binding protein 1 (GATA1), transcript 
+variant X1, mRNA
+Length=1425
+
+ Score = 220 bits (243),  Expect = 3e-52
+ Identities = 249/339 (73%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||||||||| ||||| || || |||||||| |||||| | || || |||||||||||
+Sbjct  654  GAACTGCGGAGCAACGGCCACCCCACTGTGGCGGCGGGACAGGACAGGCCATTACCTGTG  713
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            ||||         ||||| || ||||| |||    | ||||| |||||| | || |||||
+Sbjct  714  CAAC---------GCCTGTGGCCTCTATCACAAGATGAACGGGCAGAACAGGCCCCTCAT  764
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  765  CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTACCCAGTGCACC--------  816
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||| |||||||||| ||||||||  | | | |||  || ||||| ||
+Sbjct  817  ----AACTGCCAGACAACCACCACCACACTGTGGCGGAGAAACGCCAGTGGTGACCCTGT  872
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  873  GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGACCACT  923
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+             || ||||| || || || ||||| || |||||||||||
+Sbjct  924  GACCATGCGGAAGGATGGTATCCAGACTCGAAACCGCAA  962
+
+
+>XM_004281964.1 PREDICTED: Orcinus orca GATA binding protein 1 (globin transcription 
+factor 1) (GATA1), mRNA
+Length=1497
+
+ Score = 220 bits (243),  Expect = 3e-52
+ Identities = 249/339 (73%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| ||||| || || |||||||| |||||| | || || |||||||||||
+Sbjct  726   GAACTGCGGAGCAACGGCCACCCCACTGTGGCGGCGGGACAGGACGGGCCATTACCTGTG  785
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         ||||| || ||||| |||    | ||||| |||||| | || |||||
+Sbjct  786   CAAC---------GCCTGTGGCCTCTATCACAAGATGAACGGGCAGAACAGGCCCCTCAT  836
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  837   CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTACCCAGTGCACC--------  888
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||| |||||||||| ||||||||  | | | |||  || ||||| ||
+Sbjct  889   ----AACTGCCAGACAACCACCACCACACTGTGGCGGAGAAACGCCAGTGGCGACCCTGT  944
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  945   GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGACCACT  995
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || ||||| || |||||||||||
+Sbjct  996   GACCATGCGGAAGGATGGTATCCAGACTCGAAACCGCAA  1034
+
+
+>XM_027831941.1 PREDICTED: Chelonia mydas GATA binding protein 1 (GATA1), mRNA
+Length=1149
+
+ Score = 218 bits (241),  Expect = 1e-51
+ Identities = 239/323 (74%), Gaps = 30/323 (9%)
+ Strand=Plus/Plus
+
+Query  508  ACCGGGCATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGC  567
+            |||||||| |||||||| |||         ||||||||||| ||||||    | || || 
+Sbjct  1    ACCGGGCACTACCTGTGTAAC---------GCCTGCGGGCTGTACCACAAGATGAATGGG  51
+
+Query  568  CAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACA  627
+            |||||||| || |||||||| ||||| || ||| || | || || || || || ||||| 
+Sbjct  52   CAGAACCGGCCCCTCATCCGGCCCAAGAAACGCTTGATCGTCAGCAAACGAGCGGGCACC  111
+
+Query  628  GTGTGCAGCCACGAGCGTGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGC  687
+              |||||||            |||||||||||   ||||||||| |||||||| ||||  
+Sbjct  112  CAGTGCAGC------------AACTGCCAGACGAGCACCACCACCCTGTGGCGACGCAAT  159
+
+Query  688  CCCATGGGGGACCCCGTCTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCAC  747
+             ||   ||||| ||||||||||||         |||||||||||||||||||||||||||
+Sbjct  160  GCCGGCGGGGAGCCCGTCTGCAAC---------GCCTGCGGCCTCTACTACAAACTGCAC  210
+
+Query  748  CAAGTGAACCGCCCCCTCACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTT  807
+             | || || |||||||| |||||||| |||||||| ||||| ||||| ||||||||||| 
+Sbjct  211  AACGTCAATCGCCCCCTGACGATGCGGAAAGACGGCATCCAGACCCGCAACCGCAAAGTC  270
+
+Query  808  TCCTCCAAGGGTAAAAAGCGGCG  830
+            |||  |||||| || || || ||
+Sbjct  271  TCCGGCAAGGGCAAGAAACGCCG  293
+
+
+>BC170266.1 Xenopus laevis GATA binding factor-1b, mRNA (cDNA clone MGC:196993 
+IMAGE:9093648), complete cds
+Length=1254
+
+ Score = 216 bits (239),  Expect = 4e-51
+ Identities = 123/124 (99%), Gaps = 1/124 (1%)
+ Strand=Plus/Plus
+
+Query  3    ATTCCGGAAGCGAGCAAGAGATAAGTCCTGGCATCAGATACAGTTGGAGATAAGGACGGA  62
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    ATTCCGGAAGCGAGCAAGAGATAAGTCCTGGCATCAGATACAGTTGGAGATAAGGACGGA  60
+
+Query  63   CGTGTGGCAGCTCCCGCA-GAGGATTCACTGGAAGTGCATTACCTATCCCATGGGAGCCA  121
+            |||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   CGTGTGGCAGCTCCCGCAGGAGGATTCACTGGAAGTGCATTACCTATCCCATGGGAGCCA  120
+
+Query  122  TGGA  125
+            ||||
+Sbjct  121  TGGA  124
+
+
+ Score = 104 bits (114),  Expect = 2e-17
+ Identities = 216/327 (66%), Gaps = 30/327 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||| ||||| || |  || ||  ||||| | |||||    |  ||||| ||| ||||
+Sbjct  662  GAACTGTGGAGCCACAGTGACTCCATTGTGGAGACGGGATCTGAGTGGGCACTACTTGTG  721
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            |||          ||||| || || ||||||    | || || ||||| || || || ||
+Sbjct  722  CAAT---------GCCTGTGGCCTGTACCACAAAATGAATGGACAGAATCGTCCACTTAT  772
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||| || || || || ||| |  | |||||| | || || |||  ||||||         
+Sbjct  773  CCGGCCAAAGAAACGACTGATCATAAGTAAGAGAGCTGGAACACAGTGCAGT--------  824
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||| ||   ||||||||| |||||| | || | | | |  || || || ||
+Sbjct  825  ----AACTGCCACACGAGCACCACCACCCTGTGGAGACGGAACGCGAGTGGAGATCCTGT  880
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             || |||         ||||| |||||||||||||| || ||| | |||||||| |||||
+Sbjct  881  TTGTAAC---------GCCTGTGGCCTCTACTACAAGCTTCACAATGTGAACCGTCCCCT  931
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAAC  791
+             ||||||   || || || ||||| ||
+Sbjct  932  GACGATGAAGAAGGAAGGGATCCAGAC  958
+
+
+>XM_007450879.1 PREDICTED: Lipotes vexillifer GATA binding protein 1 (globin 
+transcription factor 1) (GATA1), mRNA
+Length=1500
+
+ Score = 215 bits (238),  Expect = 4e-51
+ Identities = 248/339 (73%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| || || || || |||||||| |||||| | || || |||||||||||
+Sbjct  726   GAACTGCGGAGCAACAGCCACCCCACTGTGGCGGCGGGACAGGACGGGCCATTACCTGTG  785
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         ||||| || ||||| |||    | ||||| |||||| | || |||||
+Sbjct  786   CAAC---------GCCTGTGGCCTCTATCACAAGATGAACGGGCAGAACAGGCCCCTCAT  836
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  837   CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTACCCAGTGCACC--------  888
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||| |||||||||| ||||||||  | | | |||  || ||||| ||
+Sbjct  889   ----AACTGCCAGACAACCACCACCACACTGTGGCGGAGAAACGCCAGTGGCGACCCTGT  944
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  945   GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGACCACT  995
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || ||||| || |||||||||||
+Sbjct  996   GACCATGCGGAAGGATGGTATCCAGACTCGAAACCGCAA  1034
+
+
+>XM_007565644.2 PREDICTED: Poecilia formosa GATA-binding factor 1-B-like (LOC103147351), 
+transcript variant X2, mRNA
+Length=2014
+
+ Score = 214 bits (237),  Expect = 1e-50
+ Identities = 256/351 (73%), Gaps = 30/351 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             || |||||||| || || ||||| ||||||||||||||||| ||||| || |||||||||
+Sbjct  1107  AATTGCGGAGCCACCGCGACGCCCCTGTGGCGCCGGGACGGTACCGGACACTACCTGTGC  1166
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         |||||||| || ||||||    | |||||||||||||| || || |||
+Sbjct  1167  AAC---------GCCTGCGGACTGTACCACAAGATGAACGGCCAGAACCGACCTCTGATC  1217
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGT  645
+             || ||||| ||| | ||| | ||||| |||||||| || || |||||| |||        
+Sbjct  1218  CGGCCCAAGAAGAGACTGATCGTGAGCAAGCGCGCGGGTACCGTGTGC-GCC--------  1268
+
+Query  646   GAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTC  705
+                ||||| || ||   ||| || || |||||| | |||| | |||  ||||| || || 
+Sbjct  1269  ---AACTGTCACACCAGCACGACGACGCTGTGGAGGCGCAACGCCAGCGGGGAGCCTGTG  1325
+
+Query  706   TGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTC  765
+             ||||         |||||||||| ||||||| |||||||||| | || ||||| || |||
+Sbjct  1326  TGCA---------ACGCCTGCGGACTCTACTTCAAACTGCACAATGTCAACCGACCGCTC  1376
+
+Query  766   ACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             || |||   || || || ||||| ||||| ||||| ||||| |||  ||||
+Sbjct  1377  ACCATGAAGAAGGAAGGCATCCAGACCCGGAACCGGAAAGTCTCCAACAAG  1427
+
+
+>XM_007565642.2 PREDICTED: Poecilia formosa GATA-binding factor 1-B-like (LOC103147351), 
+transcript variant X1, mRNA
+Length=2097
+
+ Score = 214 bits (237),  Expect = 1e-50
+ Identities = 256/351 (73%), Gaps = 30/351 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             || |||||||| || || ||||| ||||||||||||||||| ||||| || |||||||||
+Sbjct  1190  AATTGCGGAGCCACCGCGACGCCCCTGTGGCGCCGGGACGGTACCGGACACTACCTGTGC  1249
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         |||||||| || ||||||    | |||||||||||||| || || |||
+Sbjct  1250  AAC---------GCCTGCGGACTGTACCACAAGATGAACGGCCAGAACCGACCTCTGATC  1300
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGT  645
+             || ||||| ||| | ||| | ||||| |||||||| || || |||||| |||        
+Sbjct  1301  CGGCCCAAGAAGAGACTGATCGTGAGCAAGCGCGCGGGTACCGTGTGC-GCC--------  1351
+
+Query  646   GAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTC  705
+                ||||| || ||   ||| || || |||||| | |||| | |||  ||||| || || 
+Sbjct  1352  ---AACTGTCACACCAGCACGACGACGCTGTGGAGGCGCAACGCCAGCGGGGAGCCTGTG  1408
+
+Query  706   TGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTC  765
+             ||||         |||||||||| ||||||| |||||||||| | || ||||| || |||
+Sbjct  1409  TGCA---------ACGCCTGCGGACTCTACTTCAAACTGCACAATGTCAACCGACCGCTC  1459
+
+Query  766   ACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             || |||   || || || ||||| ||||| ||||| ||||| |||  ||||
+Sbjct  1460  ACCATGAAGAAGGAAGGCATCCAGACCCGGAACCGGAAAGTCTCCAACAAG  1510
+
+
+>XM_015060727.1 PREDICTED: Poecilia latipinna GATA-binding factor 1-B-like (LOC106964935), 
+transcript variant X2, mRNA
+Length=2005
+
+ Score = 214 bits (237),  Expect = 1e-50
+ Identities = 256/351 (73%), Gaps = 30/351 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             || |||||||| || || ||||| ||||||||||||||||| ||||| || |||||||||
+Sbjct  1117  AATTGCGGAGCCACCGCGACGCCCCTGTGGCGCCGGGACGGTACCGGACACTACCTGTGC  1176
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         |||||||| || ||||||    | |||||||||||||| || || |||
+Sbjct  1177  AAC---------GCCTGCGGACTGTACCACAAGATGAACGGCCAGAACCGACCTCTGATC  1227
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGT  645
+             || ||||| ||| | ||| | ||||| |||||||| || || |||||| |||        
+Sbjct  1228  CGGCCCAAGAAGAGACTGATCGTGAGCAAGCGCGCGGGTACCGTGTGC-GCC--------  1278
+
+Query  646   GAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTC  705
+                ||||| || ||   ||| || || |||||| | |||| | |||  ||||| || || 
+Sbjct  1279  ---AACTGTCACACCAGCACGACGACGCTGTGGAGGCGCAACGCCAGCGGGGAGCCTGTG  1335
+
+Query  706   TGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTC  765
+             ||||         |||||||||| ||||||| |||||||||| | || ||||| || |||
+Sbjct  1336  TGCA---------ACGCCTGCGGACTCTACTTCAAACTGCACAACGTCAACCGACCGCTC  1386
+
+Query  766   ACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             || |||   || || || ||||| ||||| ||||| ||||| |||  ||||
+Sbjct  1387  ACCATGAAGAAGGAAGGCATCCAGACCCGGAACCGGAAAGTCTCCAACAAG  1437
+
+
+>XM_015060726.1 PREDICTED: Poecilia latipinna GATA-binding factor 1-B-like (LOC106964935), 
+transcript variant X1, mRNA
+Length=2078
+
+ Score = 214 bits (237),  Expect = 1e-50
+ Identities = 256/351 (73%), Gaps = 30/351 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             || |||||||| || || ||||| ||||||||||||||||| ||||| || |||||||||
+Sbjct  1190  AATTGCGGAGCCACCGCGACGCCCCTGTGGCGCCGGGACGGTACCGGACACTACCTGTGC  1249
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         |||||||| || ||||||    | |||||||||||||| || || |||
+Sbjct  1250  AAC---------GCCTGCGGACTGTACCACAAGATGAACGGCCAGAACCGACCTCTGATC  1300
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGT  645
+             || ||||| ||| | ||| | ||||| |||||||| || || |||||| |||        
+Sbjct  1301  CGGCCCAAGAAGAGACTGATCGTGAGCAAGCGCGCGGGTACCGTGTGC-GCC--------  1351
+
+Query  646   GAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTC  705
+                ||||| || ||   ||| || || |||||| | |||| | |||  ||||| || || 
+Sbjct  1352  ---AACTGTCACACCAGCACGACGACGCTGTGGAGGCGCAACGCCAGCGGGGAGCCTGTG  1408
+
+Query  706   TGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTC  765
+             ||||         |||||||||| ||||||| |||||||||| | || ||||| || |||
+Sbjct  1409  TGCA---------ACGCCTGCGGACTCTACTTCAAACTGCACAACGTCAACCGACCGCTC  1459
+
+Query  766   ACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             || |||   || || || ||||| ||||| ||||| ||||| |||  ||||
+Sbjct  1460  ACCATGAAGAAGGAAGGCATCCAGACCCGGAACCGGAAAGTCTCCAACAAG  1510
+
+
+>XM_031672447.1 PREDICTED: Vicugna pacos GATA binding protein 1 (GATA1), mRNA
+Length=1406
+
+ Score = 211 bits (233),  Expect = 2e-49
+ Identities = 247/339 (73%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||||||||| ||||| || ||||||||||| |||||| | || || || ||||||||
+Sbjct  631  GAACTGCGGAGCAACGGCCACTCCGCTGTGGCGGCGGGACAGGACGGGCCACTACCTGTG  690
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            |||          ||||| || ||||| |||    | ||||| |||||| | || |||||
+Sbjct  691  CAAT---------GCCTGTGGCCTCTATCACAAGATGAACGGGCAGAACAGACCCCTCAT  741
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  742  CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTACCCAGTGCACC--------  793
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||| |||||||||| ||||||||  | | | |||  ||||| || ||
+Sbjct  794  ----AACTGCCAGACAACCACCACCACACTGTGGCGGAGAAACGCCAGCGGGGATCCTGT  849
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             |||||          || ||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  850  GTGCAAT---------GCTTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGACCACT  900
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+             || ||||| || || || || ||||| |||||||||||
+Sbjct  901  GACCATGCGGAAGGATGGTATTCAAACTCGAAACCGCAA  939
+
+
+>XM_023507252.1 PREDICTED: Sarcophilus harrisii GATA binding protein 1 (GATA1), 
+transcript variant X1, mRNA
+Length=1511
+
+ Score = 210 bits (232),  Expect = 2e-49
+ Identities = 270/380 (71%), Gaps = 42/380 (11%)
+ Strand=Plus/Plus
+
+Query  430   CCCTGCGAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGAGCGACGGCAACGCCG  489
+             ||||| |||||| | ||||||||            |||||| ||||| ||||| || |||
+Sbjct  732   CCCTGTGAGGCCAGAGAGTGCGT------------GAACTGTGGAGCCACGGCTACCCCG  779
+
+Query  490   CTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTC  549
+              ||||||| || ||||| |||||||| ||||||||||||         || ||||| || 
+Sbjct  780   TTGTGGCGTCGAGACGGTACCGGGCACTACCTGTGCAAC---------GCTTGCGGCCTG  830
+
+Query  550   TACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTGCTGGTG  609
+             ||||||    | || || |||||||| || |||||  | ||||| ||||||||| | || 
+Sbjct  831   TACCACAAGATGAATGGACAGAACCGTCCCCTCATAAGGCCCAAGAAGCGCCTGATTGTC  890
+
+Query  610   AGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAGACATCCACCACC  669
+             |||||||| ||||| ||   ||||| |            |||||||||||  | || || 
+Sbjct  891   AGTAAGCGAGCAGGTACCCAGTGCACC------------AACTGCCAGACGACGACGACG  938
+
+Query  670   ACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATTCACGCCTGCGGC  729
+             || |||||||| ||||   |||  ||||| ||||| || |||         || || || 
+Sbjct  939   ACGCTGTGGCGGCGCAATGCCAGCGGGGAGCCCGTGTGTAAC---------GCTTGTGGT  989
+
+Query  730   CTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAGACGGAATCCAA  789
+             ||||||||||| |||||| | |||||||| || || || ||||||||||| || ||||| 
+Sbjct  990   CTCTACTACAAGCTGCACAACGTGAACCGGCCGCTGACCATGCGCAAAGATGGCATCCAG  1049
+
+Query  790   ACCCGAAACCGCAAAGTTTC  809
+             ||||| |||||||| || ||
+Sbjct  1050  ACCCGGAACCGCAAGGTGTC  1069
+
+
+>NM_001278767.1 Sus scrofa GATA binding protein 1 (GATA1), mRNA
+ KC207688.1 Sus scrofa GATA 1 protein (GATA1) mRNA, complete cds
+Length=1429
+
+ Score = 210 bits (232),  Expect = 2e-49
+ Identities = 248/341 (73%), Gaps = 30/341 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             ||| |||||||| ||||| || || |||||||| || ||| | || || || ||||||||
+Sbjct  695   GAATTGCGGAGCAACGGCCACTCCACTGTGGCGGCGAGACAGGACAGGCCACTACCTGTG  754
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         ||||| || ||||| |||    | || || || ||| | || |||||
+Sbjct  755   CAAC---------GCCTGTGGCCTCTATCACAAGATGAATGGGCAAAACAGGCCCCTCAT  805
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  806   CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTACCCAGTGCACC--------  857
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||| |||| ||||| ||||||||  | | | |||  |||||||| ||
+Sbjct  858   ----AACTGCCAGACAACCACAACCACGCTGTGGCGGAGAAACGCCAGTGGGGACCCTGT  913
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              ||||||         ||||| |||||||||||||| || ||||| |||||||| || ||
+Sbjct  914   GTGCAAC---------GCCTGTGGCCTCTACTACAAGCTCCACCAGGTGAACCGACCACT  964
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAG  805
+              || |||||||| || || ||||| ||||||||||||||||
+Sbjct  965   GACCATGCGCAAGGATGGCATCCAGACCCGAAACCGCAAAG  1005
+
+
+>BC170262.1 Xenopus laevis GATA binding factor-1b, mRNA (cDNA clone MGC:196989 
+IMAGE:9093644), complete cds
+Length=1249
+
+ Score = 209 bits (231),  Expect = 5e-49
+ Identities = 119/120 (99%), Gaps = 1/120 (1%)
+ Strand=Plus/Plus
+
+Query  7    CGGAAGCGAGCAAGAGATAAGTCCTGGCATCAGATACAGTTGGAGATAAGGACGGACGTG  66
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    CGGAAGCGAGCAAGAGATAAGTCCTGGCATCAGATACAGTTGGAGATAAGGACGGACGTG  60
+
+Query  67   TGGCAGCTCCCGCA-GAGGATTCACTGGAAGTGCATTACCTATCCCATGGGAGCCATGGA  125
+            |||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   TGGCAGCTCCCGCAGGAGGATTCACTGGAAGTGCATTACCTATCCCATGGGAGCCATGGA  120
+
+
+ Score = 104 bits (114),  Expect = 2e-17
+ Identities = 216/327 (66%), Gaps = 30/327 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||| ||||| || |  || ||  ||||| | |||||    |  ||||| ||| ||||
+Sbjct  658  GAACTGTGGAGCCACAGTGACTCCATTGTGGAGACGGGATCTGAGTGGGCACTACTTGTG  717
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            |||          ||||| || || ||||||    | || || ||||| || || || ||
+Sbjct  718  CAAT---------GCCTGTGGCCTGTACCACAAAATGAATGGACAGAATCGTCCACTTAT  768
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||| || || || || ||| |  | |||||| | || || |||  ||||||         
+Sbjct  769  CCGGCCAAAGAAACGACTGATCATAAGTAAGAGAGCTGGAACACAGTGCAGT--------  820
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||| ||   ||||||||| |||||| | || | | | |  || || || ||
+Sbjct  821  ----AACTGCCACACGAGCACCACCACCCTGTGGAGACGGAACGCGAGTGGAGATCCTGT  876
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             || |||         ||||| |||||||||||||| || ||| | |||||||| |||||
+Sbjct  877  TTGTAAC---------GCCTGTGGCCTCTACTACAAGCTTCACAATGTGAACCGTCCCCT  927
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAAC  791
+             ||||||   || || || ||||| ||
+Sbjct  928  GACGATGAAGAAGGAAGGGATCCAGAC  954
+
+
+>XM_023507253.1 PREDICTED: Sarcophilus harrisii GATA binding protein 1 (GATA1), 
+transcript variant X2, mRNA
+Length=2387
+
+ Score = 208 bits (230),  Expect = 5e-49
+ Identities = 250/345 (72%), Gaps = 30/345 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||| ||||| ||||| || ||| ||||||| || ||||| |||||||| ||||||||
+Sbjct  1631  GAACTGTGGAGCCACGGCTACCCCGTTGTGGCGTCGAGACGGTACCGGGCACTACCTGTG  1690
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         || ||||| || ||||||    | || || |||||||| || |||||
+Sbjct  1691  CAAC---------GCTTGCGGCCTGTACCACAAGATGAATGGACAGAACCGTCCCCTCAT  1741
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+               | ||||| ||||||||| | || |||||||| ||||| ||   ||||| |        
+Sbjct  1742  AAGGCCCAAGAAGCGCCTGATTGTCAGTAAGCGAGCAGGTACCCAGTGCACC--------  1793
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||  | || || || |||||||| ||||   |||  ||||| |||||
+Sbjct  1794  ----AACTGCCAGACGACGACGACGACGCTGTGGCGGCGCAATGCCAGCGGGGAGCCCGT  1849
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              || |||         || || || ||||||||||| |||||| | |||||||| || ||
+Sbjct  1850  GTGTAAC---------GCTTGTGGTCTCTACTACAAGCTGCACAACGTGAACCGGCCGCT  1900
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTC  809
+              || ||||||||||| || ||||| ||||| |||||||| || ||
+Sbjct  1901  GACCATGCGCAAAGATGGCATCCAGACCCGGAACCGCAAGGTGTC  1945
+
+
+>XM_029151191.1 PREDICTED: Betta splendens GATA-binding factor 1-A-like (LOC114855761), 
+mRNA
+Length=2682
+
+ Score = 207 bits (229),  Expect = 2e-48
+ Identities = 255/352 (72%), Gaps = 30/352 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| || || || |||||||||||||||||||||||||| || ||||||||
+Sbjct  864   GAACTGCGGAGCCACAGCCACCCCGCTGTGGCGCCGGGACGGCACCGGCCACTACCTGTG  923
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         |||||||| || ||||||    | |||||||||||||| || || ||
+Sbjct  924   CAAC---------GCCTGCGGACTGTACCACAAGATGAACGGCCAGAACCGGCCTCTGAT  974
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||| | ||| | || || ||||| || || || |||||| |||       
+Sbjct  975   CCGGCCCAAGAAGAGGCTGATTGTCAGCAAGCGAGCGGGGACGGTGTGC-GCC-------  1026
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||| ||   |||||| || |||||| | |||| | |||  ||||| || ||
+Sbjct  1027  ----AACTGCCACACCAGCACCACAACGCTGTGGAGACGCAACGCCAGCGGGGAGCCGGT  1082
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              ||         | |||||||||| ||||||| ||| |||||| | |||||| | || ||
+Sbjct  1083  GTG---------TAACGCCTGCGGGCTCTACTTCAAGCTGCACAACGTGAACAGGCCGCT  1133
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             ||| |||   || ||||| || || || || ||||| || || |||  ||||
+Sbjct  1134  CACCATGAAGAAGGACGGCATTCAGACGCGCAACCGGAAGGTGTCCAACAAG  1185
+
+
+>XM_031445270.1 PREDICTED: Camelus dromedarius GATA binding protein 1 (GATA1), 
+mRNA
+Length=1406
+
+ Score = 206 bits (228),  Expect = 2e-48
+ Identities = 246/339 (73%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||||||||| ||||| || ||||||||||| |||||| | || || || ||||||||
+Sbjct  631  GAACTGCGGAGCAACGGCCACTCCGCTGTGGCGGCGGGACAGGACAGGCCACTACCTGTG  690
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||          ||||| || ||||| |||    | ||||| |||||| | || |||||
+Sbjct  691  TAAT---------GCCTGTGGCCTCTATCACAAGATGAACGGGCAGAACAGACCCCTCAT  741
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  742  CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTACCCAGTGCACC--------  793
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||| |||||||||| ||||||||  | | | |||  ||||| || ||
+Sbjct  794  ----AACTGCCAGACAACCACCACCACACTGTGGCGGAGAAACGCCAGTGGGGATCCTGT  849
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             |||||          || ||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  850  GTGCAAT---------GCTTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGACCACT  900
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+             || ||||| || || || || ||||| |||||||||||
+Sbjct  901  GACCATGCGGAAGGATGGTATTCAAACTCGAAACCGCAA  939
+
+
+>XM_010968132.1 PREDICTED: Camelus bactrianus GATA binding protein 1 (globin 
+transcription factor 1) (GATA1), mRNA
+Length=1476
+
+ Score = 206 bits (228),  Expect = 2e-48
+ Identities = 246/339 (73%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| ||||| || ||||||||||| |||||| | || || || ||||||||
+Sbjct  701   GAACTGCGGAGCAACGGCCACTCCGCTGTGGCGGCGGGACAGGACGGGCCACTACCTGTG  760
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+              ||          ||||| || ||||| |||    | ||||| |||||| | || |||||
+Sbjct  761   TAAT---------GCCTGTGGCCTCTATCACAAGATGAACGGGCAGAACAGACCCCTCAT  811
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  812   CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTACCCAGTGCACC--------  863
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||| |||||||||| ||||||||  | | | |||  ||||| || ||
+Sbjct  864   ----AACTGCCAGACAACCACCACCACACTGTGGCGGAGAAACGCCAGCGGGGATCCTGT  919
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          || ||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  920   GTGCAAT---------GCTTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGACCACT  970
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || || ||||| |||||||||||
+Sbjct  971   GACCATGCGGAAGGATGGTATTCAAACTCGAAACCGCAA  1009
+
+
+>XM_018231830.1 PREDICTED: Xenopus laevis GATA binding protein 1 (globin transcription 
+factor 1) S homeolog (gata1.S), transcript variant 
+X1, mRNA
+Length=2436
+
+ Score = 205 bits (227),  Expect = 7e-48
+ Identities = 117/118 (99%), Gaps = 1/118 (1%)
+ Strand=Plus/Plus
+
+Query  9    GAAGCGAGCAAGAGATAAGTCCTGGCATCAGATACAGTTGGAGATAAGGACGGACGTGTG  68
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  535  GAAGCGAGCAAGAGATAAGTCCTGGCATCAGATACAGTTGGAGATAAGGACGGACGTGTG  594
+
+Query  69   GCAGCTCCCGCA-GAGGATTCACTGGAAGTGCATTACCTATCCCATGGGAGCCATGGA  125
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  595  GCAGCTCCCGCAGGAGGATTCACTGGAAGTGCATTACCTATCCCATGGGAGCCATGGA  652
+
+
+ Score = 104 bits (114),  Expect = 2e-17
+ Identities = 216/327 (66%), Gaps = 30/327 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||| ||||| || |  || ||  ||||| | |||||    |  ||||| ||| ||||
+Sbjct  1190  GAACTGTGGAGCCACAGTGACTCCATTGTGGAGACGGGATCTGAGTGGGCACTACTTGTG  1249
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             |||          ||||| || || ||||||    | || || ||||| || || || ||
+Sbjct  1250  CAAT---------GCCTGTGGCCTGTACCACAAAATGAATGGACAGAATCGTCCACTTAT  1300
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| || || || || ||| |  | |||||| | || || |||  ||||||         
+Sbjct  1301  CCGGCCAAAGAAACGACTGATCATAAGTAAGAGAGCTGGAACACAGTGCAGT--------  1352
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||| ||   ||||||||| |||||| | || | | | |  || || || ||
+Sbjct  1353  ----AACTGCCACACGAGCACCACCACCCTGTGGAGACGGAACGCGAGTGGAGATCCTGT  1408
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              || |||         ||||| |||||||||||||| || ||| | |||||||| |||||
+Sbjct  1409  TTGTAAC---------GCCTGTGGCCTCTACTACAAGCTTCACAATGTGAACCGTCCCCT  1459
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAAC  791
+              ||||||   || || || ||||| ||
+Sbjct  1460  GACGATGAAGAAGGAAGGGATCCAGAC  1486
+
+
+>XM_014970501.1 PREDICTED: Poecilia mexicana endothelial transcription factor 
+GATA-2-like (LOC106905593), transcript variant X2, mRNA
+Length=1991
+
+ Score = 205 bits (227),  Expect = 7e-48
+ Identities = 254/351 (72%), Gaps = 30/351 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             || |||||||| || || |||||  |||||||||||||||| ||||| || |||||||||
+Sbjct  1082  AATTGCGGAGCCACCGCGACGCCCTTGTGGCGCCGGGACGGTACCGGACACTACCTGTGC  1141
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         |||||||| || ||||||    | |||||||||||||| || || |||
+Sbjct  1142  AAC---------GCCTGCGGACTGTACCACAAGATGAACGGCCAGAACCGACCTCTGATC  1192
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGT  645
+             || ||||| ||| | ||| | ||||| |||||||| || || |||||| |||        
+Sbjct  1193  CGGCCCAAGAAGAGACTGATCGTGAGCAAGCGCGCGGGTACCGTGTGC-GCC--------  1243
+
+Query  646   GAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTC  705
+                ||||| |  ||   ||| || || |||||| | |||| | |||  ||||| || || 
+Sbjct  1244  ---AACTGTCTCACCAGCACGACGACGCTGTGGAGGCGCAACGCCAGCGGGGAGCCTGTG  1300
+
+Query  706   TGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTC  765
+             ||||         |||||||||| ||||||| |||||||||| | || ||||| || |||
+Sbjct  1301  TGCA---------ACGCCTGCGGACTCTACTTCAAACTGCACAATGTCAACCGACCGCTC  1351
+
+Query  766   ACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             || |||   || || || ||||| ||||| ||||| ||||| |||  ||||
+Sbjct  1352  ACCATGAAGAAGGAAGGCATCCAGACCCGGAACCGGAAAGTCTCCAACAAG  1402
+
+
+>XM_014970500.1 PREDICTED: Poecilia mexicana endothelial transcription factor 
+GATA-2-like (LOC106905593), transcript variant X1, mRNA
+Length=2083
+
+ Score = 205 bits (227),  Expect = 7e-48
+ Identities = 254/351 (72%), Gaps = 30/351 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             || |||||||| || || |||||  |||||||||||||||| ||||| || |||||||||
+Sbjct  1174  AATTGCGGAGCCACCGCGACGCCCTTGTGGCGCCGGGACGGTACCGGACACTACCTGTGC  1233
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         |||||||| || ||||||    | |||||||||||||| || || |||
+Sbjct  1234  AAC---------GCCTGCGGACTGTACCACAAGATGAACGGCCAGAACCGACCTCTGATC  1284
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGT  645
+             || ||||| ||| | ||| | ||||| |||||||| || || |||||| |||        
+Sbjct  1285  CGGCCCAAGAAGAGACTGATCGTGAGCAAGCGCGCGGGTACCGTGTGC-GCC--------  1335
+
+Query  646   GAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTC  705
+                ||||| |  ||   ||| || || |||||| | |||| | |||  ||||| || || 
+Sbjct  1336  ---AACTGTCTCACCAGCACGACGACGCTGTGGAGGCGCAACGCCAGCGGGGAGCCTGTG  1392
+
+Query  706   TGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTC  765
+             ||||         |||||||||| ||||||| |||||||||| | || ||||| || |||
+Sbjct  1393  TGCA---------ACGCCTGCGGACTCTACTTCAAACTGCACAATGTCAACCGACCGCTC  1443
+
+Query  766   ACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             || |||   || || || ||||| ||||| ||||| ||||| |||  ||||
+Sbjct  1444  ACCATGAAGAAGGAAGGCATCCAGACCCGGAACCGGAAAGTCTCCAACAAG  1494
+
+
+>AK349904.1 Sus scrofa mRNA, clone:SKNB10084F10, expressed in skin
+Length=1473
+
+ Score = 205 bits (227),  Expect = 7e-48
+ Identities = 247/341 (72%), Gaps = 30/341 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            ||| |||||||| ||||| || || |||||||| || ||| | || || || ||||||||
+Sbjct  684  GAATTGCGGAGCAACGGCCACTCCACTGTGGCGGCGAGACAGGACAGGCCACTACCTGTG  743
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            ||||         ||||| || ||||| |||    | || || || ||| | || |||||
+Sbjct  744  CAAC---------GCCTGTGGCCTCTATCACAAGATGAATGGGCAAAACAGGCCCCTCAT  794
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||| ||||| ||||||||| | || || || || ||||| ||            | || |
+Sbjct  795  CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTAC------------CCAGTG  842
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+            |   |||||||||||| |||| ||||| ||||||||  | | | |||  |||||||| ||
+Sbjct  843  TACCAACTGCCAGACAACCACAACCACGCTGTGGCGGAGAAACGCCAGTGGGGACCCTGT  902
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             ||||         ||||||| |||||||||||||| || ||||| |||||||| || ||
+Sbjct  903  GTGCA---------ACGCCTGTGGCCTCTACTACAAGCTCCACCAGGTGAACCGACCACT  953
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAG  805
+             || |||||||| || || ||||| ||||||||||||||||
+Sbjct  954  GACCATGCGCAAGGATGGCATCCAGACCCGAAACCGCAAAG  994
+
+
+>XM_030092290.1 PREDICTED: Salarias fasciatus GATA-binding factor 1-B-like (LOC115388954), 
+transcript variant X2, mRNA
+Length=1370
+
+ Score = 204 bits (225),  Expect = 2e-47
+ Identities = 250/345 (72%), Gaps = 30/345 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             ||||| ||||| || || || || |||||||||||||| || ||||| || |||||||| 
+Sbjct  825   AACTGTGGAGCCACAGCGACCCCCCTGTGGCGCCGGGATGGTACCGGCCACTACCTGTGT  884
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         |||||||| || ||||||    | |||||||||||||| || || |||
+Sbjct  885   AAC---------GCCTGCGGCCTGTACCACAAGATGAACGGCCAGAACCGACCTCTGATC  935
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGT  645
+             || ||||| ||| | ||| | ||||| ||||| ||||| ||  ||||| |||        
+Sbjct  936   CGGCCCAAGAAGAGACTGATTGTGAGCAAGCGGGCAGGTACTCTGTGC-GCC--------  986
+
+Query  646   GAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTC  705
+                |||||||| ||   |||||| || |||||| | |||| | |||  || || || || 
+Sbjct  987   ---AACTGCCACACCAGCACCACGACACTGTGGAGGCGCAACGCCAATGGAGAGCCGGTG  1043
+
+Query  706   TGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTC  765
+             ||||         |||||||||| |||||||  ||||||||| | || |||||||| |||
+Sbjct  1044  TGCA---------ACGCCTGCGGACTCTACTTTAAACTGCACAACGTCAACCGCCCGCTC  1094
+
+Query  766   ACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCC  810
+             || |||   |||||||| || |||||||| ||| | ||||| |||
+Sbjct  1095  ACCATGAAGAAAGACGGCATTCAAACCCGGAACAGAAAAGTCTCC  1139
+
+
+>XM_030092289.1 PREDICTED: Salarias fasciatus GATA-binding factor 1-B-like (LOC115388954), 
+transcript variant X1, mRNA
+Length=1436
+
+ Score = 204 bits (225),  Expect = 2e-47
+ Identities = 250/345 (72%), Gaps = 30/345 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             ||||| ||||| || || || || |||||||||||||| || ||||| || |||||||| 
+Sbjct  891   AACTGTGGAGCCACAGCGACCCCCCTGTGGCGCCGGGATGGTACCGGCCACTACCTGTGT  950
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         |||||||| || ||||||    | |||||||||||||| || || |||
+Sbjct  951   AAC---------GCCTGCGGCCTGTACCACAAGATGAACGGCCAGAACCGACCTCTGATC  1001
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGT  645
+             || ||||| ||| | ||| | ||||| ||||| ||||| ||  ||||| |||        
+Sbjct  1002  CGGCCCAAGAAGAGACTGATTGTGAGCAAGCGGGCAGGTACTCTGTGC-GCC--------  1052
+
+Query  646   GAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTC  705
+                |||||||| ||   |||||| || |||||| | |||| | |||  || || || || 
+Sbjct  1053  ---AACTGCCACACCAGCACCACGACACTGTGGAGGCGCAACGCCAATGGAGAGCCGGTG  1109
+
+Query  706   TGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTC  765
+             ||||         |||||||||| |||||||  ||||||||| | || |||||||| |||
+Sbjct  1110  TGCA---------ACGCCTGCGGACTCTACTTTAAACTGCACAACGTCAACCGCCCGCTC  1160
+
+Query  766   ACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCC  810
+             || |||   |||||||| || |||||||| ||| | ||||| |||
+Sbjct  1161  ACCATGAAGAAAGACGGCATTCAAACCCGGAACAGAAAAGTCTCC  1205
+
+
+>XM_015341490.1 PREDICTED: Lepisosteus oculatus GATA binding protein 1 (globin 
+transcription factor 1) (gata1), transcript variant X2, mRNA
+Length=1863
+
+ Score = 203 bits (224),  Expect = 2e-47
+ Identities = 254/352 (72%), Gaps = 30/352 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             ||||||||| || ||    || || || |||||||||||||| || || || ||||||||
+Sbjct  1150  GAACTGCGGCGCCACCAACACCCCCCTCTGGCGCCGGGACGGGACGGGCCACTACCTGTG  1209
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         ||||||||||| ||||||    | ||||| |||||||| || |||||
+Sbjct  1210  CAAC---------GCCTGCGGGCTGTACCACAAGATGAACGGGCAGAACCGGCCCCTCAT  1260
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||| | ||| | || || ||| | || |||||   |||| |||       
+Sbjct  1261  CCGGCCCAAGAAGAGACTGATCGTCAGCAAGAGAGCGGGCACCCAGTGC-GCC-------  1312
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||| ||   ||||||||| |||||| | |||| | |||  ||||| |||||
+Sbjct  1313  ----AACTGCCACACGAGCACCACCACCCTGTGGAGACGCAACGCCAGCGGGGAGCCCGT  1368
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              ||||         |||||||||| ||||||| ||| |||||| | |||||| | |||||
+Sbjct  1369  GTGCA---------ACGCCTGCGGACTCTACTTCAAGCTGCACAACGTGAACAGGCCCCT  1419
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             ||| |||   ||||| || ||||| ||||| |||||||| || |||  ||||
+Sbjct  1420  CACCATGAAGAAAGATGGCATCCAGACCCGCAACCGCAAGGTCTCCAGCAAG  1471
+
+
+>XM_006625293.2 PREDICTED: Lepisosteus oculatus GATA binding protein 1 (globin 
+transcription factor 1) (gata1), transcript variant X1, mRNA
+Length=1777
+
+ Score = 203 bits (224),  Expect = 2e-47
+ Identities = 254/352 (72%), Gaps = 30/352 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             ||||||||| || ||    || || || |||||||||||||| || || || ||||||||
+Sbjct  1064  GAACTGCGGCGCCACCAACACCCCCCTCTGGCGCCGGGACGGGACGGGCCACTACCTGTG  1123
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         ||||||||||| ||||||    | ||||| |||||||| || |||||
+Sbjct  1124  CAAC---------GCCTGCGGGCTGTACCACAAGATGAACGGGCAGAACCGGCCCCTCAT  1174
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||| | ||| | || || ||| | || |||||   |||| |||       
+Sbjct  1175  CCGGCCCAAGAAGAGACTGATCGTCAGCAAGAGAGCGGGCACCCAGTGC-GCC-------  1226
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||| ||   ||||||||| |||||| | |||| | |||  ||||| |||||
+Sbjct  1227  ----AACTGCCACACGAGCACCACCACCCTGTGGAGACGCAACGCCAGCGGGGAGCCCGT  1282
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              ||||         |||||||||| ||||||| ||| |||||| | |||||| | |||||
+Sbjct  1283  GTGCA---------ACGCCTGCGGACTCTACTTCAAGCTGCACAACGTGAACAGGCCCCT  1333
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             ||| |||   ||||| || ||||| ||||| |||||||| || |||  ||||
+Sbjct  1334  CACCATGAAGAAAGATGGCATCCAGACCCGCAACCGCAAGGTCTCCAGCAAG  1385
+
+
+>XM_004690009.1 PREDICTED: Condylura cristata GATA binding protein 1 (globin 
+transcription factor 1) (GATA1), mRNA
+Length=1508
+
+ Score = 202 bits (223),  Expect = 8e-47
+ Identities = 245/339 (72%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||| ||||| || || |||||||||||||| |||||| | || || || ||||||||
+Sbjct  724   GAACTGTGGAGCAACAGCCACGCCGCTGTGGCGGCGGGACAGGACAGGCCACTACCTGTG  783
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+              |||         ||||| || ||||| |||    | || || |||||| | || |||||
+Sbjct  784   TAAC---------GCCTGTGGCCTCTATCACAAGATGAATGGACAGAACAGGCCTCTCAT  834
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || || ||  | ||||| ||   ||||| |        
+Sbjct  835   CCGGCCCAAGAAGCGCCTGATTGTCAGCAAAAGGGCAGGTACCCAGTGCACC--------  886
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||  |||||||||| ||||||||  | | | | |  |||||||||||
+Sbjct  887   ----AACTGCCAGACCACCACCACCACACTGTGGCGGAGAAACGCGAGCGGGGACCCCGT  942
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          |||||||||||||||||||| |||||||| || ||||| |||||
+Sbjct  943   GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTGCACCAGGTAAACCGGCCCCT  993
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || || || || |||||||||||
+Sbjct  994   GACCATGCGAAAGGATGGTATTCAGACACGAAACCGCAA  1032
+
+
+>XM_004587923.1 PREDICTED: Ochotona princeps GATA binding protein 1 (globin transcription 
+factor 1) (GATA1), mRNA
+Length=1399
+
+ Score = 202 bits (223),  Expect = 8e-47
+ Identities = 245/339 (72%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||||||||| || || || || ||||||||  ||||  | || || || ||||||||
+Sbjct  621  GAACTGCGGAGCAACAGCTACCCCACTGTGGCGGAGGGATAGGACAGGCCACTACCTGTG  680
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            |||          ||||| || ||||||||     | || ||||||||| | || |||||
+Sbjct  681  CAAT---------GCCTGTGGCCTCTACCATAAGATGAATGGCCAGAACAGGCCCCTCAT  731
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  732  CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTACTCAGTGCACC--------  783
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||| ||||||| || ||||||||  | |   |||  || ||||| ||
+Sbjct  784  ----AACTGCCAGACAACCACCACAACACTGTGGCGAAGAAATGCCAGCGGAGACCCTGT  839
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  840  GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGACCACT  890
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+             || ||||| ||||| |||||||||||||| ||||||||
+Sbjct  891  GACCATGCGAAAAGATGGAATCCAAACCCGGAACCGCAA  929
+
+
+>XM_019956055.1 PREDICTED: Bos indicus GATA binding protein 1 (GATA1), mRNA
+Length=1502
+
+ Score = 199 bits (220),  Expect = 3e-46
+ Identities = 264/374 (71%), Gaps = 42/374 (11%)
+ Strand=Plus/Plus
+
+Query  430   CCCTGCGAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGAGCGACGGCAACGCCG  489
+             |||||||||||| | || |||||            |||||| ||||| ||||| || || 
+Sbjct  703   CCCTGCGAGGCCAGAGAATGCGT------------GAACTGTGGAGCAACGGCGACACCA  750
+
+Query  490   CTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTC  549
+              ||||||| |||||| | || || || |||||||||||          ||||| || |||
+Sbjct  751   TTGTGGCGGCGGGACAGGACAGGCCACTACCTGTGCAA---------TGCCTGTGGCCTC  801
+
+Query  550   TACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTGCTGGTG  609
+             || |||    | || || |||||| | || |||||||| ||||| ||||||||| | || 
+Sbjct  802   TATCACAAGATGAATGGGCAGAACAGGCCCCTCATCCGGCCCAAGAAGCGCCTGATTGTC  861
+
+Query  610   AGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAGACATCCACCACC  669
+             || ||  | ||||| ||            | || ||   |||||||||||| ||||||| 
+Sbjct  862   AGCAAAAGGGCAGGGAC------------CCAGTGTACCAACTGCCAGACAACCACCACG  909
+
+Query  670   ACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATTCACGCCTGCGGC  729
+             || ||||||||  | | | |||  ||||||||||| ||||         |||||||||||
+Sbjct  910   ACACTGTGGCGGAGAAACGCCAGCGGGGACCCCGTGTGCA---------ACGCCTGCGGC  960
+
+Query  730   CTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAGACGGAATCCAA  789
+             |||||||||||||| ||||| |||||||| || || || ||| | || || || ||||| 
+Sbjct  961   CTCTACTACAAACTACACCAGGTGAACCGACCACTGACCATGAGGAAGGATGGTATCCAG  1020
+
+Query  790   ACCCGAAACCGCAA  803
+             || |||||||||||
+Sbjct  1021  ACTCGAAACCGCAA  1034
+
+
+>XM_026513371.1 PREDICTED: Ursus arctos horribilis GATA binding protein 1 (GATA1), 
+mRNA
+Length=2138
+
+ Score = 197 bits (218),  Expect = 1e-45
+ Identities = 244/339 (72%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| || || || || |||||||| |||||| | || || || ||||||||
+Sbjct  1366  GAACTGCGGAGCAACAGCCACTCCACTGTGGCGGCGGGACAGGACAGGCCACTACCTGTG  1425
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             |||          |||||||| ||||| |||    | || || |||||| | || || ||
+Sbjct  1426  CAAT---------GCCTGCGGCCTCTATCACAAGATGAATGGGCAGAACAGGCCCCTTAT  1476
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || || || || ||||| ||            | || |
+Sbjct  1477  CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTAC------------CCAGTG  1524
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+             |  ||||||||||||| ||||||| || ||||||||  | |   |||  |||||||| ||
+Sbjct  1525  TACAAACTGCCAGACAACCACCACGACCCTGTGGCGGAGAAATGCCAGCGGGGACCCTGT  1584
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  1585  GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGACCACT  1635
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || ||||| || |||||||||||
+Sbjct  1636  GACCATGCGGAAGGATGGCATCCAGACTCGAAACCGCAA  1674
+
+
+>XM_021383923.1 PREDICTED: Numida meleagris cyclin-dependent kinase B1-1-like 
+(LOC110391976), partial mRNA
+Length=690
+
+ Score = 196 bits (217),  Expect = 3e-45
+ Identities = 142/168 (85%), Gaps = 21/168 (13%)
+ Strand=Plus/Plus
+
+Query  436  GAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGAGCGACGGCAACGCCGCTGTGG  495
+            |||||||| ||||||||||            |||||||||||||  | ||||||||||||
+Sbjct  544  GAGGCCCGCGAGTGCGTCA------------ACTGCGGAGCGACCACGACGCCGCTGTGG  591
+
+Query  496  CGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTCTACCAC  555
+            ||||||||||||||||| |||||||||||||||         ||||||||||||||||||
+Sbjct  592  CGCCGGGACGGCACCGGCCATTACCTGTGCAAC---------GCCTGCGGGCTCTACCAC  642
+
+Query  556  CGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTG  603
+            ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  643  CGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTG  690
+
+
+>XM_016426539.1 PREDICTED: Monodelphis domestica erythroid transcription factor-like 
+(LOC100019065), transcript variant X3, mRNA
+Length=1463
+
+ Score = 196 bits (217),  Expect = 3e-45
+ Identities = 257/361 (71%), Gaps = 30/361 (8%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||| ||||| || || || ||||||||||| || || ||||| ||||| ||||| ||
+Sbjct  656  GAACTGTGGAGCAACTGCTACCCCGCTGTGGCGTCGAGATGGCACTGGGCACTACCTATG  715
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            |||          || || || || ||||||    | || || ||||| || || |||||
+Sbjct  716  CAAT---------GCTTGTGGCCTTTACCACAAGATGAATGGGCAGAATCGGCCCCTCAT  766
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            | | ||||| |||||| || | || |||||||| ||||| ||   ||||| |        
+Sbjct  767  CAGACCCAAGAAGCGCTTGATTGTCAGTAAGCGGGCAGGTACCCAGTGCACC--------  818
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||  | |||||||| |||||||| ||||   |||  ||||| |||||
+Sbjct  819  ----AACTGCCAGACGACAACCACCACACTGTGGCGCCGCAATGCCAGCGGGGAGCCCGT  874
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             || ||          |||||||| ||||||||||| |||||| | |||||||| || ||
+Sbjct  875  GTGTAAT---------GCCTGCGGGCTCTACTACAAGCTGCACAACGTGAACCGGCCACT  925
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAGGGTAAAAA  824
+             || ||||||||||| || ||||| ||||| ||||| || || ||   |||||  || ||
+Sbjct  926  AACCATGCGCAAAGATGGCATCCAGACCCGGAACCGAAAGGTGTCAGGCAAGGCCAAGAA  985
+
+Query  825  G  825
+            |
+Sbjct  986  G  986
+
+
+>XM_001372000.3 PREDICTED: Monodelphis domestica erythroid transcription factor-like 
+(LOC100019065), transcript variant X2, mRNA
+Length=1633
+
+ Score = 196 bits (217),  Expect = 3e-45
+ Identities = 257/361 (71%), Gaps = 30/361 (8%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||| ||||| || || || ||||||||||| || || ||||| ||||| ||||| ||
+Sbjct  826   GAACTGTGGAGCAACTGCTACCCCGCTGTGGCGTCGAGATGGCACTGGGCACTACCTATG  885
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             |||          || || || || ||||||    | || || ||||| || || |||||
+Sbjct  886   CAAT---------GCTTGTGGCCTTTACCACAAGATGAATGGGCAGAATCGGCCCCTCAT  936
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             | | ||||| |||||| || | || |||||||| ||||| ||   ||||| |        
+Sbjct  937   CAGACCCAAGAAGCGCTTGATTGTCAGTAAGCGGGCAGGTACCCAGTGCACC--------  988
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||  | |||||||| |||||||| ||||   |||  ||||| |||||
+Sbjct  989   ----AACTGCCAGACGACAACCACCACACTGTGGCGCCGCAATGCCAGCGGGGAGCCCGT  1044
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              || ||          |||||||| ||||||||||| |||||| | |||||||| || ||
+Sbjct  1045  GTGTAAT---------GCCTGCGGGCTCTACTACAAGCTGCACAACGTGAACCGGCCACT  1095
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAGGGTAAAAA  824
+              || ||||||||||| || ||||| ||||| ||||| || || ||   |||||  || ||
+Sbjct  1096  AACCATGCGCAAAGATGGCATCCAGACCCGGAACCGAAAGGTGTCAGGCAAGGCCAAGAA  1155
+
+Query  825   G  825
+             |
+Sbjct  1156  G  1156
+
+
+>XM_007507684.1 PREDICTED: Monodelphis domestica erythroid transcription factor-like 
+(LOC100019065), transcript variant X4, mRNA
+Length=1450
+
+ Score = 196 bits (217),  Expect = 3e-45
+ Identities = 257/361 (71%), Gaps = 30/361 (8%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||| ||||| || || || ||||||||||| || || ||||| ||||| ||||| ||
+Sbjct  643  GAACTGTGGAGCAACTGCTACCCCGCTGTGGCGTCGAGATGGCACTGGGCACTACCTATG  702
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            |||          || || || || ||||||    | || || ||||| || || |||||
+Sbjct  703  CAAT---------GCTTGTGGCCTTTACCACAAGATGAATGGGCAGAATCGGCCCCTCAT  753
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            | | ||||| |||||| || | || |||||||| ||||| ||   ||||| |        
+Sbjct  754  CAGACCCAAGAAGCGCTTGATTGTCAGTAAGCGGGCAGGTACCCAGTGCACC--------  805
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||  | |||||||| |||||||| ||||   |||  ||||| |||||
+Sbjct  806  ----AACTGCCAGACGACAACCACCACACTGTGGCGCCGCAATGCCAGCGGGGAGCCCGT  861
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             || ||          |||||||| ||||||||||| |||||| | |||||||| || ||
+Sbjct  862  GTGTAAT---------GCCTGCGGGCTCTACTACAAGCTGCACAACGTGAACCGGCCACT  912
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAGGGTAAAAA  824
+             || ||||||||||| || ||||| ||||| ||||| || || ||   |||||  || ||
+Sbjct  913  AACCATGCGCAAAGATGGCATCCAGACCCGGAACCGAAAGGTGTCAGGCAAGGCCAAGAA  972
+
+Query  825  G  825
+            |
+Sbjct  973  G  973
+
+
+>XM_007507683.1 PREDICTED: Monodelphis domestica erythroid transcription factor-like 
+(LOC100019065), transcript variant X1, mRNA
+Length=1589
+
+ Score = 196 bits (217),  Expect = 3e-45
+ Identities = 257/361 (71%), Gaps = 30/361 (8%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||| ||||| || || || ||||||||||| || || ||||| ||||| ||||| ||
+Sbjct  782   GAACTGTGGAGCAACTGCTACCCCGCTGTGGCGTCGAGATGGCACTGGGCACTACCTATG  841
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             |||          || || || || ||||||    | || || ||||| || || |||||
+Sbjct  842   CAAT---------GCTTGTGGCCTTTACCACAAGATGAATGGGCAGAATCGGCCCCTCAT  892
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             | | ||||| |||||| || | || |||||||| ||||| ||   ||||| |        
+Sbjct  893   CAGACCCAAGAAGCGCTTGATTGTCAGTAAGCGGGCAGGTACCCAGTGCACC--------  944
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||  | |||||||| |||||||| ||||   |||  ||||| |||||
+Sbjct  945   ----AACTGCCAGACGACAACCACCACACTGTGGCGCCGCAATGCCAGCGGGGAGCCCGT  1000
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              || ||          |||||||| ||||||||||| |||||| | |||||||| || ||
+Sbjct  1001  GTGTAAT---------GCCTGCGGGCTCTACTACAAGCTGCACAACGTGAACCGGCCACT  1051
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAGGGTAAAAA  824
+              || ||||||||||| || ||||| ||||| ||||| || || ||   |||||  || ||
+Sbjct  1052  AACCATGCGCAAAGATGGCATCCAGACCCGGAACCGAAAGGTGTCAGGCAAGGCCAAGAA  1111
+
+Query  825   G  825
+             |
+Sbjct  1112  G  1112
+
+
+>XM_027533196.1 PREDICTED: Bos indicus x Bos taurus GATA binding protein 1 (GATA1), 
+mRNA
+Length=1514
+
+ Score = 195 bits (215),  Expect = 1e-44
+ Identities = 263/374 (70%), Gaps = 42/374 (11%)
+ Strand=Plus/Plus
+
+Query  430   CCCTGCGAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGAGCGACGGCAACGCCG  489
+             |||||||||||| | || |||||            |||||| ||||| ||||| || || 
+Sbjct  715   CCCTGCGAGGCCAGAGAATGCGT------------GAACTGTGGAGCAACGGCGACACCA  762
+
+Query  490   CTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTC  549
+              ||||||| |||||| | || || || |||||||||||          ||||| || |||
+Sbjct  763   TTGTGGCGGCGGGACAGGACAGGCCACTACCTGTGCAA---------TGCCTGTGGCCTC  813
+
+Query  550   TACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTGCTGGTG  609
+             || |||    | || || |||||| | || |||||||| ||||| ||||||||| | || 
+Sbjct  814   TATCACAAGATGAATGGGCAGAACAGGCCCCTCATCCGGCCCAAGAAGCGCCTGATTGTC  873
+
+Query  610   AGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAGACATCCACCACC  669
+             || ||  | ||||| ||            | || ||   |||||||||||| ||||||| 
+Sbjct  874   AGCAAAAGGGCAGGGAC------------CCAGTGTACCAACTGCCAGACAACCACCACG  921
+
+Query  670   ACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATTCACGCCTGCGGC  729
+             || ||||||||  | | | |||  |||||||| || ||||         |||||||||||
+Sbjct  922   ACACTGTGGCGGAGAAACGCCAGCGGGGACCCTGTGTGCA---------ACGCCTGCGGC  972
+
+Query  730   CTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAGACGGAATCCAA  789
+             |||||||||||||| ||||| |||||||| || || || ||| | || || || ||||| 
+Sbjct  973   CTCTACTACAAACTACACCAGGTGAACCGACCACTGACCATGAGGAAGGATGGTATCCAG  1032
+
+Query  790   ACCCGAAACCGCAA  803
+             || |||||||||||
+Sbjct  1033  ACTCGAAACCGCAA  1046
+
+
+>XM_010821902.3 PREDICTED: Bos taurus GATA binding protein 1 (GATA1), transcript 
+variant X1, mRNA
+Length=1521
+
+ Score = 195 bits (215),  Expect = 1e-44
+ Identities = 263/374 (70%), Gaps = 42/374 (11%)
+ Strand=Plus/Plus
+
+Query  430   CCCTGCGAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGAGCGACGGCAACGCCG  489
+             |||||||||||| | || |||||            |||||| ||||| ||||| || || 
+Sbjct  722   CCCTGCGAGGCCAGAGAATGCGT------------GAACTGTGGAGCAACGGCGACACCA  769
+
+Query  490   CTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTC  549
+              ||||||| |||||| | || || || |||||||||||          ||||| || |||
+Sbjct  770   TTGTGGCGGCGGGACAGGACAGGCCACTACCTGTGCAA---------TGCCTGTGGCCTC  820
+
+Query  550   TACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTGCTGGTG  609
+             || |||    | || || |||||| | || |||||||| ||||| ||||||||| | || 
+Sbjct  821   TATCACAAGATGAATGGGCAGAACAGGCCCCTCATCCGGCCCAAGAAGCGCCTGATTGTC  880
+
+Query  610   AGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAGACATCCACCACC  669
+             || ||  | ||||| ||            | || ||   |||||||||||| ||||||| 
+Sbjct  881   AGCAAAAGGGCAGGGAC------------CCAGTGTACCAACTGCCAGACAACCACCACG  928
+
+Query  670   ACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATTCACGCCTGCGGC  729
+             || ||||||||  | | | |||  |||||||| || ||||         |||||||||||
+Sbjct  929   ACACTGTGGCGGAGAAACGCCAGCGGGGACCCTGTGTGCA---------ACGCCTGCGGC  979
+
+Query  730   CTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAGACGGAATCCAA  789
+             |||||||||||||| ||||| |||||||| || || || ||| | || || || ||||| 
+Sbjct  980   CTCTACTACAAACTACACCAGGTGAACCGACCACTGACCATGAGGAAGGATGGTATCCAG  1039
+
+Query  790   ACCCGAAACCGCAA  803
+             || |||||||||||
+Sbjct  1040  ACTCGAAACCGCAA  1053
+
+
+>XM_010844350.1 PREDICTED: Bison bison bison GATA binding protein 1 (globin transcription 
+factor 1) (GATA1), mRNA
+Length=1322
+
+ Score = 195 bits (215),  Expect = 1e-44
+ Identities = 263/374 (70%), Gaps = 42/374 (11%)
+ Strand=Plus/Plus
+
+Query  430  CCCTGCGAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGAGCGACGGCAACGCCG  489
+            |||||||||||| | || |||||            |||||| ||||| ||||| || || 
+Sbjct  533  CCCTGCGAGGCCAGAGAATGCGT------------GAACTGTGGAGCAACGGCGACACCA  580
+
+Query  490  CTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTC  549
+             ||||||| |||||| | || || || |||||||||||          ||||| || |||
+Sbjct  581  TTGTGGCGGCGGGACAGGACAGGCCACTACCTGTGCAA---------TGCCTGTGGCCTC  631
+
+Query  550  TACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTGCTGGTG  609
+            || |||    | || || |||||| | || |||||||| ||||| ||||||||| | || 
+Sbjct  632  TATCACAAGATGAATGGGCAGAACAGGCCCCTCATCCGGCCCAAGAAGCGCCTGATTGTC  691
+
+Query  610  AGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAGACATCCACCACC  669
+            || ||  | ||||| ||            | || ||   |||||||||||| ||||||| 
+Sbjct  692  AGCAAAAGGGCAGGGAC------------CCAGTGTACCAACTGCCAGACAACCACCACG  739
+
+Query  670  ACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATTCACGCCTGCGGC  729
+            || ||||||||  | | | |||  |||||||| || ||||         |||||||||||
+Sbjct  740  ACACTGTGGCGGAGAAACGCCAGCGGGGACCCTGTGTGCA---------ACGCCTGCGGC  790
+
+Query  730  CTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAGACGGAATCCAA  789
+            |||||||||||||| ||||| |||||||| || || || ||| | || || || ||||| 
+Sbjct  791  CTCTACTACAAACTACACCAGGTGAACCGACCACTGACCATGAGGAAGGATGGTATCCAG  850
+
+Query  790  ACCCGAAACCGCAA  803
+            || |||||||||||
+Sbjct  851  ACTCGAAACCGCAA  864
+
+
+>XM_005887669.1 PREDICTED: Bos mutus GATA binding protein 1 (globin transcription 
+factor 1) (GATA1), mRNA
+Length=1502
+
+ Score = 195 bits (215),  Expect = 1e-44
+ Identities = 263/374 (70%), Gaps = 42/374 (11%)
+ Strand=Plus/Plus
+
+Query  430   CCCTGCGAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGAGCGACGGCAACGCCG  489
+             |||||||||||| | || |||||            |||||| ||||| ||||| || || 
+Sbjct  703   CCCTGCGAGGCCAGAGAATGCGT------------GAACTGTGGAGCAACGGCGACACCA  750
+
+Query  490   CTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTC  549
+              ||||||| |||||| | || || || |||||||||||          ||||| || |||
+Sbjct  751   TTGTGGCGGCGGGACAGGACAGGCCACTACCTGTGCAA---------TGCCTGTGGCCTC  801
+
+Query  550   TACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTGCTGGTG  609
+             || |||    | || || |||||| | || |||||||| ||||| ||||||||| | || 
+Sbjct  802   TATCACAAGATGAATGGGCAGAACAGGCCCCTCATCCGGCCCAAGAAGCGCCTGATTGTC  861
+
+Query  610   AGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAGACATCCACCACC  669
+             || ||  | ||||| ||            | || ||   |||||||||||| ||||||| 
+Sbjct  862   AGCAAAAGGGCAGGGAC------------CCAGTGTACCAACTGCCAGACAACCACCACG  909
+
+Query  670   ACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATTCACGCCTGCGGC  729
+             || ||||||||  | | | |||  |||||||| || ||||         |||||||||||
+Sbjct  910   ACACTGTGGCGGAGAAACGCCAGCGGGGACCCTGTGTGCA---------ACGCCTGCGGC  960
+
+Query  730   CTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAGACGGAATCCAA  789
+             |||||||||||||| ||||| |||||||| || || || ||| | || || || ||||| 
+Sbjct  961   CTCTACTACAAACTACACCAGGTGAACCGACCACTGACCATGAGGAAGGATGGTATCCAG  1020
+
+Query  790   ACCCGAAACCGCAA  803
+             || |||||||||||
+Sbjct  1021  ACTCGAAACCGCAA  1034
+
+
+>NM_001252179.1 Ovis aries GATA binding protein 1 (GATA1), mRNA
+ AB612140.1 Ovis aries GATA1 mRNA for transcription factor GATA1, complete 
+cds
+Length=1242
+
+ Score = 195 bits (215),  Expect = 1e-44
+ Identities = 263/374 (70%), Gaps = 42/374 (11%)
+ Strand=Plus/Plus
+
+Query  430  CCCTGCGAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGAGCGACGGCAACGCCG  489
+            |||||||||||| | || |||||            |||||| ||||| ||||| || || 
+Sbjct  592  CCCTGCGAGGCCAGAGAATGCGT------------GAACTGTGGAGCAACGGCGACACCA  639
+
+Query  490  CTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTC  549
+             ||||||| |||||| | || || || ||||||||||||         ||||| || |||
+Sbjct  640  TTGTGGCGGCGGGACAGGACAGGCCACTACCTGTGCAAC---------GCCTGTGGCCTC  690
+
+Query  550  TACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTGCTGGTG  609
+            || |||    | || || |||||| | || |||||||| ||||| ||||||||| | || 
+Sbjct  691  TATCACAAGATGAATGGGCAGAACAGGCCTCTCATCCGGCCCAAGAAGCGCCTGATTGTC  750
+
+Query  610  AGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAGACATCCACCACC  669
+            || ||  | ||||| ||            | || ||   |||||||||||  ||||||| 
+Sbjct  751  AGCAAAAGGGCAGGGAC------------CCAGTGTACCAACTGCCAGACTACCACCACG  798
+
+Query  670  ACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATTCACGCCTGCGGC  729
+            || ||||||||  | | | |||  |||||||| || ||||         |||||||||||
+Sbjct  799  ACACTGTGGCGGAGAAACGCCAGCGGGGACCCTGTGTGCA---------ACGCCTGCGGC  849
+
+Query  730  CTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAGACGGAATCCAA  789
+            |||||||||||||| ||||| |||||||| || || || ||| | || || || ||||| 
+Sbjct  850  CTCTACTACAAACTACACCAGGTGAACCGACCACTGACCATGAGGAAGGATGGTATCCAG  909
+
+Query  790  ACCCGAAACCGCAA  803
+            || |||||||||||
+Sbjct  910  ACTCGAAACCGCAA  923
+
+
+>NM_001206240.1 Bos taurus GATA binding protein 1 (GATA1), mRNA
+Length=1387
+
+ Score = 195 bits (215),  Expect = 1e-44
+ Identities = 263/374 (70%), Gaps = 42/374 (11%)
+ Strand=Plus/Plus
+
+Query  430  CCCTGCGAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGAGCGACGGCAACGCCG  489
+            |||||||||||| | || |||||            |||||| ||||| ||||| || || 
+Sbjct  592  CCCTGCGAGGCCAGAGAATGCGT------------GAACTGTGGAGCAACGGCGACACCA  639
+
+Query  490  CTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTC  549
+             ||||||| |||||| | || || || |||||||||||          ||||| || |||
+Sbjct  640  TTGTGGCGGCGGGACAGGACAGGCCACTACCTGTGCAA---------TGCCTGTGGCCTC  690
+
+Query  550  TACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTGCTGGTG  609
+            || |||    | || || |||||| | || |||||||| ||||| ||||||||| | || 
+Sbjct  691  TATCACAAGATGAATGGGCAGAACAGGCCCCTCATCCGGCCCAAGAAGCGCCTGATTGTC  750
+
+Query  610  AGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAGACATCCACCACC  669
+            || ||  | ||||| ||            | || ||   |||||||||||| ||||||| 
+Sbjct  751  AGCAAAAGGGCAGGGAC------------CCAGTGTACCAACTGCCAGACAACCACCACG  798
+
+Query  670  ACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATTCACGCCTGCGGC  729
+            || ||||||||  | | | |||  |||||||| || ||||         |||||||||||
+Sbjct  799  ACACTGTGGCGGAGAAACGCCAGCGGGGACCCTGTGTGCA---------ACGCCTGCGGC  849
+
+Query  730  CTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAGACGGAATCCAA  789
+            |||||||||||||| ||||| |||||||| || || || ||| | || || || ||||| 
+Sbjct  850  CTCTACTACAAACTACACCAGGTGAACCGACCACTGACCATGAGGAAGGATGGTATCCAG  909
+
+Query  790  ACCCGAAACCGCAA  803
+            || |||||||||||
+Sbjct  910  ACTCGAAACCGCAA  923
+
+
+>NM_002049.4 Homo sapiens GATA binding protein 1 (GATA1), mRNA
+Length=1464
+
+ Score = 193 bits (213),  Expect = 4e-44
+ Identities = 243/339 (72%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||||||||| || || || || ||||||||  ||||| | || || || ||||| ||
+Sbjct  690  GAACTGCGGAGCAACAGCCACTCCACTGTGGCGGAGGGACAGGACAGGCCACTACCTATG  749
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            ||||         |||||||| ||||| |||    | || || |||||| | || |||||
+Sbjct  750  CAAC---------GCCTGCGGCCTCTATCACAAGATGAATGGGCAGAACAGGCCCCTCAT  800
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||| ||||| ||||||||| | || ||||| || ||||| ||   ||||| |        
+Sbjct  801  CCGGCCCAAGAAGCGCCTGATTGTCAGTAAACGGGCAGGTACTCAGTGCACC--------  852
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||  ||||||| || ||||||||  | |   |||  ||||| |||||
+Sbjct  853  ----AACTGCCAGACGACCACCACGACACTGTGGCGGAGAAATGCCAGTGGGGATCCCGT  908
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  909  GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGGCCACT  959
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+             || ||||| || || || || || || |||||||||||
+Sbjct  960  GACCATGCGGAAGGATGGTATTCAGACTCGAAACCGCAA  998
+
+
+>XM_024452363.1 PREDICTED: Homo sapiens GATA binding protein 1 (GATA1), transcript 
+variant X3, mRNA
+Length=1273
+
+ Score = 193 bits (213),  Expect = 4e-44
+ Identities = 243/339 (72%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||||||||| || || || || ||||||||  ||||| | || || || ||||| ||
+Sbjct  499  GAACTGCGGAGCAACAGCCACTCCACTGTGGCGGAGGGACAGGACAGGCCACTACCTATG  558
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            ||||         |||||||| ||||| |||    | || || |||||| | || |||||
+Sbjct  559  CAAC---------GCCTGCGGCCTCTATCACAAGATGAATGGGCAGAACAGGCCCCTCAT  609
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||| ||||| ||||||||| | || ||||| || ||||| ||   ||||| |        
+Sbjct  610  CCGGCCCAAGAAGCGCCTGATTGTCAGTAAACGGGCAGGTACTCAGTGCACC--------  661
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||  ||||||| || ||||||||  | |   |||  ||||| |||||
+Sbjct  662  ----AACTGCCAGACGACCACCACGACACTGTGGCGGAGAAATGCCAGTGGGGATCCCGT  717
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  718  GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGGCCACT  768
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+             || ||||| || || || || || || |||||||||||
+Sbjct  769  GACCATGCGGAAGGATGGTATTCAGACTCGAAACCGCAA  807
+
+
+>XM_022508043.1 PREDICTED: Enhydra lutris kenyoni GATA binding protein 1 (LOC111150553), 
+mRNA
+Length=1384
+
+ Score = 193 bits (213),  Expect = 4e-44
+ Identities = 243/339 (72%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||||||||| || || || || |||||||| |||||| | || || || ||||| ||
+Sbjct  615  GAACTGCGGAGCAACAGCCACTCCACTGTGGCGGCGGGACAGGACAGGCCACTACCTATG  674
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            |||          |||||||| |||||||||    | || || |||||| | || |||||
+Sbjct  675  CAAT---------GCCTGCGGCCTCTACCACAAGATGAATGGGCAGAACAGGCCCCTCAT  725
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  726  CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTACCCAGTGCACC--------  777
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||| ||||||| || ||||||||  | |   | |  |||||||| ||
+Sbjct  778  ----AACTGCCAGACAACCACCACGACGCTGTGGCGGAGAAATGCTAGCGGGGACCCTGT  833
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             |||||          ||||| |||||||||||||| || ||||| |||||||| || ||
+Sbjct  834  GTGCAAT---------GCCTGTGGCCTCTACTACAAGCTACACCAGGTGAACCGACCACT  884
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+             || ||||| || || || ||||| || |||||||||||
+Sbjct  885  GACCATGCGGAAGGATGGTATCCAGACTCGAAACCGCAA  923
+
+
+>XM_018043633.1 PREDICTED: Capra hircus GATA binding protein 1 (GATA1), mRNA
+Length=1440
+
+ Score = 193 bits (213),  Expect = 4e-44
+ Identities = 243/339 (72%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||||||||| ||||| || ||  ||||||| |||||| | || || || ||||||||
+Sbjct  664  GAACTGCGGAGCAACGGCGACACCATTGTGGCGGCGGGACAGGACAGGCCACTACCTGTG  723
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            ||||         ||||| || ||||| |||    | || || |||||| | || |||||
+Sbjct  724  CAAC---------GCCTGTGGCCTCTATCACAAGATGAATGGGCAGAACAGGCCTCTCAT  774
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||| ||||| ||||||||| | || || ||  | ||||| ||            | || |
+Sbjct  775  CCGGCCCAAGAAGCGCCTGATTGTCAGCAAAAGGGCAGGGAC------------CCAGTG  822
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+            |   |||||||||||  ||||||| || ||||||||  | | | |||  |||||||| ||
+Sbjct  823  TACCAACTGCCAGACTACCACCACGACACTGTGGCGGAGAAACGCCAGCGGGGACCCTGT  882
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             ||||         ||||||| ||||||||||||||||| ||||| |||||||| || ||
+Sbjct  883  GTGCA---------ACGCCTGTGGCCTCTACTACAAACTACACCAGGTGAACCGACCACT  933
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+             || ||| | || || || ||||| || |||||||||||
+Sbjct  934  GACCATGAGGAAGGATGGTATCCAGACTCGAAACCGCAA  972
+
+
+>XM_016943529.1 PREDICTED: Pan troglodytes GATA binding protein 1 (GATA1), transcript 
+variant X2, mRNA
+Length=1502
+
+ Score = 193 bits (213),  Expect = 4e-44
+ Identities = 243/339 (72%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| || || || || ||||||||  ||||| | || || || ||||| ||
+Sbjct  728   GAACTGCGGAGCAACAGCCACTCCACTGTGGCGGAGGGACAGGACAGGCCACTACCTATG  787
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         |||||||| ||||| |||    | || || |||||| | || |||||
+Sbjct  788   CAAC---------GCCTGCGGCCTCTATCACAAGATGAATGGGCAGAACAGGCCCCTCAT  838
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || ||||| || ||||| ||   ||||| |        
+Sbjct  839   CCGGCCCAAGAAGCGCCTGATTGTCAGTAAACGGGCAGGTACTCAGTGCACC--------  890
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||  ||||||| || ||||||||  | |   |||  ||||| |||||
+Sbjct  891   ----AACTGCCAGACGACCACCACGACACTGTGGCGGAGAAATGCCAGCGGGGATCCCGT  946
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  947   GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGGCCACT  997
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || || || || |||||||||||
+Sbjct  998   GACCATGCGGAAGGATGGTATTCAGACTCGAAACCGCAA  1036
+
+
+>XM_014790992.1 PREDICTED: Ceratotherium simum simum GATA binding protein 1 (globin 
+transcription factor 1) (LOC101388863), transcript variant 
+X2, mRNA
+Length=1455
+
+ Score = 193 bits (213),  Expect = 4e-44
+ Identities = 243/339 (72%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||||||||| || || || ||||||||||| |||||| | || || || || |||||
+Sbjct  683  GAACTGCGGAGCAACAGCCACTCCGCTGTGGCGGCGGGACAGGACAGGCCACTATCTGTG  742
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            |||          ||||| || ||||| |||    | || || |||||| | || |||||
+Sbjct  743  CAAT---------GCCTGTGGCCTCTATCACAAGATGAATGGGCAGAACAGGCCCCTCAT  793
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  794  CCGGCCCAAGAAGCGCCTGATTGTTAGCAAACGGGCAGGTACCCAGTGCACC--------  845
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||| ||||||| || ||||||||  | |   | |  |||||||| ||
+Sbjct  846  ----AACTGCCAGACAACCACCACGACCCTGTGGCGGAGAAATGCGAGTGGGGACCCTGT  901
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             |||||          ||||||||||||||||||||||| ||||| |||||||| || ||
+Sbjct  902  GTGCAAT---------GCCTGCGGCCTCTACTACAAACTACACCAGGTGAACCGACCACT  952
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+             || ||||| || || || || || || |||||||||||
+Sbjct  953  GACCATGCGGAAGGATGGTATTCAGACTCGAAACCGCAA  991
+
+
+>XM_004434955.2 PREDICTED: Ceratotherium simum simum GATA binding protein 1 (globin 
+transcription factor 1) (LOC101388863), transcript variant 
+X1, mRNA
+Length=1517
+
+ Score = 193 bits (213),  Expect = 4e-44
+ Identities = 243/339 (72%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| || || || ||||||||||| |||||| | || || || || |||||
+Sbjct  745   GAACTGCGGAGCAACAGCCACTCCGCTGTGGCGGCGGGACAGGACAGGCCACTATCTGTG  804
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             |||          ||||| || ||||| |||    | || || |||||| | || |||||
+Sbjct  805   CAAT---------GCCTGTGGCCTCTATCACAAGATGAATGGGCAGAACAGGCCCCTCAT  855
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  856   CCGGCCCAAGAAGCGCCTGATTGTTAGCAAACGGGCAGGTACCCAGTGCACC--------  907
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||| ||||||| || ||||||||  | |   | |  |||||||| ||
+Sbjct  908   ----AACTGCCAGACAACCACCACGACCCTGTGGCGGAGAAATGCGAGTGGGGACCCTGT  963
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          ||||||||||||||||||||||| ||||| |||||||| || ||
+Sbjct  964   GTGCAAT---------GCCTGCGGCCTCTACTACAAACTACACCAGGTGAACCGACCACT  1014
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || || || || |||||||||||
+Sbjct  1015  GACCATGCGGAAGGATGGTATTCAGACTCGAAACCGCAA  1053
+
+
+>XM_005868003.2 PREDICTED: Myotis brandtii GATA binding protein 1 (globin transcription 
+factor 1) (GATA1), partial mRNA
+Length=1103
+
+ Score = 193 bits (213),  Expect = 4e-44
+ Identities = 243/339 (72%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             ||||||||||||||| || || || |||||||| || ||| | || || || ||||||||
+Sbjct  740   GAACTGCGGAGCGACAGCCACTCCACTGTGGCGGCGAGACAGGACAGGCCACTACCTGTG  799
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             |||          ||||| || ||||| |||    | || || || ||| | || |||||
+Sbjct  800   CAAT---------GCCTGTGGCCTCTATCACAAGATGAATGGGCAAAACAGGCCCCTCAT  850
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||||||||||||| | || || ||||| ||||| ||   ||||| |        
+Sbjct  851   CCGGCCCAAAAAGCGCCTGATCGTCAGCAAGCGGGCAGGTACCCAGTGCACC--------  902
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||| | ||||| || ||||||||  | |   |||  |||||||||||
+Sbjct  903   ----AACTGCCAGACAACTACCACGACACTGTGGCGGAGGAATGCCAGTGGGGACCCCGT  958
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          |||||||||||||| |||||| | ||||| |||||||| || ||
+Sbjct  959   GTGCAAT---------GCCTGCGGCCTCTATTACAAATTACACCAGGTGAACCGACCACT  1009
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || ||||| ||  ||||||||||
+Sbjct  1010  GACCATGCGGAAGGATGGTATCCAGACTAGAAACCGCAA  1048
+
+
+>XM_004064106.1 PREDICTED: Gorilla gorilla gorilla GATA binding protein 1 (GATA1), 
+mRNA
+Length=1494
+
+ Score = 193 bits (213),  Expect = 4e-44
+ Identities = 243/339 (72%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| || || || || ||||||||  ||||| | || || || ||||| ||
+Sbjct  720   GAACTGCGGAGCAACAGCCACTCCACTGTGGCGGAGGGACAGGACAGGCCACTACCTATG  779
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         |||||||| ||||| |||    | || || |||||| | || |||||
+Sbjct  780   CAAC---------GCCTGCGGCCTCTATCACAAGATGAATGGGCAGAACAGGCCCCTCAT  830
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || ||||| || ||||| ||   ||||| |        
+Sbjct  831   CCGGCCCAAGAAGCGCCTGATTGTCAGTAAACGGGCAGGTACTCAGTGCACC--------  882
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||  ||||||| || ||||||||  | |   |||  ||||| |||||
+Sbjct  883   ----AACTGCCAGACGACCACCACGACACTGTGGCGGAGAAATGCCAGCGGGGATCCCGT  938
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  939   GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGGCCACT  989
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || || || || |||||||||||
+Sbjct  990   GACCATGCGGAAGGATGGTATTCAGACTCGAAACCGCAA  1028
+
+
+>XM_003807222.1 PREDICTED: Pan paniscus GATA binding protein 1 (GATA1), mRNA
+Length=1494
+
+ Score = 193 bits (213),  Expect = 4e-44
+ Identities = 243/339 (72%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| || || || || ||||||||  ||||| | || || || ||||| ||
+Sbjct  720   GAACTGCGGAGCAACAGCCACTCCACTGTGGCGGAGGGACAGGACAGGCCACTACCTATG  779
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         |||||||| ||||| |||    | || || |||||| | || |||||
+Sbjct  780   CAAC---------GCCTGCGGCCTCTATCACAAGATGAATGGGCAGAACAGGCCCCTCAT  830
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || ||||| || ||||| ||   ||||| |        
+Sbjct  831   CCGGCCCAAGAAGCGCCTGATTGTCAGTAAACGGGCAGGTACTCAGTGCACC--------  882
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||  ||||||| || ||||||||  | |   |||  ||||| |||||
+Sbjct  883   ----AACTGCCAGACGACCACCACGACACTGTGGCGGAGAAATGCCAGCGGGGATCCCGT  938
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  939   GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGGCCACT  989
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || || || || |||||||||||
+Sbjct  990   GACCATGCGGAAGGATGGTATTCAGACTCGAAACCGCAA  1028
+
+
+>AB463674.1 Synthetic construct DNA, clone: pF1KB7694, Homo sapiens GATA1 
+gene for GATA binding protein 1, without stop codon, in Flexi 
+system
+Length=1256
+
+ Score = 193 bits (213),  Expect = 4e-44
+ Identities = 243/339 (72%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||||||||| || || || || ||||||||  ||||| | || || || ||||| ||
+Sbjct  624  GAACTGCGGAGCAACAGCCACTCCACTGTGGCGGAGGGACAGGACAGGCCACTACCTATG  683
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            ||||         |||||||| ||||| |||    | || || |||||| | || |||||
+Sbjct  684  CAAC---------GCCTGCGGCCTCTATCACAAGATGAATGGGCAGAACAGGCCCCTCAT  734
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||| ||||| ||||||||| | || ||||| || ||||| ||   ||||| |        
+Sbjct  735  CCGGCCCAAGAAGCGCCTGATTGTCAGTAAACGGGCAGGTACTCAGTGCACC--------  786
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||  ||||||| || ||||||||  | |   |||  ||||| |||||
+Sbjct  787  ----AACTGCCAGACGACCACCACGACACTGTGGCGGAGAAATGCCAGTGGGGATCCCGT  842
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  843  GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGGCCACT  893
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+             || ||||| || || || || || || |||||||||||
+Sbjct  894  GACCATGCGGAAGGATGGTATTCAGACTCGAAACCGCAA  932
+
+
+>BT019772.1 Synthetic construct Homo sapiens GATA binding protein 1 (globin 
+transcription factor 1) mRNA, partial cds
+ AY891319.1 Synthetic construct Homo sapiens clone FLH010039.01L GATA binding 
+protein 1 (GATA1) mRNA, partial cds
+Length=1242
+
+ Score = 193 bits (213),  Expect = 4e-44
+ Identities = 243/339 (72%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||||||||| || || || || ||||||||  ||||| | || || || ||||| ||
+Sbjct  615  GAACTGCGGAGCAACAGCCACTCCACTGTGGCGGAGGGACAGGACAGGCCACTACCTATG  674
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            ||||         |||||||| ||||| |||    | || || |||||| | || |||||
+Sbjct  675  CAAC---------GCCTGCGGCCTCTATCACAAGATGAATGGGCAGAACAGGCCCCTCAT  725
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||| ||||| ||||||||| | || ||||| || ||||| ||   ||||| |        
+Sbjct  726  CCGGCCCAAGAAGCGCCTGATTGTCAGTAAACGGGCAGGTACTCAGTGCACC--------  777
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||  ||||||| || ||||||||  | |   |||  ||||| |||||
+Sbjct  778  ----AACTGCCAGACGACCACCACGACACTGTGGCGGAGAAATGCCAGTGGGGATCCCGT  833
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  834  GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGGCCACT  884
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+             || ||||| || || || || || || |||||||||||
+Sbjct  885  GACCATGCGGAAGGATGGTATTCAGACTCGAAACCGCAA  923
+
+
+>X17254.1 Human mRNA for the transcription factor Eryf1
+Length=1498
+
+ Score = 193 bits (213),  Expect = 4e-44
+ Identities = 243/339 (72%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| || || || || ||||||||  ||||| | || || || ||||| ||
+Sbjct  727   GAACTGCGGAGCAACAGCCACTCCACTGTGGCGGAGGGACAGGACAGGCCACTACCTATG  786
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         |||||||| ||||| |||    | || || |||||| | || |||||
+Sbjct  787   CAAC---------GCCTGCGGCCTCTATCACAAGATGAATGGGCAGAACAGGCCCCTCAT  837
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || ||||| || ||||| ||   ||||| |        
+Sbjct  838   CCGGCCCAAGAAGCGCCTGATTGTCAGTAAACGGGCAGGTACTCAGTGCACC--------  889
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||  ||||||| || ||||||||  | |   |||  ||||| |||||
+Sbjct  890   ----AACTGCCAGACGACCACCACGACACTGTGGCGGAGAAATGCCAGTGGGGATCCCGT  945
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  946   GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGGCCACT  996
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || || || || |||||||||||
+Sbjct  997   GACCATGCGGAAGGATGGTATTCAGACTCGAAACCGCAA  1035
+
+
+>M30601.1 Human erythroid DNA-binding protein (GF-1) mRNA, complete cds
+Length=1360
+
+ Score = 193 bits (213),  Expect = 4e-44
+ Identities = 243/339 (72%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465  GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+            |||||||||||| || || || || ||||||||  ||||| | || || || ||||| ||
+Sbjct  673  GAACTGCGGAGCAACAGCCACTCCACTGTGGCGGAGGGACAGGACAGGCCACTACCTATG  732
+
+Query  525  CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+            ||||         |||||||| ||||| |||    | || || |||||| | || |||||
+Sbjct  733  CAAC---------GCCTGCGGCCTCTATCACAAGATGAATGGGCAGAACAGGCCCCTCAT  783
+
+Query  585  CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+            ||| ||||| ||||||||| | || ||||| || ||||| ||   ||||| |        
+Sbjct  784  CCGGCCCAAGAAGCGCCTGATTGTCAGTAAACGAGCAGGTACTCAGTGCACC--------  835
+
+Query  645  TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                |||||||||||  ||||||| || ||||||||  | |   |||  ||||| |||||
+Sbjct  836  ----AACTGCCAGACGACCACCACGACACTGTGGCGGAGAAATGCCAGTGGGGATCCCGT  891
+
+Query  705  CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  892  GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGGCCACT  942
+
+Query  765  CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+             || ||||| || || || || || || |||||||||||
+Sbjct  943  GACCATGCGGAAGGATGGTATTCAGACTCGAAACCGCAA  981
+
+
+>XM_012854945.2 PREDICTED: Fundulus heteroclitus GATA-binding factor 1-B (LOC105919611), 
+mRNA
+Length=1735
+
+ Score = 192 bits (212),  Expect = 4e-44
+ Identities = 251/351 (72%), Gaps = 30/351 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             ||||||||||| || || ||||| ||||||||||| ||||| || || || |||||||||
+Sbjct  812   AACTGCGGAGCCACTGCCACGCCTCTGTGGCGCCGAGACGGTACGGGCCACTACCTGTGC  871
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         ||||||||||| ||||||    | |||||||||||||| ||  | |||
+Sbjct  872   AAC---------GCCTGCGGGCTGTACCACAAGATGAACGGCCAGAACCGACCTTTGATC  922
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGT  645
+             || ||||| ||| | ||| | ||||||||||| || || ||  | ||| |||        
+Sbjct  923   CGACCCAAGAAGAGACTGATCGTGAGTAAGCGTGCGGGTACCCTCTGC-GCC--------  973
+
+Query  646   GAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTC  705
+                ||||| || ||   ||| || || |||||| | |||| | |||  ||||| ||||| 
+Sbjct  974   ---AACTGTCACACCAGCACGACGACGCTGTGGAGGCGCAACGCCAACGGGGAGCCCGTG  1030
+
+Query  706   TGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTC  765
+             ||         | |||||||||| ||||||| ||| |||||| | || |||||||| |||
+Sbjct  1031  TG---------TAACGCCTGCGGACTCTACTTCAAGCTGCACAACGTCAACCGCCCGCTC  1081
+
+Query  766   ACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             || |||   || || || ||||| || || ||| | ||||| |||  ||||
+Sbjct  1082  ACCATGAAGAAGGAAGGCATCCAGACTCGCAACAGAAAAGTCTCCAACAAG  1132
+
+
+>XM_015960012.1 PREDICTED: Nothobranchius furzeri GATA-binding factor 2-like 
+(LOC107385863), mRNA
+Length=1900
+
+ Score = 192 bits (212),  Expect = 4e-44
+ Identities = 251/351 (72%), Gaps = 30/351 (9%)
+ Strand=Plus/Plus
+
+Query  466   AACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGC  525
+             |||||||| || || || || || || |||||||||||||| ||||| ||||||||||||
+Sbjct  1017  AACTGCGGCGCCACAGCCACTCCTCTTTGGCGCCGGGACGGTACCGGACATTACCTGTGC  1076
+
+Query  526   AACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCATC  585
+             |||         ||||| || || ||||||    | |||||||||||| | || || |||
+Sbjct  1077  AAC---------GCCTGTGGACTGTACCACAAGATGAACGGCCAGAACAGACCACTAATC  1127
+
+Query  586   CGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGT  645
+             || ||||| ||| | ||| | || || ||||| ||||| ||         || |    ||
+Sbjct  1128  CGACCCAAGAAGAGACTGATCGTCAGCAAGCGTGCAGGAAC---------CCTC---TGT  1175
+
+Query  646   GAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTC  705
+             |  |||||||| |||  ||| || ||||||||||| |||| | |||  ||||| ||||| 
+Sbjct  1176  GCCAACTGCCACACAAGCACAACAACTCTGTGGCGACGCAACGCCAGCGGGGAGCCCGTG  1235
+
+Query  706   TGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTC  765
+             ||||         | ||||| || || ||||||||||||||| | || ||||| || |||
+Sbjct  1236  TGCA---------ATGCCTGTGGACTTTACTACAAACTGCACAACGTCAACCGGCCTCTC  1286
+
+Query  766   ACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTCCTCCAAG  816
+             || |||   || || || |||||||| || ||| | ||||| |||  ||||
+Sbjct  1287  ACCATGAAGAAGGAGGGGATCCAAACACGCAACAGAAAAGTCTCCAGCAAG  1337
+
+
+>XM_006045697.2 PREDICTED: Bubalus bubalis GATA binding protein 1 (GATA1), mRNA
+Length=1514
+
+ Score = 190 bits (210),  Expect = 1e-43
+ Identities = 262/374 (70%), Gaps = 42/374 (11%)
+ Strand=Plus/Plus
+
+Query  430   CCCTGCGAGGCCCGTGAGTGCGTCATGGCCAGGAAGAACTGCGGAGCGACGGCAACGCCG  489
+             |||||||||||| | || |||||            |||||| ||||| ||||| || || 
+Sbjct  715   CCCTGCGAGGCCAGAGAATGCGT------------GAACTGTGGAGCAACGGCGACACCA  762
+
+Query  490   CTGTGGCGCCGGGACGGCACCGGGCATTACCTGTGCAACTGGGCCTCAGCCTGCGGGCTC  549
+              ||||||| |||||| | || || || |||||||||||          ||||| || |||
+Sbjct  763   TTGTGGCGGCGGGACAGGACAGGCCACTACCTGTGCAA---------TGCCTGTGGCCTC  813
+
+Query  550   TACCACCGCCTCAACGGCCAGAACCGCCCGCTCATCCGCCCCAAAAAGCGCCTGCTGGTG  609
+             || |||    | || || |||||| | || |||||||| ||||| ||||||||| | || 
+Sbjct  814   TATCACAAGATGAATGGGCAGAACAGGCCCCTCATCCGGCCCAAGAAGCGCCTGATTGTC  873
+
+Query  610   AGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAGACATCCACCACC  669
+             || ||  | ||||| ||            | || ||   |||||||||||| ||||||| 
+Sbjct  874   AGCAAAAGGGCAGGGAC------------CCAGTGTACCAACTGCCAGACAACCACCACG  921
+
+Query  670   ACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATTCACGCCTGCGGC  729
+             || ||||||||  | | | |||  |||||||| || ||||         ||||||| |||
+Sbjct  922   ACACTGTGGCGGAGAAACGCCAGCGGGGACCCTGTGTGCA---------ACGCCTGTGGC  972
+
+Query  730   CTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAGACGGAATCCAA  789
+             |||||||||||||| ||||| |||||||| || || || ||| | || || || ||||| 
+Sbjct  973   CTCTACTACAAACTACACCAGGTGAACCGACCACTGACCATGAGGAAGGATGGTATCCAG  1032
+
+Query  790   ACCCGAAACCGCAA  803
+             || |||||||||||
+Sbjct  1033  ACTCGAAACCGCAA  1046
+
+
+>XM_020520108.1 PREDICTED: Rhincodon typus GATA-binding factor 2-like (LOC109920081), 
+mRNA
+Length=2021
+
+ Score = 190 bits (210),  Expect = 1e-43
+ Identities = 246/345 (71%), Gaps = 30/345 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             ||||||||||||||| ||||| |||||||||||  | |||||||| || || || || ||
+Sbjct  855   GAACTGCGGAGCGACAGCAACACCGCTGTGGCGGAGAGACGGCACTGGACACTATCTCTG  914
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+              ||          |||||||| |||||||||    | || ||||||||||| || |||||
+Sbjct  915   TAAT---------GCCTGCGGCCTCTACCACAAAATGAATGGCCAGAACCGACCACTCAT  965
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+               | ||||| |||||| || | || || ||||| |||||||||             || |
+Sbjct  966   TAGGCCCAAGAAGCGCTTGATTGTAAGCAAGCGAGCAGGCACA------------CAGTG  1013
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+             ||  |||||||| ||   ||||||||| || |||||||| | |  ||  || ||||| ||
+Sbjct  1014  TGCCAACTGCCACACCAGCACCACCACGCTATGGCGTCGTAACATCAATGGAGACCCTGT  1073
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+             |||||         |||| || || || ||||||||||||||||| |||||| | || ||
+Sbjct  1074  CTGCA---------ACGCATGTGGGCTGTACTACAAACTGCACCATGTGAACAGACCTCT  1124
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAAAGTTTC  809
+              || |||   || ||||| ||||| ||||| ||||| || || ||
+Sbjct  1125  GACCATGAAGAAGGACGGCATCCAGACCCGCAACCGGAAGGTCTC  1169
+
+
+>XM_014261877.1 PREDICTED: Pseudopodoces humilis GATA binding protein 1 (globin 
+transcription factor 1) (GATA1), transcript variant X2, mRNA
+Length=704
+
+ Score = 189 bits (209),  Expect = 5e-43
+ Identities = 183/239 (77%), Gaps = 21/239 (9%)
+ Strand=Plus/Plus
+
+Query  604  CTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCGTGAAAACTGCCAGACATCC  663
+            |||||||| || || || ||||| |||||||||            |||||||||||   |
+Sbjct  225  CTGGTGAGCAAACGTGCGGGCACGGTGTGCAGC------------AACTGCCAGACCAGC  272
+
+Query  664  ACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGTCTGCAACAACATTCACGCC  723
+            ||||| || |||||||| |||||||||   |||||||||||||||||          |||
+Sbjct  273  ACCACGACCCTGTGGCGCCGCAGCCCCCGCGGGGACCCCGTCTGCAAT---------GCC  323
+
+Query  724  TGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCTCACGATGCGCAAAGACGGA  783
+            ||||| |||||||||||||||||||  |||||||| || || ||||||||||| ||||| 
+Sbjct  324  TGCGGGCTCTACTACAAACTGCACCGGGTGAACCGGCCGCTGACGATGCGCAAGGACGGG  383
+
+Query  784  ATCCAAACCCGAAACCGCAAAGTTTCCTCCAAGGGTAAAAAGCGGCGCCCCCCgggggg  842
+            ||||| ||||| ||||| || || ||  ||||||| || ||||||||||   |||||||
+Sbjct  384  ATCCAGACCCGCAACCGGAAGGTCTCGGCCAAGGGCAAGAAGCGGCGCCAGGCGGGGGG  442
+
+
+>XM_003276829.4 PREDICTED: Nomascus leucogenys GATA binding protein 1 (GATA1), 
+mRNA
+Length=1494
+
+ Score = 188 bits (208),  Expect = 5e-43
+ Identities = 242/339 (71%), Gaps = 30/339 (9%)
+ Strand=Plus/Plus
+
+Query  465   GAACTGCGGAGCGACGGCAACGCCGCTGTGGCGCCGGGACGGCACCGGGCATTACCTGTG  524
+             |||||||||||| || || || || ||||||||  ||||| | || || || ||||| ||
+Sbjct  720   GAACTGCGGAGCAACAGCCACTCCACTGTGGCGGAGGGACAGGACAGGCCACTACCTATG  779
+
+Query  525   CAACTGGGCCTCAGCCTGCGGGCTCTACCACCGCCTCAACGGCCAGAACCGCCCGCTCAT  584
+             ||||         |||||||| ||||| |||    | || || |||||| | || |||||
+Sbjct  780   CAAC---------GCCTGCGGCCTCTATCACAAGATGAATGGGCAGAACAGGCCCCTCAT  830
+
+Query  585   CCGCCCCAAAAAGCGCCTGCTGGTGAGTAAGCGCGCAGGCACAGTGTGCAGCCACGAGCG  644
+             ||| ||||| ||||||||| | || || || || ||||| ||   ||||| |        
+Sbjct  831   CCGGCCCAAGAAGCGCCTGATTGTCAGCAAACGGGCAGGTACTCAGTGCACC--------  882
+
+Query  645   TGAAAACTGCCAGACATCCACCACCACTCTGTGGCGTCGCAGCCCCATGGGGGACCCCGT  704
+                 |||||||||||  ||||||| || ||||||||  | |   |||  ||||| |||||
+Sbjct  883   ----AACTGCCAGACGACCACCACGACACTGTGGCGGAGAAATGCCAGCGGGGATCCCGT  938
+
+Query  705   CTGCAACAACATTCACGCCTGCGGCCTCTACTACAAACTGCACCAAGTGAACCGCCCCCT  764
+              |||||          |||||||||||||||||||| || ||||| |||||||| || ||
+Sbjct  939   GTGCAAT---------GCCTGCGGCCTCTACTACAAGCTACACCAGGTGAACCGGCCACT  989
+
+Query  765   CACGATGCGCAAAGACGGAATCCAAACCCGAAACCGCAA  803
+              || ||||| || || || || || || |||||||||||
+Sbjct  990   GACCATGCGGAAGGATGGTATTCAGACTCGAAACCGCAA  1028
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Dec 10, 2019  10:53 PM
+  Number of letters in database: 253,561,826,700
+  Number of sequences in database:  55,411,115
+
+Lambda      K        H
+   0.634    0.408    0.912 
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+Matrix: blastn matrix:2 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 55411115
+Number of Hits to DB: 31826220
+Number of extensions: 42461
+Number of successful extensions: 42461
+Number of sequences better than 10: 58
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 42434
+Number of HSP's successfully gapped: 81
+Length of query: 1435
+Length of database: 253561826700
+Length adjustment: 39
+Effective length of query: 1396
+Effective length of database: 251400793215
+Effective search space: 350955507328140
+Effective search space used: 350955507328140
+A: 0
+X1: 22 (20.1 bits)
+X2: 33 (29.8 bits)
+X3: 110 (99.2 bits)
+S1: 28 (26.5 bits)
+S2: 49 (45.5 bits)
+
+
